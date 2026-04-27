@@ -1,0 +1,1303 @@
+[
+  {
+    "pokemonName": "Venusaur",
+    "moves": [
+      "Focus Sash    Focus Sash   If the holder has full HP and takes damage from a move that would knock it out in one hit, it will endure the hit with 1 HP. Disappears for the duration of the battle after a single use.",
+      "Sleep Powder",
+      "Leaf Storm",
+      "Sludge Bomb",
+      "Protect"
+    ]
+  },
+  {
+    "pokemonName": "Mega Venusaur",
+    "moves": [
+      "Venusaurite    Venusaurite   A held item that allows Venusaur to Mega Evolve.",
+      "Giga Drain",
+      "Sludge Bomb",
+      "Leech Seed",
+      "Synthesis"
+    ]
+  },
+  {
+    "pokemonName": "Mega Charizard",
+    "moves": [
+      "Flare Blitz",
+      "Earthquake",
+      "Dragon Claw",
+      "Dragon Dance"
+    ]
+  },
+  {
+    "pokemonName": "Mega Charizard",
+    "moves": [
+      "Weather Ball",
+      "Solar Beam",
+      "Scorching Sands",
+      "Roost"
+    ]
+  },
+  {
+    "pokemonName": "Mega Charizard",
+    "moves": [
+      "Heat Wave",
+      "Solar Beam",
+      "Weather Ball",
+      "Protect"
+    ]
+  },
+  {
+    "pokemonName": "Mega Charizard",
+    "moves": [
+      "Overheat",
+      "Solar Beam",
+      "Scorching Sands",
+      "Ancient Power"
+    ]
+  },
+  {
+    "pokemonName": "Mega Blastoise",
+    "moves": [
+      "Blastoisinite    Blastoisinite   A held item that allows Blastoise to Mega Evolve.",
+      "Water Pulse",
+      "Aura Sphere",
+      "Ice Beam",
+      "Shell Smash"
+    ]
+  },
+  {
+    "pokemonName": "Clefable",
+    "moves": [
+      "Calm Mind",
+      "Stored Power",
+      "Moonblast",
+      "Moonlight"
+    ]
+  },
+  {
+    "pokemonName": "Charizard",
+    "moves": [
+      "Clefablite    Clefablite   A held item that allows Clefable to Mega Evolve.",
+      "Calm Mind",
+      "Stored Power",
+      "Moonblast",
+      "Moonlight"
+    ]
+  },
+  {
+    "pokemonName": "Ninetales",
+    "moves": [
+      "Charcoal    Charcoal   Boosts the power of the holder's Fire-type moves by 20%.",
+      "Will-O-Wisp",
+      "Protect",
+      "Encore",
+      "Heat Wave"
+    ]
+  },
+  {
+    "pokemonName": "Ninetales",
+    "moves": [
+      "Babiri Berry    Babiri Berry   Halves the damage taken when the holder is hit with a supereffective Steel-type move. Disappears for the duration of the battle after a single use.",
+      "Aurora Veil",
+      "Blizzard",
+      "Encore",
+      "Moonblast"
+    ]
+  },
+  {
+    "pokemonName": "Mega Victreebel",
+    "moves": [
+      "Victreebelite    Victreebelite   A held item that allows Victreebel to Mega Evolve.",
+      "Leaf Storm",
+      "Sludge Bomb",
+      "Sucker Punch",
+      "Strength Sap"
+    ]
+  },
+  {
+    "pokemonName": "Mega Victreebel",
+    "moves": [
+      "Victreebelite    Victreebelite   A held item that allows Victreebel to Mega Evolve.",
+      "Giga Drain",
+      "Acid Spray",
+      "Stockpile",
+      "Strength Sap"
+    ]
+  },
+  {
+    "pokemonName": "Mega Gengar",
+    "moves": [
+      "Gengarite    Gengarite   A held item that allows Gengar to Mega Evolve.",
+      "Perish Song",
+      "Disable",
+      "Sludge Bomb",
+      "Protect"
+    ]
+  },
+  {
+    "pokemonName": "Mega Gengar",
+    "moves": [
+      "Gengarite    Gengarite   A held item that allows Gengar to Mega Evolve.",
+      "Shadow Ball",
+      "Sludge Bomb",
+      "Will-O-Wisp",
+      "Protect"
+    ]
+  },
+  {
+    "pokemonName": "Mega Kangaskhan",
+    "moves": [
+      "Kangaskhanite    Kangaskhanite   A held item that allows Kangaskhan to Mega Evolve.",
+      "Double-Edge",
+      "Sucker Punch",
+      "Fake Out",
+      "Protect"
+    ]
+  },
+  {
+    "pokemonName": "Mega Starmie",
+    "moves": [
+      "Starminite    Starminite   A held item that allows Starmie to Mega Evolve.",
+      "Liquidation",
+      "Zen Headbutt",
+      "Aqua Jet",
+      "Flip Turn"
+    ]
+  },
+  {
+    "pokemonName": "Mega Starmie",
+    "moves": [
+      "Starminite    Starminite   A held item that allows Starmie to Mega Evolve.",
+      "Liquidation",
+      "Zen Headbutt",
+      "Bulk Up",
+      "Recover"
+    ]
+  },
+  {
+    "pokemonName": "Mega Starmie",
+    "moves": [
+      "Starminite    Starminite   A held item that allows Starmie to Mega Evolve.",
+      "Liquidation",
+      "Zen Headbutt",
+      "Aqua Jet",
+      "Protect"
+    ]
+  },
+  {
+    "pokemonName": "Mega Gyarados",
+    "moves": [
+      "Gyaradosite    Gyaradosite   A held item that allows Gyarados to Mega Evolve.",
+      "Waterfall",
+      "Ice Fang",
+      "Earthquake",
+      "Dragon Dance"
+    ]
+  },
+  {
+    "pokemonName": "Dragonite",
+    "moves": [
+      "Lum Berry    Lum Berry   Cures any status condition or confusion. Disappears for the duration of the battle after a single use.",
+      "Scale Shot",
+      "Extreme Speed",
+      "Haze",
+      "Protect"
+    ]
+  },
+  {
+    "pokemonName": "Mega Dragonite",
+    "moves": [
+      "Dragoninite    Dragoninite   A held item that allows Dragonite to Mega Evolve.",
+      "Draco Meteor",
+      "Hurricane",
+      "Tailwind",
+      "Protect"
+    ]
+  },
+  {
+    "pokemonName": "Mega Meganium",
+    "moves": [
+      "Meganiumite    Meganiumite   A held item that allows Meganium to Mega Evolve.",
+      "Solar Beam",
+      "Dazzling Gleam",
+      "Weather Ball",
+      "Protect"
+    ]
+  },
+  {
+    "pokemonName": "Mega Meganium",
+    "moves": [
+      "Meganiumite    Meganiumite   A held item that allows Meganium to Mega Evolve.",
+      "Giga Drain",
+      "Earth Power",
+      "Leech Seed",
+      "Synthesis"
+    ]
+  },
+  {
+    "pokemonName": "Mega Feraligatr",
+    "moves": [
+      "Feraligite    Feraligite   A held item that allows Feraligatr to Mega Evolve.",
+      "Liquidation",
+      "Aqua Jet",
+      "Body Slam",
+      "Swords Dance"
+    ]
+  },
+  {
+    "pokemonName": "Azumarill",
+    "moves": [
+      "Sitrus Berry    Sitrus Berry   Restores 1/4 of the holder's max HP when the holder's HP drops to 1/2 or less of its max. Disappears for the duration of the battle after a single use.",
+      "Knock Off",
+      "Aqua Jet",
+      "Belly Drum",
+      "Play Rough"
+    ]
+  },
+  {
+    "pokemonName": "Politoed",
+    "moves": [
+      "Leftovers    Leftovers   Restores 1/16 of the holder's max HP at the end of every turn.",
+      "Perish Song",
+      "Whirlpool",
+      "Substitute",
+      "Hypnosis"
+    ]
+  },
+  {
+    "pokemonName": "Politoed",
+    "moves": [
+      "Leftovers    Leftovers   Restores 1/16 of the holder's max HP at the end of every turn.",
+      "Muddy Water",
+      "Encore",
+      "Helping Hand",
+      "Hypnosis"
+    ]
+  },
+  {
+    "pokemonName": "Politoed",
+    "moves": [
+      "Leftovers    Leftovers   Restores 1/16 of the holder's max HP at the end of every turn.",
+      "Perish Song",
+      "Encore",
+      "Muddy Water",
+      "Protect"
+    ]
+  },
+  {
+    "pokemonName": "Mega Scizor",
+    "moves": [
+      "Scizorite    Scizorite   A held item that allows Scizor to Mega Evolve.",
+      "Swords Dance",
+      "U-turn",
+      "Knock Off",
+      "Bullet Punch"
+    ]
+  },
+  {
+    "pokemonName": "Skarmory",
+    "moves": [
+      "Leftovers    Leftovers   Restores 1/16 of the holder's max HP at the end of every turn.",
+      "Body Press",
+      "Iron Defense",
+      "Spikes",
+      "Roost"
+    ]
+  },
+  {
+    "pokemonName": "Mega Skarmory",
+    "moves": [
+      "Skarmorite    Skarmorite   A held item that allows Skarmory to Mega Evolve.",
+      "Brave Bird",
+      "Iron Head",
+      "Swords Dance",
+      "Protect"
+    ]
+  },
+  {
+    "pokemonName": "Tyranitar",
+    "moves": [
+      "Sitrus Berry    Sitrus Berry   Restores 1/4 of the holder's max HP when the holder's HP drops to 1/2 or less of its max. Disappears for the duration of the battle after a single use.",
+      "Lash Out",
+      "Rock Slide",
+      "Low Kick",
+      "Protect"
+    ]
+  },
+  {
+    "pokemonName": "Mega Tyranitar",
+    "moves": [
+      "Tyranitarite    Tyranitarite   A held item that allows Tyranitar to Mega Evolve.",
+      "Rock Slide",
+      "Low Kick",
+      "Dragon Dance",
+      "Protect"
+    ]
+  },
+  {
+    "pokemonName": "Mega Tyranitar",
+    "moves": [
+      "Tyranitarite    Tyranitarite   A held item that allows Tyranitar to Mega Evolve.",
+      "Crunch",
+      "Rock Slide",
+      "Low Kick",
+      "Dragon Dance"
+    ]
+  },
+  {
+    "pokemonName": "Pelipper",
+    "moves": [
+      "Focus Sash    Focus Sash   If the holder has full HP and takes damage from a move that would knock it out in one hit, it will endure the hit with 1 HP. Disappears for the duration of the battle after a single use.",
+      "Muddy Water",
+      "Hurricane",
+      "Tailwind",
+      "Protect"
+    ]
+  },
+  {
+    "pokemonName": "Mega Gardevoir",
+    "moves": [
+      "Gardevoirite    Gardevoirite   A held item that allows Gardevoir to Mega Evolve.",
+      "Hyper Voice",
+      "Psyshock",
+      "Mystical Fire",
+      "Protect"
+    ]
+  },
+  {
+    "pokemonName": "Mega Aggron",
+    "moves": [
+      "Aggronite    Aggronite   A held item that allows Aggron to Mega Evolve.",
+      "Heavy Slam",
+      "Stealth Rock",
+      "Thunder Wave",
+      "Roar"
+    ]
+  },
+  {
+    "pokemonName": "Mega Medicham",
+    "moves": [
+      "Medichamite    Medichamite   A held item that allows Medicham to Mega Evolve.",
+      "High Jump Kick",
+      "Zen Headbutt",
+      "Close Combat",
+      "Fake Out"
+    ]
+  },
+  {
+    "pokemonName": "Mega Manectric",
+    "moves": [
+      "Manectite    Manectite   A held item that allows Manectric to Mega Evolve.",
+      "Thunderbolt",
+      "Volt Switch",
+      "Overheat",
+      "Protect"
+    ]
+  },
+  {
+    "pokemonName": "Torkoal",
+    "moves": [
+      "Charcoal    Charcoal   Boosts the power of the holder's Fire-type moves by 20%.",
+      "Eruption",
+      "Heat Wave",
+      "Earth Power",
+      "Protect"
+    ]
+  },
+  {
+    "pokemonName": "Milotic",
+    "moves": [
+      "Leftovers    Leftovers   Restores 1/16 of the holder's max HP at the end of every turn.",
+      "Scald",
+      "Helping Hand",
+      "Icy Wind",
+      "Life Dew"
+    ]
+  },
+  {
+    "pokemonName": "Mega Chimecho",
+    "moves": [
+      "Chimechite    Chimechite   A held item that allows Chimecho to Mega Evolve.",
+      "Psychic Noise",
+      "Flash Cannon",
+      "Calm Mind",
+      "Recover"
+    ]
+  },
+  {
+    "pokemonName": "Empoleon",
+    "moves": [
+      "Leftovers    Leftovers   Restores 1/16 of the holder's max HP at the end of every turn.",
+      "Surf",
+      "Flip Turn",
+      "Yawn",
+      "Stealth Rock"
+    ]
+  },
+  {
+    "pokemonName": "Garchomp",
+    "moves": [
+      "Choice Scarf    Choice Scarf   Boosts the holder's Speed stat by 50%. However, once the holder uses a move, it becomes unable to use any other move but the one until it switches out of battle.",
+      "Dragon Claw",
+      "Earthquake",
+      "Rock Slide",
+      "Stomping Tantrum"
+    ]
+  },
+  {
+    "pokemonName": "Garchomp",
+    "moves": [
+      "Focus Sash    Focus Sash   If the holder has full HP and takes damage from a move that would knock it out in one hit, it will endure the hit with 1 HP. Disappears for the duration of the battle after a single use.",
+      "Dragon Claw",
+      "Earthquake",
+      "Rock Slide",
+      "Protect"
+    ]
+  },
+  {
+    "pokemonName": "Garchomp",
+    "moves": [
+      "Choice Scarf    Choice Scarf   Boosts the holder's Speed stat by 50%. However, once the holder uses a move, it becomes unable to use any other move but the one until it switches out of battle.",
+      "Outrage",
+      "Earthquake",
+      "Stone Edge",
+      "Dragon Claw"
+    ]
+  },
+  {
+    "pokemonName": "Garchomp",
+    "moves": [
+      "Choice Scarf    Choice Scarf   Boosts the holder's Speed stat by 50%. However, once the holder uses a move, it becomes unable to use any other move but the one until it switches out of battle.",
+      "Rock Slide",
+      "Dragon Claw",
+      "Earthquake",
+      "Bulldoze"
+    ]
+  },
+  {
+    "pokemonName": "Garchomp",
+    "moves": [
+      "White Herb    White Herb   Restores the holder's stats to their usual value when they are lowered. Disappears for the duration of the battle after a single use.",
+      "Dragon Claw",
+      "Earthquake",
+      "Rock Slide",
+      "Protect"
+    ]
+  },
+  {
+    "pokemonName": "Mega Lucario",
+    "moves": [
+      "Close Combat",
+      "Bullet Punch",
+      "Earthquake",
+      "Swords Dance"
+    ]
+  },
+  {
+    "pokemonName": "Mega Lucario",
+    "moves": [
+      "Focus Blast",
+      "Flash Cannon",
+      "Vacuum Wave",
+      "Nasty Plot"
+    ]
+  },
+  {
+    "pokemonName": "Hippowdon",
+    "moves": [
+      "Leftovers    Leftovers   Restores 1/16 of the holder's max HP at the end of every turn.",
+      "Whirlwind",
+      "Slack Off",
+      "Earthquake",
+      "Stealth Rock"
+    ]
+  },
+  {
+    "pokemonName": "Charizard",
+    "moves": [
+      "Mental Herb    Mental Herb   Cures the holder of the Infatuated, Taunted, Unable to Repeat, Move Disabled, Healing Prevented, and Encore statuses. Disappears for the duration of the battle after a single use.",
+      "Stealth Rock",
+      "Yawn",
+      "Slack Off"
+    ]
+  },
+  {
+    "pokemonName": "Weavile",
+    "moves": [
+      "Focus Sash    Focus Sash   If the holder has full HP and takes damage from a move that would knock it out in one hit, it will endure the hit with 1 HP. Disappears for the duration of the battle after a single use.",
+      "Knock Off",
+      "Triple Axel",
+      "Low Kick",
+      "Fake Out"
+    ]
+  },
+  {
+    "pokemonName": "Mamoswine",
+    "moves": [
+      "Leftovers    Leftovers   Restores 1/16 of the holder's max HP at the end of every turn.",
+      "Earthquake",
+      "Ice Shard",
+      "Icicle Crash",
+      "Stealth Rock"
+    ]
+  },
+  {
+    "pokemonName": "Gallade",
+    "moves": [
+      "Focus Sash    Focus Sash   If the holder has full HP and takes damage from a move that would knock it out in one hit, it will endure the hit with 1 HP. Disappears for the duration of the battle after a single use.",
+      "Sacred Sword",
+      "Psycho Cut",
+      "Shadow Sneak",
+      "Leaf Blade"
+    ]
+  },
+  {
+    "pokemonName": "Mega Gallade",
+    "moves": [
+      "Galladite    Galladite   A held item that allows Gallade to Mega Evolve.",
+      "Psycho Cut",
+      "Close Combat",
+      "Shadow Sneak",
+      "Swords Dance"
+    ]
+  },
+  {
+    "pokemonName": "Mega Froslass",
+    "moves": [
+      "Froslassite    Froslassite   A held item that allows Froslass to Mega Evolve.",
+      "Blizzard",
+      "Shadow Ball",
+      "Thunderbolt",
+      "Protect"
+    ]
+  },
+  {
+    "pokemonName": "Mega Froslass",
+    "moves": [
+      "Froslassite    Froslassite   A held item that allows Froslass to Mega Evolve.",
+      "Blizzard",
+      "Shadow Ball",
+      "Aurora Veil",
+      "Protect"
+    ]
+  },
+  {
+    "pokemonName": "Rotom",
+    "moves": [
+      "Choice Scarf    Choice Scarf   Boosts the holder's Speed stat by 50%. However, once the holder uses a move, it becomes unable to use any other move but the one until it switches out of battle.",
+      "Overheat",
+      "Volt Switch",
+      "Trick",
+      "Will-O-Wisp"
+    ]
+  },
+  {
+    "pokemonName": "Rotom",
+    "moves": [
+      "Sitrus Berry    Sitrus Berry   Restores 1/4 of the holder's max HP when the holder's HP drops to 1/2 or less of its max. Disappears for the duration of the battle after a single use.",
+      "Will-O-Wisp",
+      "Volt Switch",
+      "Overheat",
+      "Foul Play"
+    ]
+  },
+  {
+    "pokemonName": "Rotom",
+    "moves": [
+      "Sitrus Berry    Sitrus Berry   Restores 1/4 of the holder's max HP when the holder's HP drops to 1/2 or less of its max. Disappears for the duration of the battle after a single use.",
+      "Thunderbolt",
+      "Hydro Pump",
+      "Will-O-Wisp",
+      "Protect"
+    ]
+  },
+  {
+    "pokemonName": "Rotom",
+    "moves": [
+      "Leftovers    Leftovers   Restores 1/16 of the holder's max HP at the end of every turn.",
+      "Volt Switch",
+      "Hydro Pump",
+      "Will-O-Wisp",
+      "Pain Split"
+    ]
+  },
+  {
+    "pokemonName": "Rotom",
+    "moves": [
+      "Leftovers    Leftovers   Restores 1/16 of the holder's max HP at the end of every turn.",
+      "Hydro Pump",
+      "Thunderbolt",
+      "Will-O-Wisp",
+      "Protect"
+    ]
+  },
+  {
+    "pokemonName": "Charizard",
+    "moves": [
+      "Sitrus Berry    Sitrus Berry   Restores 1/4 of the holder's max HP when the holder's HP drops to 1/2 or less of its max. Disappears for the duration of the battle after a single use.",
+      "Thunderbolt",
+      "Hydro Pump",
+      "Will-O-Wisp",
+      "Volt Switch"
+    ]
+  },
+  {
+    "pokemonName": "Rotom",
+    "moves": [
+      "Leftovers    Leftovers   Restores 1/16 of the holder's max HP at the end of every turn.",
+      "Thunderbolt",
+      "Hydro Pump",
+      "Will-O-Wisp",
+      "Protect"
+    ]
+  },
+  {
+    "pokemonName": "Rotom",
+    "moves": [
+      "Sitrus Berry    Sitrus Berry   Restores 1/4 of the holder's max HP when the holder's HP drops to 1/2 or less of its max. Disappears for the duration of the battle after a single use.",
+      "Blizzard",
+      "Thunderbolt",
+      "Volt Switch",
+      "Will-O-Wisp"
+    ]
+  },
+  {
+    "pokemonName": "Excadrill",
+    "moves": [
+      "Lum Berry    Lum Berry   Cures any status condition or confusion. Disappears for the duration of the battle after a single use.",
+      "Earthquake",
+      "Iron Head",
+      "Rock Slide",
+      "Protect"
+    ]
+  },
+  {
+    "pokemonName": "Excadrill",
+    "moves": [
+      "Focus Sash    Focus Sash   If the holder has full HP and takes damage from a move that would knock it out in one hit, it will endure the hit with 1 HP. Disappears for the duration of the battle after a single use.",
+      "Earthquake",
+      "Horn Drill",
+      "Fissure",
+      "Protect"
+    ]
+  },
+  {
+    "pokemonName": "Mega Excadrill",
+    "moves": [
+      "Excadrite    Excadrite   A held item that allows Excadrill to Mega Evolve.",
+      "Earthquake",
+      "Iron Head",
+      "Swords Dance",
+      "Protect"
+    ]
+  },
+  {
+    "pokemonName": "Excadrill",
+    "moves": [
+      "Focus Sash    Focus Sash   If the holder has full HP and takes damage from a move that would knock it out in one hit, it will endure the hit with 1 HP. Disappears for the duration of the battle after a single use.",
+      "Earthquake",
+      "Iron Head",
+      "Stealth Rock",
+      "Rapid Spin"
+    ]
+  },
+  {
+    "pokemonName": "Whimsicott",
+    "moves": [
+      "Leftovers    Leftovers   Restores 1/16 of the holder's max HP at the end of every turn.",
+      "Leech Seed",
+      "Substitute",
+      "Moonblast",
+      "Protect"
+    ]
+  },
+  {
+    "pokemonName": "Zoroark",
+    "moves": [
+      "Focus Sash    Focus Sash   If the holder has full HP and takes damage from a move that would knock it out in one hit, it will endure the hit with 1 HP. Disappears for the duration of the battle after a single use.",
+      "Bitter Malice",
+      "Nasty Plot",
+      "Hyper Voice",
+      "Shadow Sneak"
+    ]
+  },
+  {
+    "pokemonName": "Mega Golurk",
+    "moves": [
+      "Golurkite    Golurkite   A held item that allows Golurk to Mega Evolve.",
+      "Poltergeist",
+      "Earthquake",
+      "Ice Punch",
+      "Drain Punch"
+    ]
+  },
+  {
+    "pokemonName": "Hydreigon",
+    "moves": [
+      "Choice Scarf    Choice Scarf   Boosts the holder's Speed stat by 50%. However, once the holder uses a move, it becomes unable to use any other move but the one until it switches out of battle.",
+      "Draco Meteor",
+      "Dark Pulse",
+      "Flamethrower",
+      "Earth Power"
+    ]
+  },
+  {
+    "pokemonName": "Volcarona",
+    "moves": [
+      "Sitrus Berry    Sitrus Berry   Restores 1/4 of the holder's max HP when the holder's HP drops to 1/2 or less of its max. Disappears for the duration of the battle after a single use.",
+      "Giga Drain",
+      "Fiery Dance",
+      "Quiver Dance",
+      "Bug Buzz"
+    ]
+  },
+  {
+    "pokemonName": "Mega Chesnaught",
+    "moves": [
+      "Chesnaughtite    Chesnaughtite   A held item that allows Chesnaught to Mega Evolve.",
+      "Body Press",
+      "Iron Defense",
+      "Synthesis",
+      "Knock Off"
+    ]
+  },
+  {
+    "pokemonName": "Mega Delphox",
+    "moves": [
+      "Delphoxite    Delphoxite   A held item that allows Delphox to Mega Evolve.",
+      "Psychic",
+      "Flamethrower",
+      "Dazzling Gleam",
+      "Nasty Plot"
+    ]
+  },
+  {
+    "pokemonName": "Mega Delphox",
+    "moves": [
+      "Delphoxite    Delphoxite   A held item that allows Delphox to Mega Evolve.",
+      "Heat Wave",
+      "Psychic",
+      "Substitute",
+      "Protect"
+    ]
+  },
+  {
+    "pokemonName": "Greninja",
+    "moves": [
+      "Choice Scarf    Choice Scarf   Boosts the holder's Speed stat by 50%. However, once the holder uses a move, it becomes unable to use any other move but the one until it switches out of battle.",
+      "Hydro Pump",
+      "U-turn",
+      "Rock Slide",
+      "Liquidation"
+    ]
+  },
+  {
+    "pokemonName": "Mega Greninja",
+    "moves": [
+      "Greninjite    Greninjite   A held item that allows Greninja to Mega Evolve.",
+      "Water Shuriken",
+      "Ice Beam",
+      "Dark Pulse",
+      "Grass Knot"
+    ]
+  },
+  {
+    "pokemonName": "Vivillon",
+    "moves": [
+      "Focus Sash    Focus Sash   If the holder has full HP and takes damage from a move that would knock it out in one hit, it will endure the hit with 1 HP. Disappears for the duration of the battle after a single use.",
+      "Hurricane",
+      "Sleep Powder",
+      "Tailwind",
+      "Protect"
+    ]
+  },
+  {
+    "pokemonName": "Mega Floette",
+    "moves": [
+      "Floettite    Floettite   A held item that allows Floette to Mega Evolve.",
+      "Moonblast",
+      "Dazzling Gleam",
+      "Psychic",
+      "Calm Mind"
+    ]
+  },
+  {
+    "pokemonName": "Mega Floette",
+    "moves": [
+      "Floettite    Floettite   A held item that allows Floette to Mega Evolve.",
+      "Moonblast",
+      "Dazzling Gleam",
+      "Calm Mind",
+      "Protect"
+    ]
+  },
+  {
+    "pokemonName": "Meowstic",
+    "moves": [
+      "Psychic",
+      "Alluring Voice",
+      "Dark Pulse",
+      "Nasty Plot"
+    ]
+  },
+  {
+    "pokemonName": "Aegislash",
+    "moves": [
+      "Spell Tag    Spell Tag   Boosts the power of the holder's Ghost-type moves by 20%.",
+      "Iron Head",
+      "Shadow Claw",
+      "Shadow Sneak",
+      "King's Shield"
+    ]
+  },
+  {
+    "pokemonName": "Mega Hawlucha",
+    "moves": [
+      "Hawluchanite    Hawluchanite   A held item that allows Hawlucha to Mega Evolve.",
+      "Entrainment",
+      "Taunt",
+      "Quick Guard",
+      "Brave Bird"
+    ]
+  },
+  {
+    "pokemonName": "Incineroar",
+    "moves": [
+      "Sitrus Berry    Sitrus Berry   Restores 1/4 of the holder's max HP when the holder's HP drops to 1/2 or less of its max. Disappears for the duration of the battle after a single use.",
+      "Flare Blitz",
+      "Parting Shot",
+      "Helping Hand",
+      "Fake Out"
+    ]
+  },
+  {
+    "pokemonName": "Incineroar",
+    "moves": [
+      "Sitrus Berry    Sitrus Berry   Restores 1/4 of the holder's max HP when the holder's HP drops to 1/2 or less of its max. Disappears for the duration of the battle after a single use.",
+      "Darkest Lariat",
+      "Flare Blitz",
+      "Fake Out",
+      "Parting Shot"
+    ]
+  },
+  {
+    "pokemonName": "Incineroar",
+    "moves": [
+      "Sitrus Berry    Sitrus Berry   Restores 1/4 of the holder's max HP when the holder's HP drops to 1/2 or less of its max. Disappears for the duration of the battle after a single use.",
+      "Flare Blitz",
+      "Parting Shot",
+      "Fake Out",
+      "Protect"
+    ]
+  },
+  {
+    "pokemonName": "Primarina",
+    "moves": [
+      "Leftovers    Leftovers   Restores 1/16 of the holder's max HP at the end of every turn.",
+      "Calm Mind",
+      "Sparkling Aria",
+      "Psychic",
+      "Moonblast"
+    ]
+  },
+  {
+    "pokemonName": "Mega Crabominable",
+    "moves": [
+      "Crabominite    Crabominite   A held item that allows Crabominable to Mega Evolve.",
+      "Ice Hammer",
+      "Drain Punch",
+      "Mach Punch",
+      "Bulk Up"
+    ]
+  },
+  {
+    "pokemonName": "Toxapex",
+    "moves": [
+      "Leftovers    Leftovers   Restores 1/16 of the holder's max HP at the end of every turn.",
+      "Baneful Bunker",
+      "Toxic",
+      "Recover",
+      "Infestation"
+    ]
+  },
+  {
+    "pokemonName": "Mimikyu",
+    "moves": [
+      "Spell Tag    Spell Tag   Boosts the power of the holder's Ghost-type moves by 20%.",
+      "Play Rough",
+      "Shadow Claw",
+      "Shadow Sneak",
+      "Swords Dance"
+    ]
+  },
+  {
+    "pokemonName": "Mimikyu",
+    "moves": [
+      "Lum Berry    Lum Berry   Cures any status condition or confusion. Disappears for the duration of the battle after a single use.",
+      "Play Rough",
+      "Shadow Claw",
+      "Curse",
+      "Trick Room"
+    ]
+  },
+  {
+    "pokemonName": "Corviknight",
+    "moves": [
+      "Leftovers    Leftovers   Restores 1/16 of the holder's max HP at the end of every turn.",
+      "Brave Bird",
+      "U-turn",
+      "Taunt",
+      "Roost"
+    ]
+  },
+  {
+    "pokemonName": "Corviknight",
+    "moves": [
+      "Sitrus Berry    Sitrus Berry   Restores 1/4 of the holder's max HP when the holder's HP drops to 1/2 or less of its max. Disappears for the duration of the battle after a single use.",
+      "Iron Head",
+      "U-turn",
+      "Body Press",
+      "Roost"
+    ]
+  },
+  {
+    "pokemonName": "Hatterene",
+    "moves": [
+      "Focus Sash    Focus Sash   If the holder has full HP and takes damage from a move that would knock it out in one hit, it will endure the hit with 1 HP. Disappears for the duration of the battle after a single use.",
+      "Trick Room",
+      "Dazzling Gleam",
+      "Calm Mind",
+      "Psychic"
+    ]
+  },
+  {
+    "pokemonName": "Hatterene",
+    "moves": [
+      "Focus Sash    Focus Sash   If the holder has full HP and takes damage from a move that would knock it out in one hit, it will endure the hit with 1 HP. Disappears for the duration of the battle after a single use.",
+      "Healing Wish",
+      "Nuzzle",
+      "Reflect",
+      "Light Screen"
+    ]
+  },
+  {
+    "pokemonName": "Dragapult",
+    "moves": [
+      "Focus Sash    Focus Sash   If the holder has full HP and takes damage from a move that would knock it out in one hit, it will endure the hit with 1 HP. Disappears for the duration of the battle after a single use.",
+      "Hex",
+      "Draco Meteor",
+      "Thunder Wave",
+      "Will-O-Wisp"
+    ]
+  },
+  {
+    "pokemonName": "Dragapult",
+    "moves": [
+      "White Herb    White Herb   Restores the holder's stats to their usual value when they are lowered. Disappears for the duration of the battle after a single use.",
+      "Draco Meteor",
+      "Shadow Ball",
+      "Fire Blast",
+      "Hydro Pump"
+    ]
+  },
+  {
+    "pokemonName": "Basculegion",
+    "moves": [
+      "Mystic Water    Mystic Water   Boosts the power of the holder's Water-type moves by 20%.",
+      "Wave Crash",
+      "Last Respects",
+      "Flip Turn",
+      "Aqua Jet"
+    ]
+  },
+  {
+    "pokemonName": "Basculegion",
+    "moves": [
+      "Focus Sash    Focus Sash   If the holder has full HP and takes damage from a move that would knock it out in one hit, it will endure the hit with 1 HP. Disappears for the duration of the battle after a single use.",
+      "Wave Crash",
+      "Last Respects",
+      "Ice Fang",
+      "Aqua Jet"
+    ]
+  },
+  {
+    "pokemonName": "Basculegion",
+    "moves": [
+      "Choice Scarf    Choice Scarf   Boosts the holder's Speed stat by 50%. However, once the holder uses a move, it becomes unable to use any other move but the one until it switches out of battle.",
+      "Wave Crash",
+      "Last Respects",
+      "Flip Turn",
+      "Aqua Jet"
+    ]
+  },
+  {
+    "pokemonName": "Sneasler",
+    "moves": [
+      "White Herb    White Herb   Restores the holder's stats to their usual value when they are lowered. Disappears for the duration of the battle after a single use.",
+      "Dire Claw",
+      "Close Combat",
+      "Fake Out",
+      "Coaching"
+    ]
+  },
+  {
+    "pokemonName": "Sneasler",
+    "moves": [
+      "White Herb    White Herb   Restores the holder's stats to their usual value when they are lowered. Disappears for the duration of the battle after a single use.",
+      "Dire Claw",
+      "Close Combat",
+      "Rock Tomb",
+      "Fake Out"
+    ]
+  },
+  {
+    "pokemonName": "Sneasler",
+    "moves": [
+      "White Herb    White Herb   Restores the holder's stats to their usual value when they are lowered. Disappears for the duration of the battle after a single use.",
+      "Dire Claw",
+      "Close Combat",
+      "Fake Out",
+      "Protect"
+    ]
+  },
+  {
+    "pokemonName": "Meowscarada",
+    "moves": [
+      "Focus Sash    Focus Sash   If the holder has full HP and takes damage from a move that would knock it out in one hit, it will endure the hit with 1 HP. Disappears for the duration of the battle after a single use.",
+      "Flower Trick",
+      "Sucker Punch",
+      "Knock Off",
+      "Protect"
+    ]
+  },
+  {
+    "pokemonName": "Charizard",
+    "moves": [
+      "Focus Sash    Focus Sash   If the holder has full HP and takes damage from a move that would knock it out in one hit, it will endure the hit with 1 HP. Disappears for the duration of the battle after a single use.",
+      "Flower Trick",
+      "Knock Off",
+      "Triple Axel",
+      "U-turn"
+    ]
+  },
+  {
+    "pokemonName": "Skeledirge",
+    "moves": [
+      "Leftovers    Leftovers   Restores 1/16 of the holder's max HP at the end of every turn.",
+      "Slack Off",
+      "Shadow Ball",
+      "Torch Song",
+      "Substitute"
+    ]
+  },
+  {
+    "pokemonName": "Garganacl",
+    "moves": [
+      "Leftovers    Leftovers   Restores 1/16 of the holder's max HP at the end of every turn.",
+      "Recover",
+      "Salt Cure",
+      "Body Press",
+      "Stealth Rock"
+    ]
+  },
+  {
+    "pokemonName": "Ceruledge",
+    "moves": [
+      "Focus Sash    Focus Sash   If the holder has full HP and takes damage from a move that would knock it out in one hit, it will endure the hit with 1 HP. Disappears for the duration of the battle after a single use.",
+      "Bitter Blade",
+      "Shadow Claw",
+      "Shadow Sneak",
+      "Swords Dance"
+    ]
+  },
+  {
+    "pokemonName": "Mega Scovillain",
+    "moves": [
+      "Scovillainite    Scovillainite   A held item that allows Scovillain to Mega Evolve.",
+      "Flamethrower",
+      "Leaf Storm",
+      "Flare Blitz",
+      "Protect"
+    ]
+  },
+  {
+    "pokemonName": "Mega Scovillain",
+    "moves": [
+      "Scovillainite    Scovillainite   A held item that allows Scovillain to Mega Evolve.",
+      "Flamethrower",
+      "Leech Seed",
+      "Giga Drain",
+      "Protect"
+    ]
+  },
+  {
+    "pokemonName": "Espathra",
+    "moves": [
+      "Focus Sash    Focus Sash   If the holder has full HP and takes damage from a move that would knock it out in one hit, it will endure the hit with 1 HP. Disappears for the duration of the battle after a single use.",
+      "Protect",
+      "Baton Pass",
+      "Calm Mind",
+      "Lumina Crash"
+    ]
+  },
+  {
+    "pokemonName": "Tinkaton",
+    "moves": [
+      "Focus Sash    Focus Sash   If the holder has full HP and takes damage from a move that would knock it out in one hit, it will endure the hit with 1 HP. Disappears for the duration of the battle after a single use.",
+      "Gigaton Hammer",
+      "Play Rough",
+      "Stealth Rock",
+      "Encore"
+    ]
+  },
+  {
+    "pokemonName": "Palafin",
+    "moves": [
+      "Choice Scarf    Choice Scarf   Boosts the holder's Speed stat by 50%. However, once the holder uses a move, it becomes unable to use any other move but the one until it switches out of battle.",
+      "Wave Crash",
+      "Close Combat",
+      "Ice Punch",
+      "Flip Turn"
+    ]
+  },
+  {
+    "pokemonName": "Palafin",
+    "moves": [
+      "Mystic Water    Mystic Water   Boosts the power of the holder's Water-type moves by 20%.",
+      "Drain Punch",
+      "Bulk Up",
+      "Jet Punch",
+      "Taunt"
+    ]
+  },
+  {
+    "pokemonName": "Orthworm",
+    "moves": [
+      "Sitrus Berry    Sitrus Berry   Restores 1/4 of the holder's max HP when the holder's HP drops to 1/2 or less of its max. Disappears for the duration of the battle after a single use.",
+      "Shed Tail",
+      "Stealth Rock",
+      "Body Press",
+      "Iron Head"
+    ]
+  },
+  {
+    "pokemonName": "Glimmora",
+    "moves": [
+      "Focus Sash    Focus Sash   If the holder has full HP and takes damage from a move that would knock it out in one hit, it will endure the hit with 1 HP. Disappears for the duration of the battle after a single use.",
+      "Stealth Rock",
+      "Mortal Spin",
+      "Spikes",
+      "Explosion"
+    ]
+  },
+  {
+    "pokemonName": "Mega Glimmora",
+    "moves": [
+      "Glimmoranite    Glimmoranite   A held item that allows Glimmora to Mega Evolve.",
+      "Sludge Wave",
+      "Power Gem",
+      "Energy Ball",
+      "Spiky Shield"
+    ]
+  },
+  {
+    "pokemonName": "Farigiraf",
+    "moves": [
+      "Mental Herb    Mental Herb   Cures the holder of the Infatuated, Taunted, Unable to Repeat, Move Disabled, Healing Prevented, and Encore statuses. Disappears for the duration of the battle after a single use.",
+      "Psychic",
+      "Trick Room",
+      "Helping Hand",
+      "Psychic Terrain"
+    ]
+  },
+  {
+    "pokemonName": "Kingambit",
+    "moves": [
+      "Chople Berry    Chople Berry   Halves the damage taken when the holder is hit with a supereffective Fighting-type move. Disappears for the duration of the battle after a single use.",
+      "Kowtow Cleave",
+      "Iron Head",
+      "Sucker Punch",
+      "Protect"
+    ]
+  },
+  {
+    "pokemonName": "Charizard",
+    "moves": [
+      "Black Glasses    Black Glasses   Boosts the power of the holder's Dark-type moves by 20%.",
+      "Swords Dance",
+      "Kowtow Cleave",
+      "Sucker Punch",
+      "Iron Head"
+    ]
+  },
+  {
+    "pokemonName": "Kingambit",
+    "moves": [
+      "Chople Berry    Chople Berry   Halves the damage taken when the holder is hit with a supereffective Fighting-type move. Disappears for the duration of the battle after a single use.",
+      "Kowtow Cleave",
+      "Low Kick",
+      "Sucker Punch",
+      "Protect"
+    ]
+  },
+  {
+    "pokemonName": "Sinistcha",
+    "moves": [
+      "Sitrus Berry    Sitrus Berry   Restores 1/4 of the holder's max HP when the holder's HP drops to 1/2 or less of its max. Disappears for the duration of the battle after a single use.",
+      "Matcha Gotcha",
+      "Shadow Ball",
+      "Rage Powder",
+      "Protect"
+    ]
+  },
+  {
+    "pokemonName": "Sinistcha",
+    "moves": [
+      "Mental Herb    Mental Herb   Cures the holder of the Infatuated, Taunted, Unable to Repeat, Move Disabled, Healing Prevented, and Encore statuses. Disappears for the duration of the battle after a single use.",
+      "Matcha Gotcha",
+      "Trick Room",
+      "Rage Powder",
+      "Imprison"
+    ]
+  },
+  {
+    "pokemonName": "Sinistcha",
+    "moves": [
+      "Coba Berry    Coba Berry   Halves the damage taken when the holder is hit with a supereffective Flying-type move. Disappears for the duration of the battle after a single use.",
+      "Matcha Gotcha",
+      "Life Dew",
+      "Rage Powder",
+      "Protect"
+    ]
+  },
+  {
+    "pokemonName": "Archaludon",
+    "moves": [
+      "Leftovers    Leftovers   Restores 1/16 of the holder's max HP at the end of every turn.",
+      "Flash Cannon",
+      "Electro Shot",
+      "Draco Meteor",
+      "Protect"
+    ]
+  },
+  {
+    "pokemonName": "Archaludon",
+    "moves": [
+      "Sitrus Berry    Sitrus Berry   Restores 1/4 of the holder's max HP when the holder's HP drops to 1/2 or less of its max. Disappears for the duration of the battle after a single use.",
+      "Draco Meteor",
+      "Flash Cannon",
+      "Stealth Rock",
+      "Roar"
+    ]
+  },
+  {
+    "pokemonName": "Archaludon",
+    "moves": [
+      "White Herb    White Herb   Restores the holder's stats to their usual value when they are lowered. Disappears for the duration of the battle after a single use.",
+      "Draco Meteor",
+      "Flash Cannon",
+      "Electro Shot",
+      "Aura Sphere"
+    ]
+  }
+]

@@ -1,0 +1,7708 @@
+[
+  {
+    "id": "venusaur",
+    "name": "Venusaur",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "stats": {
+      "hp": 155,
+      "atk": 102,
+      "def": 103,
+      "spa": 120,
+      "spd": 120,
+      "spe": 100
+    },
+    "bst": 700,
+    "abilities": [
+      {
+        "name": "Overgrow",
+        "description": "Boosts the power of the Pokémon's Grass-type moves by 50% when its HP drops to 1/3 or less of its max."
+      }
+    ],
+    "moves": [
+      "Sleep Powder",
+      "Leaf Storm",
+      "Sludge Bomb",
+      "Protect"
+    ]
+  },
+  {
+    "id": "mega-venusaur",
+    "name": "Mega Venusaur",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "stats": {
+      "hp": 155,
+      "atk": 120,
+      "def": 143,
+      "spa": 142,
+      "spd": 140,
+      "spe": 100
+    },
+    "bst": 800,
+    "abilities": [
+      {
+        "name": "Thick Fat",
+        "description": "Halves the damage the Pokémon takes from Fire- and Ice-type moves."
+      }
+    ],
+    "moves": [
+      "Sleep Powder",
+      "Leaf Storm",
+      "Sludge Bomb",
+      "Protect",
+      "Giga Drain",
+      "Leech Seed",
+      "Synthesis"
+    ]
+  },
+  {
+    "id": "charizard",
+    "name": "Charizard",
+    "types": [
+      "Fire",
+      "Flying"
+    ],
+    "stats": {
+      "hp": 153,
+      "atk": 104,
+      "def": 98,
+      "spa": 129,
+      "spd": 105,
+      "spe": 120
+    },
+    "bst": 709,
+    "abilities": [
+      {
+        "name": "Blaze",
+        "description": "Boosts the power of the Pokémon's Fire-type moves by 50% when its HP drops to 1/3 or less of its max."
+      }
+    ],
+    "moves": [
+      "Calm Mind",
+      "Stored Power",
+      "Moonblast",
+      "Moonlight",
+      "Stealth Rock",
+      "Yawn",
+      "Slack Off",
+      "Thunderbolt",
+      "Hydro Pump",
+      "Will-O-Wisp",
+      "Volt Switch",
+      "Flower Trick",
+      "Knock Off",
+      "Triple Axel",
+      "U-turn",
+      "Swords Dance",
+      "Kowtow Cleave",
+      "Sucker Punch",
+      "Iron Head"
+    ]
+  },
+  {
+    "id": "mega-charizard-x",
+    "name": "Mega Charizard X",
+    "types": [
+      "Fire",
+      "Dragon"
+    ],
+    "stats": {
+      "hp": 153,
+      "atk": 150,
+      "def": 131,
+      "spa": 150,
+      "spd": 105,
+      "spe": 120
+    },
+    "bst": 809,
+    "abilities": [
+      {
+        "name": "Tough Claws",
+        "description": "Boosts the power of the Pokémon's contact moves by 30%."
+      }
+    ],
+    "moves": [
+      "Flare Blitz",
+      "Earthquake",
+      "Dragon Claw",
+      "Dragon Dance",
+      "Weather Ball",
+      "Solar Beam",
+      "Scorching Sands",
+      "Roost",
+      "Heat Wave",
+      "Protect",
+      "Overheat",
+      "Ancient Power",
+      "Calm Mind",
+      "Stored Power",
+      "Moonblast",
+      "Moonlight",
+      "Stealth Rock",
+      "Yawn",
+      "Slack Off",
+      "Thunderbolt",
+      "Hydro Pump",
+      "Will-O-Wisp",
+      "Volt Switch",
+      "Flower Trick",
+      "Knock Off",
+      "Triple Axel",
+      "U-turn",
+      "Swords Dance",
+      "Kowtow Cleave",
+      "Sucker Punch",
+      "Iron Head"
+    ]
+  },
+  {
+    "id": "mega-charizard-y",
+    "name": "Mega Charizard Y",
+    "types": [
+      "Fire",
+      "Flying"
+    ],
+    "stats": {
+      "hp": 153,
+      "atk": 124,
+      "def": 98,
+      "spa": 179,
+      "spd": 135,
+      "spe": 120
+    },
+    "bst": 809,
+    "abilities": [
+      {
+        "name": "Drought",
+        "description": "Summons harsh sunlight for 5 turns when the Pokémon enters a battle."
+      }
+    ],
+    "moves": [
+      "Flare Blitz",
+      "Earthquake",
+      "Dragon Claw",
+      "Dragon Dance",
+      "Weather Ball",
+      "Solar Beam",
+      "Scorching Sands",
+      "Roost",
+      "Heat Wave",
+      "Protect",
+      "Overheat",
+      "Ancient Power",
+      "Calm Mind",
+      "Stored Power",
+      "Moonblast",
+      "Moonlight",
+      "Stealth Rock",
+      "Yawn",
+      "Slack Off",
+      "Thunderbolt",
+      "Hydro Pump",
+      "Will-O-Wisp",
+      "Volt Switch",
+      "Flower Trick",
+      "Knock Off",
+      "Triple Axel",
+      "U-turn",
+      "Swords Dance",
+      "Kowtow Cleave",
+      "Sucker Punch",
+      "Iron Head"
+    ]
+  },
+  {
+    "id": "blastoise",
+    "name": "Blastoise",
+    "types": [
+      "Water"
+    ],
+    "stats": {
+      "hp": 154,
+      "atk": 103,
+      "def": 120,
+      "spa": 105,
+      "spd": 125,
+      "spe": 98
+    },
+    "bst": 705,
+    "abilities": [
+      {
+        "name": "Torrent",
+        "description": "Boosts the power of the Pokémon's Water-type moves by 50% when its HP drops to 1/3 or less of its max."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "mega-blastoise",
+    "name": "Mega Blastoise",
+    "types": [
+      "Water"
+    ],
+    "stats": {
+      "hp": 154,
+      "atk": 123,
+      "def": 140,
+      "spa": 155,
+      "spd": 135,
+      "spe": 98
+    },
+    "bst": 805,
+    "abilities": [
+      {
+        "name": "Mega Launcher",
+        "description": "Boosts the power of the Pokémon's pulse moves by 50%."
+      }
+    ],
+    "moves": [
+      "Water Pulse",
+      "Aura Sphere",
+      "Ice Beam",
+      "Shell Smash"
+    ]
+  },
+  {
+    "id": "beedrill",
+    "name": "Beedrill",
+    "types": [
+      "Poison",
+      "Bug"
+    ],
+    "stats": {
+      "hp": 140,
+      "atk": 110,
+      "def": 60,
+      "spa": 65,
+      "spd": 100,
+      "spe": 95
+    },
+    "bst": 570,
+    "abilities": [
+      {
+        "name": "Swarm",
+        "description": "Boosts the power of the Pokémon's Bug-type moves by 50% when its HP drops to 1/3 or less of its max."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "mega-beedrill",
+    "name": "Mega Beedrill",
+    "types": [
+      "Poison",
+      "Bug"
+    ],
+    "stats": {
+      "hp": 140,
+      "atk": 170,
+      "def": 60,
+      "spa": 35,
+      "spd": 100,
+      "spe": 165
+    },
+    "bst": 670,
+    "abilities": [
+      {
+        "name": "Adaptability",
+        "description": "Boosts the power of moves of the same type as the Pokémon by 100% instead of 50%."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "pidgeot",
+    "name": "Pidgeot",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "stats": {
+      "hp": 158,
+      "atk": 100,
+      "def": 95,
+      "spa": 90,
+      "spd": 90,
+      "spe": 121
+    },
+    "bst": 654,
+    "abilities": [
+      {
+        "name": "Keen Eye",
+        "description": "The Pokémon ignores changes to targets' evasiveness and its accuracy cannot be lowered."
+      },
+      {
+        "name": "Tangled Feet",
+        "description": "Doubles the Pokémon's evasiveness if it is confused."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "mega-pidgeot",
+    "name": "Mega Pidgeot",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "stats": {
+      "hp": 158,
+      "atk": 100,
+      "def": 100,
+      "spa": 155,
+      "spd": 100,
+      "spe": 141
+    },
+    "bst": 754,
+    "abilities": [
+      {
+        "name": "No Guard",
+        "description": "The accuracy of moves used both by and against the Pokémon becomes 100%."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "arbok",
+    "name": "Arbok",
+    "types": [
+      "Poison"
+    ],
+    "stats": {
+      "hp": 135,
+      "atk": 115,
+      "def": 89,
+      "spa": 85,
+      "spd": 99,
+      "spe": 100
+    },
+    "bst": 623,
+    "abilities": [
+      {
+        "name": "Intimidate",
+        "description": "When the Pokémon enters a battle, it lowers the Attack stats of opponents by 1 stage."
+      },
+      {
+        "name": "Shed Skin",
+        "description": "The Pokémon has a 30% chance of curing its own status conditions at the end of every turn."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "pikachu",
+    "name": "Pikachu",
+    "types": [
+      "Electric"
+    ],
+    "stats": {
+      "hp": 110,
+      "atk": 75,
+      "def": 60,
+      "spa": 70,
+      "spd": 70,
+      "spe": 110
+    },
+    "bst": 495,
+    "abilities": [
+      {
+        "name": "Static",
+        "description": "When the Pokémon is hit by a contact move, the attacker has a 30% chance of being paralyzed."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "raichu",
+    "name": "Raichu",
+    "types": [
+      "Electric"
+    ],
+    "stats": {
+      "hp": 135,
+      "atk": 110,
+      "def": 75,
+      "spa": 110,
+      "spd": 100,
+      "spe": 130
+    },
+    "bst": 660,
+    "abilities": [
+      {
+        "name": "Static",
+        "description": "When the Pokémon is hit by a contact move, the attacker has a 30% chance of being paralyzed."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "alolan-raichu",
+    "name": "Alolan Raichu",
+    "types": [
+      "Electric",
+      "Psychic"
+    ],
+    "stats": {
+      "hp": 135,
+      "atk": 105,
+      "def": 70,
+      "spa": 115,
+      "spd": 105,
+      "spe": 130
+    },
+    "bst": 660,
+    "abilities": [
+      {
+        "name": "Surge Surfer",
+        "description": "Doubles the Pokémon's Speed stat on Electric Terrain."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "clefable",
+    "name": "Clefable",
+    "types": [
+      "Fairy"
+    ],
+    "stats": {
+      "hp": 170,
+      "atk": 90,
+      "def": 93,
+      "spa": 115,
+      "spd": 110,
+      "spe": 80
+    },
+    "bst": 658,
+    "abilities": [
+      {
+        "name": "Cute Charm",
+        "description": "When the Pokémon is hit by a contact move, the attacker has a 30% chance of gaining the Infatuated status if the attacker and the Pokémon are of opposite genders."
+      },
+      {
+        "name": "Magic Guard",
+        "description": "The Pokémon takes damage only from attacks."
+      }
+    ],
+    "moves": [
+      "Calm Mind",
+      "Stored Power",
+      "Moonblast",
+      "Moonlight"
+    ]
+  },
+  {
+    "id": "mega-clefable",
+    "name": "Mega Clefable",
+    "types": [
+      "Flying",
+      "Fairy"
+    ],
+    "stats": {
+      "hp": 170,
+      "atk": 100,
+      "def": 113,
+      "spa": 155,
+      "spd": 130,
+      "spe": 90
+    },
+    "bst": 758,
+    "abilities": [
+      {
+        "name": "Magic Bounce",
+        "description": "Instead of being affected by other Pokémon's status moves, the Pokémon bounces them back at the user."
+      }
+    ],
+    "moves": [
+      "Calm Mind",
+      "Stored Power",
+      "Moonblast",
+      "Moonlight"
+    ]
+  },
+  {
+    "id": "ninetales",
+    "name": "Ninetales",
+    "types": [
+      "Fire"
+    ],
+    "stats": {
+      "hp": 148,
+      "atk": 96,
+      "def": 95,
+      "spa": 101,
+      "spd": 120,
+      "spe": 120
+    },
+    "bst": 680,
+    "abilities": [
+      {
+        "name": "Flash Fire",
+        "description": "Fire-type moves do not work on the Pokémon. Instead, they give the Pokémon the Flash Fire status, which boosts the power of Fire-type moves by 50%."
+      }
+    ],
+    "moves": [
+      "Will-O-Wisp",
+      "Protect",
+      "Encore",
+      "Heat Wave",
+      "Aurora Veil",
+      "Blizzard",
+      "Moonblast"
+    ]
+  },
+  {
+    "id": "alolan-ninetales",
+    "name": "Alolan Ninetales",
+    "types": [
+      "Ice",
+      "Fairy"
+    ],
+    "stats": {
+      "hp": 148,
+      "atk": 87,
+      "def": 95,
+      "spa": 101,
+      "spd": 120,
+      "spe": 129
+    },
+    "bst": 680,
+    "abilities": [
+      {
+        "name": "Snow Cloak",
+        "description": "Boosts the Pokémon's evasiveness by 25% in snow."
+      }
+    ],
+    "moves": [
+      "Will-O-Wisp",
+      "Protect",
+      "Encore",
+      "Heat Wave",
+      "Aurora Veil",
+      "Blizzard",
+      "Moonblast"
+    ]
+  },
+  {
+    "id": "arcanine",
+    "name": "Arcanine",
+    "types": [
+      "Fire"
+    ],
+    "stats": {
+      "hp": 165,
+      "atk": 130,
+      "def": 100,
+      "spa": 120,
+      "spd": 100,
+      "spe": 115
+    },
+    "bst": 730,
+    "abilities": [
+      {
+        "name": "Intimidate",
+        "description": "When the Pokémon enters a battle, it lowers the Attack stats of opponents by 1 stage."
+      },
+      {
+        "name": "Flash Fire",
+        "description": "Fire-type moves do not work on the Pokémon. Instead, they give the Pokémon the Flash Fire status, which boosts the power of Fire-type moves by 50%."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "hisuian-arcanine",
+    "name": "Hisuian Arcanine",
+    "types": [
+      "Fire",
+      "Rock"
+    ],
+    "stats": {
+      "hp": 170,
+      "atk": 135,
+      "def": 100,
+      "spa": 115,
+      "spd": 100,
+      "spe": 110
+    },
+    "bst": 730,
+    "abilities": [
+      {
+        "name": "Intimidate",
+        "description": "When the Pokémon enters a battle, it lowers the Attack stats of opponents by 1 stage."
+      },
+      {
+        "name": "Flash Fire",
+        "description": "Fire-type moves do not work on the Pokémon. Instead, they give the Pokémon the Flash Fire status, which boosts the power of Fire-type moves by 50%."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "alakazam",
+    "name": "Alakazam",
+    "types": [
+      "Psychic"
+    ],
+    "stats": {
+      "hp": 130,
+      "atk": 70,
+      "def": 65,
+      "spa": 155,
+      "spd": 115,
+      "spe": 140
+    },
+    "bst": 675,
+    "abilities": [
+      {
+        "name": "Synchronize",
+        "description": "If the Pokémon is burned, paralyzed, poisoned, or badly poisoned by another Pokémon's move or Ability, that Pokémon will also be inflicted with the same status condition."
+      },
+      {
+        "name": "Inner Focus",
+        "description": "The Pokémon never flinches when attacked and is unaffected by Intimidate."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "mega-alakazam",
+    "name": "Mega Alakazam",
+    "types": [
+      "Psychic"
+    ],
+    "stats": {
+      "hp": 130,
+      "atk": 70,
+      "def": 85,
+      "spa": 195,
+      "spd": 125,
+      "spe": 170
+    },
+    "bst": 775,
+    "abilities": [
+      {
+        "name": "Trace",
+        "description": "When the Pokémon enters a battle, it changes its Ability to match that of an opponent."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "machamp",
+    "name": "Machamp",
+    "types": [
+      "Fighting"
+    ],
+    "stats": {
+      "hp": 165,
+      "atk": 150,
+      "def": 100,
+      "spa": 85,
+      "spd": 105,
+      "spe": 75
+    },
+    "bst": 680,
+    "abilities": [
+      {
+        "name": "Guts",
+        "description": "When the Pokémon has a status condition, its Attack stat is boosted by 50%. Being burned does not halve the damage dealt by the Pokémon's physical moves."
+      },
+      {
+        "name": "No Guard",
+        "description": "The accuracy of moves used both by and against the Pokémon becomes 100%."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "victreebel",
+    "name": "Victreebel",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "stats": {
+      "hp": 155,
+      "atk": 125,
+      "def": 85,
+      "spa": 120,
+      "spd": 90,
+      "spe": 90
+    },
+    "bst": 665,
+    "abilities": [
+      {
+        "name": "Chlorophyll",
+        "description": "Doubles the Pokémon's Speed stat in harsh sunlight."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "mega-victreebel",
+    "name": "Mega Victreebel",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "stats": {
+      "hp": 155,
+      "atk": 145,
+      "def": 105,
+      "spa": 155,
+      "spd": 115,
+      "spe": 90
+    },
+    "bst": 765,
+    "abilities": [
+      {
+        "name": "Innards Out",
+        "description": "When the Pokémon takes damage from a move that knocks it out, it deals the same amount of damage to the attacker."
+      }
+    ],
+    "moves": [
+      "Leaf Storm",
+      "Sludge Bomb",
+      "Sucker Punch",
+      "Strength Sap",
+      "Giga Drain",
+      "Acid Spray",
+      "Stockpile"
+    ]
+  },
+  {
+    "id": "slowbro",
+    "name": "Slowbro",
+    "types": [
+      "Water",
+      "Psychic"
+    ],
+    "stats": {
+      "hp": 170,
+      "atk": 95,
+      "def": 130,
+      "spa": 120,
+      "spd": 100,
+      "spe": 50
+    },
+    "bst": 665,
+    "abilities": [
+      {
+        "name": "Oblivious",
+        "description": "The Pokémon cannot gain the Infatuated or Taunted statuses and is unaffected by Intimidate."
+      },
+      {
+        "name": "Own Tempo",
+        "description": "The Pokémon cannot become confused and is unaffected by Intimidate."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "mega-slowbro",
+    "name": "Mega Slowbro",
+    "types": [
+      "Water",
+      "Psychic"
+    ],
+    "stats": {
+      "hp": 170,
+      "atk": 95,
+      "def": 200,
+      "spa": 150,
+      "spd": 100,
+      "spe": 50
+    },
+    "bst": 765,
+    "abilities": [
+      {
+        "name": "Shell Armor",
+        "description": "Attacks landed on the Pokémon will never be critical hits."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "galarian-slowbro",
+    "name": "Galarian Slowbro",
+    "types": [
+      "Poison",
+      "Psychic"
+    ],
+    "stats": {
+      "hp": 170,
+      "atk": 120,
+      "def": 115,
+      "spa": 120,
+      "spd": 90,
+      "spe": 50
+    },
+    "bst": 665,
+    "abilities": [
+      {
+        "name": "Quick Draw",
+        "description": "The Pokémon's moves have a 30% chance of going first among moves of the same priority."
+      },
+      {
+        "name": "Own Tempo",
+        "description": "The Pokémon cannot become confused and is unaffected by Intimidate."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "gengar",
+    "name": "Gengar",
+    "types": [
+      "Poison",
+      "Ghost"
+    ],
+    "stats": {
+      "hp": 135,
+      "atk": 85,
+      "def": 80,
+      "spa": 150,
+      "spd": 95,
+      "spe": 130
+    },
+    "bst": 675,
+    "abilities": [
+      {
+        "name": "Cursed Body",
+        "description": "When the Pokémon takes damage from a move, the attacker has a 30% chance of gaining the Move Disabled status for 4 turns."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "mega-gengar",
+    "name": "Mega Gengar",
+    "types": [
+      "Poison",
+      "Ghost"
+    ],
+    "stats": {
+      "hp": 135,
+      "atk": 85,
+      "def": 100,
+      "spa": 190,
+      "spd": 115,
+      "spe": 150
+    },
+    "bst": 775,
+    "abilities": [
+      {
+        "name": "Shadow Tag",
+        "description": "Opponents cannot be switched out of battle."
+      }
+    ],
+    "moves": [
+      "Perish Song",
+      "Disable",
+      "Sludge Bomb",
+      "Protect",
+      "Shadow Ball",
+      "Will-O-Wisp"
+    ]
+  },
+  {
+    "id": "kangaskhan",
+    "name": "Kangaskhan",
+    "types": [
+      "Normal"
+    ],
+    "stats": {
+      "hp": 180,
+      "atk": 115,
+      "def": 100,
+      "spa": 60,
+      "spd": 100,
+      "spe": 110
+    },
+    "bst": 665,
+    "abilities": [
+      {
+        "name": "Early Bird",
+        "description": "The Pokémon awakens from sleep twice as fast as other Pokémon."
+      },
+      {
+        "name": "Scrappy",
+        "description": "The Pokémon can hit Ghost types with Normal- and Fighting-type moves. It is also unaffected by Intimidate."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "mega-kangaskhan",
+    "name": "Mega Kangaskhan",
+    "types": [
+      "Normal"
+    ],
+    "stats": {
+      "hp": 180,
+      "atk": 145,
+      "def": 120,
+      "spa": 80,
+      "spd": 120,
+      "spe": 120
+    },
+    "bst": 765,
+    "abilities": [
+      {
+        "name": "Parental Bond",
+        "description": "The parent and child attack one after the other. The power of the child's attacks is 1/4 of those of the parent."
+      }
+    ],
+    "moves": [
+      "Double-Edge",
+      "Sucker Punch",
+      "Fake Out",
+      "Protect"
+    ]
+  },
+  {
+    "id": "starmie",
+    "name": "Starmie",
+    "types": [
+      "Water",
+      "Psychic"
+    ],
+    "stats": {
+      "hp": 135,
+      "atk": 95,
+      "def": 105,
+      "spa": 120,
+      "spd": 105,
+      "spe": 135
+    },
+    "bst": 695,
+    "abilities": [
+      {
+        "name": "Illuminate",
+        "description": "The Pokémon ignores changes to targets' evasiveness and its accuracy cannot be lowered."
+      },
+      {
+        "name": "Natural Cure",
+        "description": "The Pokémon's status conditions are cured when it switches out of battle."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "mega-starmie",
+    "name": "Mega Starmie",
+    "types": [
+      "Water",
+      "Psychic"
+    ],
+    "stats": {
+      "hp": 135,
+      "atk": 120,
+      "def": 125,
+      "spa": 150,
+      "spd": 125,
+      "spe": 140
+    },
+    "bst": 795,
+    "abilities": [
+      {
+        "name": "Huge Power",
+        "description": "Doubles the power of the Pokémon's physical moves."
+      }
+    ],
+    "moves": [
+      "Liquidation",
+      "Zen Headbutt",
+      "Aqua Jet",
+      "Flip Turn",
+      "Bulk Up",
+      "Recover",
+      "Protect"
+    ]
+  },
+  {
+    "id": "pinsir",
+    "name": "Pinsir",
+    "types": [
+      "Bug"
+    ],
+    "stats": {
+      "hp": 140,
+      "atk": 145,
+      "def": 120,
+      "spa": 75,
+      "spd": 90,
+      "spe": 105
+    },
+    "bst": 675,
+    "abilities": [
+      {
+        "name": "Hyper Cutter",
+        "description": "The Pokémon's Attack stat cannot be lowered by other Pokémon's moves or Abilities."
+      },
+      {
+        "name": "Mold Breaker",
+        "description": "The Pokémon's moves are unaffected by the Ability of the target (with certain exceptions)."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "mega-pinsir",
+    "name": "Mega Pinsir",
+    "types": [
+      "Flying",
+      "Bug"
+    ],
+    "stats": {
+      "hp": 140,
+      "atk": 175,
+      "def": 140,
+      "spa": 85,
+      "spd": 110,
+      "spe": 125
+    },
+    "bst": 775,
+    "abilities": [
+      {
+        "name": "Aerilate",
+        "description": "The Pokémon's Normal-type moves become Flying-type moves and their power is boosted by 20%."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "tauros",
+    "name": "Tauros",
+    "types": [
+      "Normal"
+    ],
+    "stats": {
+      "hp": 150,
+      "atk": 120,
+      "def": 115,
+      "spa": 60,
+      "spd": 90,
+      "spe": 130
+    },
+    "bst": 665,
+    "abilities": [
+      {
+        "name": "Intimidate",
+        "description": "When the Pokémon enters a battle, it lowers the Attack stats of opponents by 1 stage."
+      },
+      {
+        "name": "Anger Point",
+        "description": "Boosts the Pokémon's Attack stat to its sixth stage when the Pokémon takes a critical hit."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "paldean-tauros-(combat-breed)",
+    "name": "Paldean Tauros (Combat Breed)",
+    "types": [
+      "Fighting"
+    ],
+    "stats": {
+      "hp": 150,
+      "atk": 130,
+      "def": 125,
+      "spa": 50,
+      "spd": 90,
+      "spe": 120
+    },
+    "bst": 665,
+    "abilities": [
+      {
+        "name": "Intimidate",
+        "description": "When the Pokémon enters a battle, it lowers the Attack stats of opponents by 1 stage."
+      },
+      {
+        "name": "Anger Point",
+        "description": "Boosts the Pokémon's Attack stat to its sixth stage when the Pokémon takes a critical hit."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "paldean-tauros-(blaze-breed)",
+    "name": "Paldean Tauros (Blaze Breed)",
+    "types": [
+      "Fire",
+      "Fighting"
+    ],
+    "stats": {
+      "hp": 150,
+      "atk": 130,
+      "def": 125,
+      "spa": 50,
+      "spd": 90,
+      "spe": 120
+    },
+    "bst": 665,
+    "abilities": [
+      {
+        "name": "Intimidate",
+        "description": "When the Pokémon enters a battle, it lowers the Attack stats of opponents by 1 stage."
+      },
+      {
+        "name": "Anger Point",
+        "description": "Boosts the Pokémon's Attack stat to its sixth stage when the Pokémon takes a critical hit."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "paldean-tauros-(aqua-breed)",
+    "name": "Paldean Tauros (Aqua Breed)",
+    "types": [
+      "Water",
+      "Fighting"
+    ],
+    "stats": {
+      "hp": 150,
+      "atk": 130,
+      "def": 125,
+      "spa": 50,
+      "spd": 90,
+      "spe": 120
+    },
+    "bst": 665,
+    "abilities": [
+      {
+        "name": "Intimidate",
+        "description": "When the Pokémon enters a battle, it lowers the Attack stats of opponents by 1 stage."
+      },
+      {
+        "name": "Anger Point",
+        "description": "Boosts the Pokémon's Attack stat to its sixth stage when the Pokémon takes a critical hit."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "gyarados",
+    "name": "Gyarados",
+    "types": [
+      "Water",
+      "Flying"
+    ],
+    "stats": {
+      "hp": 170,
+      "atk": 145,
+      "def": 99,
+      "spa": 80,
+      "spd": 120,
+      "spe": 101
+    },
+    "bst": 715,
+    "abilities": [
+      {
+        "name": "Intimidate",
+        "description": "When the Pokémon enters a battle, it lowers the Attack stats of opponents by 1 stage."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "mega-gyarados",
+    "name": "Mega Gyarados",
+    "types": [
+      "Water",
+      "Dark"
+    ],
+    "stats": {
+      "hp": 170,
+      "atk": 175,
+      "def": 129,
+      "spa": 90,
+      "spd": 150,
+      "spe": 101
+    },
+    "bst": 815,
+    "abilities": [
+      {
+        "name": "Mold Breaker",
+        "description": "The Pokémon's moves are unaffected by the Ability of the target (with certain exceptions)."
+      }
+    ],
+    "moves": [
+      "Waterfall",
+      "Ice Fang",
+      "Earthquake",
+      "Dragon Dance"
+    ]
+  },
+  {
+    "id": "ditto",
+    "name": "Ditto",
+    "types": [
+      "Normal"
+    ],
+    "stats": {
+      "hp": 123,
+      "atk": 68,
+      "def": 68,
+      "spa": 68,
+      "spd": 68,
+      "spe": 68
+    },
+    "bst": 463,
+    "abilities": [
+      {
+        "name": "Limber",
+        "description": "The Pokémon cannot be paralyzed."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "vaporeon",
+    "name": "Vaporeon",
+    "types": [
+      "Water"
+    ],
+    "stats": {
+      "hp": 205,
+      "atk": 85,
+      "def": 80,
+      "spa": 130,
+      "spd": 115,
+      "spe": 85
+    },
+    "bst": 700,
+    "abilities": [
+      {
+        "name": "Water Absorb",
+        "description": "Water-type moves do not work on the Pokémon. Instead, they restore 1/4 of its max HP."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "jolteon",
+    "name": "Jolteon",
+    "types": [
+      "Electric"
+    ],
+    "stats": {
+      "hp": 140,
+      "atk": 85,
+      "def": 80,
+      "spa": 130,
+      "spd": 115,
+      "spe": 150
+    },
+    "bst": 700,
+    "abilities": [
+      {
+        "name": "Volt Absorb",
+        "description": "Electric-type moves do not work on the Pokémon. Instead, they restore 1/4 of its max HP."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "flareon",
+    "name": "Flareon",
+    "types": [
+      "Fire"
+    ],
+    "stats": {
+      "hp": 140,
+      "atk": 150,
+      "def": 80,
+      "spa": 115,
+      "spd": 130,
+      "spe": 85
+    },
+    "bst": 700,
+    "abilities": [
+      {
+        "name": "Flash Fire",
+        "description": "Fire-type moves do not work on the Pokémon. Instead, they give the Pokémon the Flash Fire status, which boosts the power of Fire-type moves by 50%."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "aerodactyl",
+    "name": "Aerodactyl",
+    "types": [
+      "Flying",
+      "Rock"
+    ],
+    "stats": {
+      "hp": 155,
+      "atk": 125,
+      "def": 85,
+      "spa": 80,
+      "spd": 95,
+      "spe": 150
+    },
+    "bst": 690,
+    "abilities": [
+      {
+        "name": "Rock Head",
+        "description": "The Pokémon will not lose HP due to recoil damage from its moves."
+      },
+      {
+        "name": "Pressure",
+        "description": "Causes opponents to expend 1 more PP when using moves against the Pokémon."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "mega-aerodactyl",
+    "name": "Mega Aerodactyl",
+    "types": [
+      "Flying",
+      "Rock"
+    ],
+    "stats": {
+      "hp": 155,
+      "atk": 155,
+      "def": 105,
+      "spa": 90,
+      "spd": 115,
+      "spe": 170
+    },
+    "bst": 790,
+    "abilities": [
+      {
+        "name": "Tough Claws",
+        "description": "Boosts the power of the Pokémon's contact moves by 30%."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "snorlax",
+    "name": "Snorlax",
+    "types": [
+      "Normal"
+    ],
+    "stats": {
+      "hp": 235,
+      "atk": 130,
+      "def": 85,
+      "spa": 85,
+      "spd": 130,
+      "spe": 50
+    },
+    "bst": 715,
+    "abilities": [
+      {
+        "name": "Immunity",
+        "description": "The Pokémon cannot be poisoned or badly poisoned."
+      },
+      {
+        "name": "Thick Fat",
+        "description": "Halves the damage the Pokémon takes from Fire- and Ice-type moves."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "dragonite",
+    "name": "Dragonite",
+    "types": [
+      "Flying",
+      "Dragon"
+    ],
+    "stats": {
+      "hp": 166,
+      "atk": 154,
+      "def": 115,
+      "spa": 120,
+      "spd": 120,
+      "spe": 100
+    },
+    "bst": 775,
+    "abilities": [
+      {
+        "name": "Inner Focus",
+        "description": "The Pokémon never flinches when attacked and is unaffected by Intimidate."
+      }
+    ],
+    "moves": [
+      "Scale Shot",
+      "Extreme Speed",
+      "Haze",
+      "Protect"
+    ]
+  },
+  {
+    "id": "mega-dragonite",
+    "name": "Mega Dragonite",
+    "types": [
+      "Flying",
+      "Dragon"
+    ],
+    "stats": {
+      "hp": 166,
+      "atk": 144,
+      "def": 135,
+      "spa": 165,
+      "spd": 145,
+      "spe": 120
+    },
+    "bst": 875,
+    "abilities": [
+      {
+        "name": "Multiscale",
+        "description": "Halves the damage the Pokémon takes while its HP is full."
+      }
+    ],
+    "moves": [
+      "Scale Shot",
+      "Extreme Speed",
+      "Haze",
+      "Protect",
+      "Draco Meteor",
+      "Hurricane",
+      "Tailwind"
+    ]
+  },
+  {
+    "id": "meganium",
+    "name": "Meganium",
+    "types": [
+      "Grass"
+    ],
+    "stats": {
+      "hp": 155,
+      "atk": 102,
+      "def": 120,
+      "spa": 103,
+      "spd": 120,
+      "spe": 100
+    },
+    "bst": 700,
+    "abilities": [
+      {
+        "name": "Overgrow",
+        "description": "Boosts the power of the Pokémon's Grass-type moves by 50% when its HP drops to 1/3 or less of its max."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "mega-meganium",
+    "name": "Mega Meganium",
+    "types": [
+      "Grass",
+      "Fairy"
+    ],
+    "stats": {
+      "hp": 155,
+      "atk": 112,
+      "def": 135,
+      "spa": 163,
+      "spd": 135,
+      "spe": 100
+    },
+    "bst": 800,
+    "abilities": [
+      {
+        "name": "Mega Sol",
+        "description": "Even when the sunlight has not turned harsh, the Pokémon can use its moves as if the weather were harsh sunlight."
+      }
+    ],
+    "moves": [
+      "Solar Beam",
+      "Dazzling Gleam",
+      "Weather Ball",
+      "Protect",
+      "Giga Drain",
+      "Earth Power",
+      "Leech Seed",
+      "Synthesis"
+    ]
+  },
+  {
+    "id": "typhlosion",
+    "name": "Typhlosion",
+    "types": [
+      "Fire"
+    ],
+    "stats": {
+      "hp": 153,
+      "atk": 104,
+      "def": 98,
+      "spa": 129,
+      "spd": 105,
+      "spe": 120
+    },
+    "bst": 709,
+    "abilities": [
+      {
+        "name": "Blaze",
+        "description": "Boosts the power of the Pokémon's Fire-type moves by 50% when its HP drops to 1/3 or less of its max."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "hisuian-typhlosion",
+    "name": "Hisuian Typhlosion",
+    "types": [
+      "Fire",
+      "Ghost"
+    ],
+    "stats": {
+      "hp": 148,
+      "atk": 104,
+      "def": 98,
+      "spa": 139,
+      "spd": 105,
+      "spe": 115
+    },
+    "bst": 709,
+    "abilities": [
+      {
+        "name": "Blaze",
+        "description": "Boosts the power of the Pokémon's Fire-type moves by 50% when its HP drops to 1/3 or less of its max."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "feraligatr",
+    "name": "Feraligatr",
+    "types": [
+      "Water"
+    ],
+    "stats": {
+      "hp": 160,
+      "atk": 125,
+      "def": 120,
+      "spa": 99,
+      "spd": 103,
+      "spe": 98
+    },
+    "bst": 705,
+    "abilities": [
+      {
+        "name": "Torrent",
+        "description": "Boosts the power of the Pokémon's Water-type moves by 50% when its HP drops to 1/3 or less of its max."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "mega-feraligatr",
+    "name": "Mega Feraligatr",
+    "types": [
+      "Water",
+      "Dragon"
+    ],
+    "stats": {
+      "hp": 160,
+      "atk": 180,
+      "def": 145,
+      "spa": 109,
+      "spd": 113,
+      "spe": 98
+    },
+    "bst": 805,
+    "abilities": [
+      {
+        "name": "Dragonize",
+        "description": "The Pokémon's Normal-type moves become Dragon-type moves and their power is boosted by 20%."
+      }
+    ],
+    "moves": [
+      "Liquidation",
+      "Aqua Jet",
+      "Body Slam",
+      "Swords Dance"
+    ]
+  },
+  {
+    "id": "ariados",
+    "name": "Ariados",
+    "types": [
+      "Poison",
+      "Bug"
+    ],
+    "stats": {
+      "hp": 145,
+      "atk": 110,
+      "def": 90,
+      "spa": 80,
+      "spd": 90,
+      "spe": 60
+    },
+    "bst": 575,
+    "abilities": [
+      {
+        "name": "Swarm",
+        "description": "Boosts the power of the Pokémon's Bug-type moves by 50% when its HP drops to 1/3 or less of its max."
+      },
+      {
+        "name": "Insomnia",
+        "description": "The Pokémon cannot become drowsy or be put to sleep."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "ampharos",
+    "name": "Ampharos",
+    "types": [
+      "Electric"
+    ],
+    "stats": {
+      "hp": 165,
+      "atk": 95,
+      "def": 105,
+      "spa": 135,
+      "spd": 110,
+      "spe": 75
+    },
+    "bst": 685,
+    "abilities": [
+      {
+        "name": "Static",
+        "description": "When the Pokémon is hit by a contact move, the attacker has a 30% chance of being paralyzed."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "mega-ampharos",
+    "name": "Mega Ampharos",
+    "types": [
+      "Electric",
+      "Dragon"
+    ],
+    "stats": {
+      "hp": 165,
+      "atk": 115,
+      "def": 125,
+      "spa": 185,
+      "spd": 130,
+      "spe": 65
+    },
+    "bst": 785,
+    "abilities": [
+      {
+        "name": "Mold Breaker",
+        "description": "The Pokémon's moves are unaffected by the Ability of the target (with certain exceptions)."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "azumarill",
+    "name": "Azumarill",
+    "types": [
+      "Water",
+      "Fairy"
+    ],
+    "stats": {
+      "hp": 175,
+      "atk": 70,
+      "def": 100,
+      "spa": 80,
+      "spd": 100,
+      "spe": 70
+    },
+    "bst": 595,
+    "abilities": [
+      {
+        "name": "Thick Fat",
+        "description": "Halves the damage the Pokémon takes from Fire- and Ice-type moves."
+      },
+      {
+        "name": "Huge Power",
+        "description": "Doubles the power of the Pokémon's physical moves."
+      }
+    ],
+    "moves": [
+      "Knock Off",
+      "Aqua Jet",
+      "Belly Drum",
+      "Play Rough"
+    ]
+  },
+  {
+    "id": "politoed",
+    "name": "Politoed",
+    "types": [
+      "Water"
+    ],
+    "stats": {
+      "hp": 165,
+      "atk": 95,
+      "def": 95,
+      "spa": 110,
+      "spd": 120,
+      "spe": 90
+    },
+    "bst": 675,
+    "abilities": [
+      {
+        "name": "Water Absorb",
+        "description": "Water-type moves do not work on the Pokémon. Instead, they restore 1/4 of its max HP."
+      },
+      {
+        "name": "Damp",
+        "description": "All Pokémon become unable to use explosive moves. Explosive Abilities also fail to trigger."
+      }
+    ],
+    "moves": [
+      "Perish Song",
+      "Whirlpool",
+      "Substitute",
+      "Hypnosis",
+      "Muddy Water",
+      "Encore",
+      "Helping Hand",
+      "Protect"
+    ]
+  },
+  {
+    "id": "espeon",
+    "name": "Espeon",
+    "types": [
+      "Psychic"
+    ],
+    "stats": {
+      "hp": 140,
+      "atk": 85,
+      "def": 80,
+      "spa": 150,
+      "spd": 115,
+      "spe": 130
+    },
+    "bst": 700,
+    "abilities": [
+      {
+        "name": "Synchronize",
+        "description": "If the Pokémon is burned, paralyzed, poisoned, or badly poisoned by another Pokémon's move or Ability, that Pokémon will also be inflicted with the same status condition."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "umbreon",
+    "name": "Umbreon",
+    "types": [
+      "Dark"
+    ],
+    "stats": {
+      "hp": 170,
+      "atk": 85,
+      "def": 130,
+      "spa": 80,
+      "spd": 150,
+      "spe": 85
+    },
+    "bst": 700,
+    "abilities": [
+      {
+        "name": "Synchronize",
+        "description": "If the Pokémon is burned, paralyzed, poisoned, or badly poisoned by another Pokémon's move or Ability, that Pokémon will also be inflicted with the same status condition."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "slowking",
+    "name": "Slowking",
+    "types": [
+      "Water",
+      "Psychic"
+    ],
+    "stats": {
+      "hp": 170,
+      "atk": 95,
+      "def": 100,
+      "spa": 120,
+      "spd": 130,
+      "spe": 50
+    },
+    "bst": 665,
+    "abilities": [
+      {
+        "name": "Oblivious",
+        "description": "The Pokémon cannot gain the Infatuated or Taunted statuses and is unaffected by Intimidate."
+      },
+      {
+        "name": "Own Tempo",
+        "description": "The Pokémon cannot become confused and is unaffected by Intimidate."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "galarian-slowking",
+    "name": "Galarian Slowking",
+    "types": [
+      "Poison",
+      "Psychic"
+    ],
+    "stats": {
+      "hp": 170,
+      "atk": 85,
+      "def": 100,
+      "spa": 130,
+      "spd": 130,
+      "spe": 50
+    },
+    "bst": 665,
+    "abilities": [
+      {
+        "name": "Curious Medicine",
+        "description": "When the Pokémon enters a battle, it removes all stat changes from its allies."
+      },
+      {
+        "name": "Own Tempo",
+        "description": "The Pokémon cannot become confused and is unaffected by Intimidate."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "forretress",
+    "name": "Forretress",
+    "types": [
+      "Bug",
+      "Steel"
+    ],
+    "stats": {
+      "hp": 150,
+      "atk": 110,
+      "def": 160,
+      "spa": 80,
+      "spd": 80,
+      "spe": 60
+    },
+    "bst": 640,
+    "abilities": [
+      {
+        "name": "Sturdy",
+        "description": "If the Pokémon has full HP and takes damage from a move that would knock it out in one hit, it will endure the hit with 1 HP. The Pokémon is also immune to one-hit KO moves."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "steelix",
+    "name": "Steelix",
+    "types": [
+      "Ground",
+      "Steel"
+    ],
+    "stats": {
+      "hp": 150,
+      "atk": 105,
+      "def": 220,
+      "spa": 75,
+      "spd": 85,
+      "spe": 50
+    },
+    "bst": 685,
+    "abilities": [
+      {
+        "name": "Rock Head",
+        "description": "The Pokémon will not lose HP due to recoil damage from its moves."
+      },
+      {
+        "name": "Sturdy",
+        "description": "If the Pokémon has full HP and takes damage from a move that would knock it out in one hit, it will endure the hit with 1 HP. The Pokémon is also immune to one-hit KO moves."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "mega-steelix",
+    "name": "Mega Steelix",
+    "types": [
+      "Ground",
+      "Steel"
+    ],
+    "stats": {
+      "hp": 150,
+      "atk": 145,
+      "def": 250,
+      "spa": 75,
+      "spd": 115,
+      "spe": 50
+    },
+    "bst": 785,
+    "abilities": [
+      {
+        "name": "Sand Force",
+        "description": "Boosts the power of the Pokémon's Rock-, Ground-, and Steel-type moves by 30% in a sandstorm."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "scizor",
+    "name": "Scizor",
+    "types": [
+      "Bug",
+      "Steel"
+    ],
+    "stats": {
+      "hp": 145,
+      "atk": 150,
+      "def": 120,
+      "spa": 75,
+      "spd": 100,
+      "spe": 85
+    },
+    "bst": 675,
+    "abilities": [
+      {
+        "name": "Swarm",
+        "description": "Boosts the power of the Pokémon's Bug-type moves by 50% when its HP drops to 1/3 or less of its max."
+      },
+      {
+        "name": "Technician",
+        "description": "Boosts the power of the Pokémon's moves by 50% if their power is 60 or less."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "mega-scizor",
+    "name": "Mega Scizor",
+    "types": [
+      "Bug",
+      "Steel"
+    ],
+    "stats": {
+      "hp": 145,
+      "atk": 170,
+      "def": 160,
+      "spa": 85,
+      "spd": 120,
+      "spe": 95
+    },
+    "bst": 775,
+    "abilities": [
+      {
+        "name": "Technician",
+        "description": "Boosts the power of the Pokémon's moves by 50% if their power is 60 or less."
+      }
+    ],
+    "moves": [
+      "Swords Dance",
+      "U-turn",
+      "Knock Off",
+      "Bullet Punch"
+    ]
+  },
+  {
+    "id": "heracross",
+    "name": "Heracross",
+    "types": [
+      "Fighting",
+      "Bug"
+    ],
+    "stats": {
+      "hp": 155,
+      "atk": 145,
+      "def": 95,
+      "spa": 60,
+      "spd": 115,
+      "spe": 105
+    },
+    "bst": 675,
+    "abilities": [
+      {
+        "name": "Swarm",
+        "description": "Boosts the power of the Pokémon's Bug-type moves by 50% when its HP drops to 1/3 or less of its max."
+      },
+      {
+        "name": "Guts",
+        "description": "When the Pokémon has a status condition, its Attack stat is boosted by 50%. Being burned does not halve the damage dealt by the Pokémon's physical moves."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "mega-heracross",
+    "name": "Mega Heracross",
+    "types": [
+      "Fighting",
+      "Bug"
+    ],
+    "stats": {
+      "hp": 155,
+      "atk": 205,
+      "def": 135,
+      "spa": 60,
+      "spd": 125,
+      "spe": 95
+    },
+    "bst": 775,
+    "abilities": [
+      {
+        "name": "Skill Link",
+        "description": "The Pokémon's multistrike moves always hit the maximum number of times."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "skarmory",
+    "name": "Skarmory",
+    "types": [
+      "Flying",
+      "Steel"
+    ],
+    "stats": {
+      "hp": 140,
+      "atk": 100,
+      "def": 160,
+      "spa": 60,
+      "spd": 90,
+      "spe": 90
+    },
+    "bst": 640,
+    "abilities": [
+      {
+        "name": "Keen Eye",
+        "description": "The Pokémon ignores changes to targets' evasiveness and its accuracy cannot be lowered."
+      },
+      {
+        "name": "Sturdy",
+        "description": "If the Pokémon has full HP and takes damage from a move that would knock it out in one hit, it will endure the hit with 1 HP. The Pokémon is also immune to one-hit KO moves."
+      }
+    ],
+    "moves": [
+      "Body Press",
+      "Iron Defense",
+      "Spikes",
+      "Roost"
+    ]
+  },
+  {
+    "id": "mega-skarmory",
+    "name": "Mega Skarmory",
+    "types": [
+      "Flying",
+      "Steel"
+    ],
+    "stats": {
+      "hp": 140,
+      "atk": 160,
+      "def": 130,
+      "spa": 60,
+      "spd": 120,
+      "spe": 130
+    },
+    "bst": 740,
+    "abilities": [
+      {
+        "name": "Stalwart",
+        "description": "The Pokémon ignores the effects of Abilities and moves that draw in moves."
+      }
+    ],
+    "moves": [
+      "Body Press",
+      "Iron Defense",
+      "Spikes",
+      "Roost",
+      "Brave Bird",
+      "Iron Head",
+      "Swords Dance",
+      "Protect"
+    ]
+  },
+  {
+    "id": "houndoom",
+    "name": "Houndoom",
+    "types": [
+      "Fire",
+      "Dark"
+    ],
+    "stats": {
+      "hp": 150,
+      "atk": 110,
+      "def": 70,
+      "spa": 130,
+      "spd": 100,
+      "spe": 115
+    },
+    "bst": 675,
+    "abilities": [
+      {
+        "name": "Early Bird",
+        "description": "The Pokémon awakens from sleep twice as fast as other Pokémon."
+      },
+      {
+        "name": "Flash Fire",
+        "description": "Fire-type moves do not work on the Pokémon. Instead, they give the Pokémon the Flash Fire status, which boosts the power of Fire-type moves by 50%."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "mega-houndoom",
+    "name": "Mega Houndoom",
+    "types": [
+      "Fire",
+      "Dark"
+    ],
+    "stats": {
+      "hp": 150,
+      "atk": 110,
+      "def": 110,
+      "spa": 160,
+      "spd": 110,
+      "spe": 135
+    },
+    "bst": 775,
+    "abilities": [
+      {
+        "name": "Solar Power",
+        "description": "In harsh sunlight, the Pokémon's Sp. Atk stat is boosted by 50%, but it loses 1/8 of its max HP at the end of every turn."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "tyranitar",
+    "name": "Tyranitar",
+    "types": [
+      "Rock",
+      "Dark"
+    ],
+    "stats": {
+      "hp": 175,
+      "atk": 154,
+      "def": 130,
+      "spa": 115,
+      "spd": 120,
+      "spe": 81
+    },
+    "bst": 775,
+    "abilities": [
+      {
+        "name": "Sand Stream",
+        "description": "Summons a sandstorm for 5 turns when the Pokémon enters a battle."
+      }
+    ],
+    "moves": [
+      "Lash Out",
+      "Rock Slide",
+      "Low Kick",
+      "Protect"
+    ]
+  },
+  {
+    "id": "mega-tyranitar",
+    "name": "Mega Tyranitar",
+    "types": [
+      "Rock",
+      "Dark"
+    ],
+    "stats": {
+      "hp": 175,
+      "atk": 184,
+      "def": 170,
+      "spa": 115,
+      "spd": 140,
+      "spe": 91
+    },
+    "bst": 875,
+    "abilities": [
+      {
+        "name": "Sand Stream",
+        "description": "Summons a sandstorm for 5 turns when the Pokémon enters a battle."
+      }
+    ],
+    "moves": [
+      "Lash Out",
+      "Rock Slide",
+      "Low Kick",
+      "Protect",
+      "Dragon Dance",
+      "Crunch"
+    ]
+  },
+  {
+    "id": "pelipper",
+    "name": "Pelipper",
+    "types": [
+      "Water",
+      "Flying"
+    ],
+    "stats": {
+      "hp": 135,
+      "atk": 70,
+      "def": 120,
+      "spa": 115,
+      "spd": 90,
+      "spe": 85
+    },
+    "bst": 615,
+    "abilities": [
+      {
+        "name": "Keen Eye",
+        "description": "The Pokémon ignores changes to targets' evasiveness and its accuracy cannot be lowered."
+      },
+      {
+        "name": "Drizzle",
+        "description": "Summons rain for 5 turns when the Pokémon enters a battle."
+      }
+    ],
+    "moves": [
+      "Muddy Water",
+      "Hurricane",
+      "Tailwind",
+      "Protect"
+    ]
+  },
+  {
+    "id": "gardevoir",
+    "name": "Gardevoir",
+    "types": [
+      "Psychic",
+      "Fairy"
+    ],
+    "stats": {
+      "hp": 143,
+      "atk": 85,
+      "def": 85,
+      "spa": 145,
+      "spd": 135,
+      "spe": 100
+    },
+    "bst": 693,
+    "abilities": [
+      {
+        "name": "Synchronize",
+        "description": "If the Pokémon is burned, paralyzed, poisoned, or badly poisoned by another Pokémon's move or Ability, that Pokémon will also be inflicted with the same status condition."
+      },
+      {
+        "name": "Trace",
+        "description": "When the Pokémon enters a battle, it changes its Ability to match that of an opponent."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "mega-gardevoir",
+    "name": "Mega Gardevoir",
+    "types": [
+      "Psychic",
+      "Fairy"
+    ],
+    "stats": {
+      "hp": 143,
+      "atk": 105,
+      "def": 85,
+      "spa": 185,
+      "spd": 155,
+      "spe": 120
+    },
+    "bst": 793,
+    "abilities": [
+      {
+        "name": "Pixilate",
+        "description": "The Pokémon's Normal-type moves become Fairy-type moves and their power is boosted by 20%."
+      }
+    ],
+    "moves": [
+      "Hyper Voice",
+      "Psyshock",
+      "Mystical Fire",
+      "Protect"
+    ]
+  },
+  {
+    "id": "sableye",
+    "name": "Sableye",
+    "types": [
+      "Ghost",
+      "Dark"
+    ],
+    "stats": {
+      "hp": 125,
+      "atk": 95,
+      "def": 95,
+      "spa": 85,
+      "spd": 85,
+      "spe": 70
+    },
+    "bst": 555,
+    "abilities": [
+      {
+        "name": "Keen Eye",
+        "description": "The Pokémon ignores changes to targets' evasiveness and its accuracy cannot be lowered."
+      },
+      {
+        "name": "Stall",
+        "description": "The Pokémon's moves go last among moves of the same priority."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "mega-sableye",
+    "name": "Mega Sableye",
+    "types": [
+      "Ghost",
+      "Dark"
+    ],
+    "stats": {
+      "hp": 125,
+      "atk": 105,
+      "def": 145,
+      "spa": 105,
+      "spd": 135,
+      "spe": 40
+    },
+    "bst": 655,
+    "abilities": [
+      {
+        "name": "Magic Bounce",
+        "description": "Instead of being affected by other Pokémon's status moves, the Pokémon bounces them back at the user."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "aggron",
+    "name": "Aggron",
+    "types": [
+      "Rock",
+      "Steel"
+    ],
+    "stats": {
+      "hp": 145,
+      "atk": 130,
+      "def": 200,
+      "spa": 80,
+      "spd": 80,
+      "spe": 70
+    },
+    "bst": 705,
+    "abilities": [
+      {
+        "name": "Sturdy",
+        "description": "If the Pokémon has full HP and takes damage from a move that would knock it out in one hit, it will endure the hit with 1 HP. The Pokémon is also immune to one-hit KO moves."
+      },
+      {
+        "name": "Rock Head",
+        "description": "The Pokémon will not lose HP due to recoil damage from its moves."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "mega-aggron",
+    "name": "Mega Aggron",
+    "types": [
+      "Steel"
+    ],
+    "stats": {
+      "hp": 145,
+      "atk": 160,
+      "def": 250,
+      "spa": 80,
+      "spd": 100,
+      "spe": 70
+    },
+    "bst": 805,
+    "abilities": [
+      {
+        "name": "Filter",
+        "description": "Reduces the damage the Pokémon takes from super-effective moves by 25%."
+      }
+    ],
+    "moves": [
+      "Heavy Slam",
+      "Stealth Rock",
+      "Thunder Wave",
+      "Roar"
+    ]
+  },
+  {
+    "id": "medicham",
+    "name": "Medicham",
+    "types": [
+      "Fighting",
+      "Psychic"
+    ],
+    "stats": {
+      "hp": 135,
+      "atk": 80,
+      "def": 95,
+      "spa": 80,
+      "spd": 95,
+      "spe": 100
+    },
+    "bst": 585,
+    "abilities": [
+      {
+        "name": "Pure Power",
+        "description": "Doubles the power of the Pokémon's physical moves."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "mega-medicham",
+    "name": "Mega Medicham",
+    "types": [
+      "Fighting",
+      "Psychic"
+    ],
+    "stats": {
+      "hp": 135,
+      "atk": 120,
+      "def": 105,
+      "spa": 100,
+      "spd": 105,
+      "spe": 120
+    },
+    "bst": 685,
+    "abilities": [
+      {
+        "name": "Pure Power",
+        "description": "Doubles the power of the Pokémon's physical moves."
+      }
+    ],
+    "moves": [
+      "High Jump Kick",
+      "Zen Headbutt",
+      "Close Combat",
+      "Fake Out"
+    ]
+  },
+  {
+    "id": "manectric",
+    "name": "Manectric",
+    "types": [
+      "Electric"
+    ],
+    "stats": {
+      "hp": 145,
+      "atk": 95,
+      "def": 80,
+      "spa": 125,
+      "spd": 80,
+      "spe": 125
+    },
+    "bst": 650,
+    "abilities": [
+      {
+        "name": "Static",
+        "description": "When the Pokémon is hit by a contact move, the attacker has a 30% chance of being paralyzed."
+      },
+      {
+        "name": "Lightning Rod",
+        "description": "The Pokémon draws in all Electric-type moves. These moves do not work on the Pokémon. Instead, they boost its Sp. Atk stat by 1 stage."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "mega-manectric",
+    "name": "Mega Manectric",
+    "types": [
+      "Electric"
+    ],
+    "stats": {
+      "hp": 145,
+      "atk": 95,
+      "def": 100,
+      "spa": 155,
+      "spd": 100,
+      "spe": 155
+    },
+    "bst": 750,
+    "abilities": [
+      {
+        "name": "Intimidate",
+        "description": "When the Pokémon enters a battle, it lowers the Attack stats of opponents by 1 stage."
+      }
+    ],
+    "moves": [
+      "Thunderbolt",
+      "Volt Switch",
+      "Overheat",
+      "Protect"
+    ]
+  },
+  {
+    "id": "sharpedo",
+    "name": "Sharpedo",
+    "types": [
+      "Water",
+      "Dark"
+    ],
+    "stats": {
+      "hp": 145,
+      "atk": 140,
+      "def": 60,
+      "spa": 115,
+      "spd": 60,
+      "spe": 115
+    },
+    "bst": 635,
+    "abilities": [
+      {
+        "name": "Rough Skin",
+        "description": "When the Pokémon is hit by a contact move, the attacker takes damage equal to 1/8 of its max HP."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "mega-sharpedo",
+    "name": "Mega Sharpedo",
+    "types": [
+      "Water",
+      "Dark"
+    ],
+    "stats": {
+      "hp": 145,
+      "atk": 160,
+      "def": 90,
+      "spa": 130,
+      "spd": 85,
+      "spe": 125
+    },
+    "bst": 735,
+    "abilities": [
+      {
+        "name": "Strong Jaw",
+        "description": "Boosts the power of the Pokémon's biting moves by 50%."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "camerupt",
+    "name": "Camerupt",
+    "types": [
+      "Fire",
+      "Ground"
+    ],
+    "stats": {
+      "hp": 145,
+      "atk": 120,
+      "def": 90,
+      "spa": 125,
+      "spd": 95,
+      "spe": 60
+    },
+    "bst": 635,
+    "abilities": [
+      {
+        "name": "Magma Armor",
+        "description": "The Pokémon cannot be frozen."
+      },
+      {
+        "name": "Solid Rock",
+        "description": "Reduces the damage the Pokémon takes from super-effective moves by 25%."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "mega-camerupt",
+    "name": "Mega Camerupt",
+    "types": [
+      "Fire",
+      "Ground"
+    ],
+    "stats": {
+      "hp": 145,
+      "atk": 140,
+      "def": 120,
+      "spa": 165,
+      "spd": 125,
+      "spe": 40
+    },
+    "bst": 735,
+    "abilities": [
+      {
+        "name": "Sheer Force",
+        "description": "The Pokémon's moves lose their additional effects, but the power of those moves will be boosted by 30%."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "torkoal",
+    "name": "Torkoal",
+    "types": [
+      "Fire"
+    ],
+    "stats": {
+      "hp": 145,
+      "atk": 105,
+      "def": 160,
+      "spa": 105,
+      "spd": 90,
+      "spe": 40
+    },
+    "bst": 645,
+    "abilities": [
+      {
+        "name": "White Smoke",
+        "description": "The Pokémon's stats cannot be lowered by other Pokémon's moves or Abilities."
+      },
+      {
+        "name": "Drought",
+        "description": "Summons harsh sunlight for 5 turns when the Pokémon enters a battle."
+      }
+    ],
+    "moves": [
+      "Eruption",
+      "Heat Wave",
+      "Earth Power",
+      "Protect"
+    ]
+  },
+  {
+    "id": "altaria",
+    "name": "Altaria",
+    "types": [
+      "Flying",
+      "Dragon"
+    ],
+    "stats": {
+      "hp": 150,
+      "atk": 90,
+      "def": 110,
+      "spa": 90,
+      "spd": 125,
+      "spe": 100
+    },
+    "bst": 665,
+    "abilities": [
+      {
+        "name": "Natural Cure",
+        "description": "The Pokémon's status conditions are cured when it switches out of battle."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "mega-altaria",
+    "name": "Mega Altaria",
+    "types": [
+      "Dragon",
+      "Fairy"
+    ],
+    "stats": {
+      "hp": 150,
+      "atk": 130,
+      "def": 130,
+      "spa": 130,
+      "spd": 125,
+      "spe": 100
+    },
+    "bst": 765,
+    "abilities": [
+      {
+        "name": "Pixilate",
+        "description": "The Pokémon's Normal-type moves become Fairy-type moves and their power is boosted by 20%."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "milotic",
+    "name": "Milotic",
+    "types": [
+      "Water"
+    ],
+    "stats": {
+      "hp": 170,
+      "atk": 80,
+      "def": 99,
+      "spa": 120,
+      "spd": 145,
+      "spe": 101
+    },
+    "bst": 715,
+    "abilities": [
+      {
+        "name": "Marvel Scale",
+        "description": "When the Pokémon has a status condition, its Defense stat is boosted by 50%."
+      },
+      {
+        "name": "Competitive",
+        "description": "When the Pokémon has any of its stats lowered by an opponent, its Sp. Atk stat is boosted by 2 stages."
+      }
+    ],
+    "moves": [
+      "Scald",
+      "Helping Hand",
+      "Icy Wind",
+      "Life Dew"
+    ]
+  },
+  {
+    "id": "castform",
+    "name": "Castform",
+    "types": [
+      "Normal"
+    ],
+    "stats": {
+      "hp": 145,
+      "atk": 90,
+      "def": 90,
+      "spa": 90,
+      "spd": 90,
+      "spe": 90
+    },
+    "bst": 595,
+    "abilities": [
+      {
+        "name": "Forecast",
+        "description": "The Pokémon transforms with the weather to change its type to Water, Fire, or Ice."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "banette",
+    "name": "Banette",
+    "types": [
+      "Ghost"
+    ],
+    "stats": {
+      "hp": 139,
+      "atk": 135,
+      "def": 85,
+      "spa": 103,
+      "spd": 83,
+      "spe": 85
+    },
+    "bst": 630,
+    "abilities": [
+      {
+        "name": "Insomnia",
+        "description": "The Pokémon cannot become drowsy or be put to sleep."
+      },
+      {
+        "name": "Frisk",
+        "description": "When the Pokémon enters a battle, it identifies opponents' held items."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "mega-banette",
+    "name": "Mega Banette",
+    "types": [
+      "Ghost"
+    ],
+    "stats": {
+      "hp": 139,
+      "atk": 185,
+      "def": 95,
+      "spa": 113,
+      "spd": 103,
+      "spe": 95
+    },
+    "bst": 730,
+    "abilities": [
+      {
+        "name": "Prankster",
+        "description": "Increases the priority of the Pokémon's status moves by 1 stage."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "chimecho",
+    "name": "Chimecho",
+    "types": [
+      "Psychic"
+    ],
+    "stats": {
+      "hp": 150,
+      "atk": 70,
+      "def": 100,
+      "spa": 115,
+      "spd": 110,
+      "spe": 85
+    },
+    "bst": 630,
+    "abilities": [
+      {
+        "name": "Levitate",
+        "description": "The Pokémon floats off the ground, making it immune to Ground-type moves, as well as the Spikes, Toxic Spikes, and Sticky Web statuses."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "mega-chimecho",
+    "name": "Mega Chimecho",
+    "types": [
+      "Psychic",
+      "Steel"
+    ],
+    "stats": {
+      "hp": 150,
+      "atk": 70,
+      "def": 130,
+      "spa": 155,
+      "spd": 140,
+      "spe": 85
+    },
+    "bst": 730,
+    "abilities": [
+      {
+        "name": "Levitate",
+        "description": "The Pokémon floats off the ground, making it immune to Ground-type moves, as well as the Spikes, Toxic Spikes, and Sticky Web statuses."
+      }
+    ],
+    "moves": [
+      "Psychic Noise",
+      "Flash Cannon",
+      "Calm Mind",
+      "Recover"
+    ]
+  },
+  {
+    "id": "absol",
+    "name": "Absol",
+    "types": [
+      "Dark"
+    ],
+    "stats": {
+      "hp": 140,
+      "atk": 150,
+      "def": 80,
+      "spa": 95,
+      "spd": 80,
+      "spe": 95
+    },
+    "bst": 640,
+    "abilities": [
+      {
+        "name": "Pressure",
+        "description": "Causes opponents to expend 1 more PP when using moves against the Pokémon."
+      },
+      {
+        "name": "Super Luck",
+        "description": "The Pokémon has a 1-stage Critical-Hit Ratio Boost."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "mega-absol",
+    "name": "Mega Absol",
+    "types": [
+      "Dark"
+    ],
+    "stats": {
+      "hp": 140,
+      "atk": 170,
+      "def": 80,
+      "spa": 135,
+      "spd": 80,
+      "spe": 135
+    },
+    "bst": 740,
+    "abilities": [
+      {
+        "name": "Magic Bounce",
+        "description": "Instead of being affected by other Pokémon's status moves, the Pokémon bounces them back at the user."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "glalie",
+    "name": "Glalie",
+    "types": [
+      "Ice"
+    ],
+    "stats": {
+      "hp": 155,
+      "atk": 100,
+      "def": 100,
+      "spa": 100,
+      "spd": 100,
+      "spe": 100
+    },
+    "bst": 655,
+    "abilities": [
+      {
+        "name": "Inner Focus",
+        "description": "The Pokémon never flinches when attacked and is unaffected by Intimidate."
+      },
+      {
+        "name": "Ice Body",
+        "description": "The Pokémon has 1/16 of its max HP restored at the end of every turn in snow."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "mega-glalie",
+    "name": "Mega Glalie",
+    "types": [
+      "Ice"
+    ],
+    "stats": {
+      "hp": 155,
+      "atk": 140,
+      "def": 100,
+      "spa": 140,
+      "spd": 100,
+      "spe": 120
+    },
+    "bst": 755,
+    "abilities": [
+      {
+        "name": "Refrigerate",
+        "description": "The Pokémon's Normal-type moves become Ice-type moves and their power is boosted by 20%."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "torterra",
+    "name": "Torterra",
+    "types": [
+      "Grass",
+      "Ground"
+    ],
+    "stats": {
+      "hp": 170,
+      "atk": 129,
+      "def": 125,
+      "spa": 95,
+      "spd": 105,
+      "spe": 76
+    },
+    "bst": 700,
+    "abilities": [
+      {
+        "name": "Overgrow",
+        "description": "Boosts the power of the Pokémon's Grass-type moves by 50% when its HP drops to 1/3 or less of its max."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "infernape",
+    "name": "Infernape",
+    "types": [
+      "Fire",
+      "Fighting"
+    ],
+    "stats": {
+      "hp": 151,
+      "atk": 124,
+      "def": 91,
+      "spa": 124,
+      "spd": 91,
+      "spe": 128
+    },
+    "bst": 709,
+    "abilities": [
+      {
+        "name": "Blaze",
+        "description": "Boosts the power of the Pokémon's Fire-type moves by 50% when its HP drops to 1/3 or less of its max."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "empoleon",
+    "name": "Empoleon",
+    "types": [
+      "Water",
+      "Steel"
+    ],
+    "stats": {
+      "hp": 159,
+      "atk": 106,
+      "def": 108,
+      "spa": 131,
+      "spd": 121,
+      "spe": 80
+    },
+    "bst": 705,
+    "abilities": [
+      {
+        "name": "Torrent",
+        "description": "Boosts the power of the Pokémon's Water-type moves by 50% when its HP drops to 1/3 or less of its max."
+      }
+    ],
+    "moves": [
+      "Surf",
+      "Flip Turn",
+      "Yawn",
+      "Stealth Rock"
+    ]
+  },
+  {
+    "id": "luxray",
+    "name": "Luxray",
+    "types": [
+      "Electric"
+    ],
+    "stats": {
+      "hp": 155,
+      "atk": 140,
+      "def": 99,
+      "spa": 115,
+      "spd": 99,
+      "spe": 90
+    },
+    "bst": 698,
+    "abilities": [
+      {
+        "name": "Rivalry",
+        "description": "Boosts the power of the Pokémon's moves by 25% against targets of the same gender, and lowers it by 25% against targets of the opposite gender. The power remains the same as usual if either Pokémon's gender is unknown."
+      },
+      {
+        "name": "Intimidate",
+        "description": "When the Pokémon enters a battle, it lowers the Attack stats of opponents by 1 stage."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "roserade",
+    "name": "Roserade",
+    "types": [
+      "Grass",
+      "Poison"
+    ],
+    "stats": {
+      "hp": 135,
+      "atk": 90,
+      "def": 85,
+      "spa": 145,
+      "spd": 125,
+      "spe": 110
+    },
+    "bst": 690,
+    "abilities": [
+      {
+        "name": "Natural Cure",
+        "description": "The Pokémon's status conditions are cured when it switches out of battle."
+      },
+      {
+        "name": "Poison Point",
+        "description": "When the Pokémon is hit by a contact move, the attacker has a 30% chance of being poisoned."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "rampardos",
+    "name": "Rampardos",
+    "types": [
+      "Rock"
+    ],
+    "stats": {
+      "hp": 172,
+      "atk": 185,
+      "def": 80,
+      "spa": 85,
+      "spd": 70,
+      "spe": 78
+    },
+    "bst": 670,
+    "abilities": [
+      {
+        "name": "Mold Breaker",
+        "description": "The Pokémon's moves are unaffected by the Ability of the target (with certain exceptions)."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "bastiodon",
+    "name": "Bastiodon",
+    "types": [
+      "Rock",
+      "Steel"
+    ],
+    "stats": {
+      "hp": 135,
+      "atk": 72,
+      "def": 188,
+      "spa": 67,
+      "spd": 158,
+      "spe": 50
+    },
+    "bst": 670,
+    "abilities": [
+      {
+        "name": "Sturdy",
+        "description": "If the Pokémon has full HP and takes damage from a move that would knock it out in one hit, it will endure the hit with 1 HP. The Pokémon is also immune to one-hit KO moves."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "lopunny",
+    "name": "Lopunny",
+    "types": [
+      "Normal"
+    ],
+    "stats": {
+      "hp": 140,
+      "atk": 96,
+      "def": 104,
+      "spa": 74,
+      "spd": 116,
+      "spe": 125
+    },
+    "bst": 655,
+    "abilities": [
+      {
+        "name": "Cute Charm",
+        "description": "When the Pokémon is hit by a contact move, the attacker has a 30% chance of gaining the Infatuated status if the attacker and the Pokémon are of opposite genders."
+      },
+      {
+        "name": "Klutz",
+        "description": "Items do not work when held by the Pokémon."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "mega-lopunny",
+    "name": "Mega Lopunny",
+    "types": [
+      "Normal",
+      "Fighting"
+    ],
+    "stats": {
+      "hp": 140,
+      "atk": 156,
+      "def": 114,
+      "spa": 74,
+      "spd": 116,
+      "spe": 155
+    },
+    "bst": 755,
+    "abilities": [
+      {
+        "name": "Scrappy",
+        "description": "The Pokémon can hit Ghost types with Normal- and Fighting-type moves. It is also unaffected by Intimidate."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "spiritomb",
+    "name": "Spiritomb",
+    "types": [
+      "Ghost",
+      "Dark"
+    ],
+    "stats": {
+      "hp": 125,
+      "atk": 112,
+      "def": 128,
+      "spa": 112,
+      "spd": 128,
+      "spe": 55
+    },
+    "bst": 660,
+    "abilities": [
+      {
+        "name": "Pressure",
+        "description": "Causes opponents to expend 1 more PP when using moves against the Pokémon."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "garchomp",
+    "name": "Garchomp",
+    "types": [
+      "Ground",
+      "Dragon"
+    ],
+    "stats": {
+      "hp": 183,
+      "atk": 150,
+      "def": 115,
+      "spa": 100,
+      "spd": 105,
+      "spe": 122
+    },
+    "bst": 775,
+    "abilities": [
+      {
+        "name": "Sand Veil",
+        "description": "Boosts the Pokémon's evasiveness by 25% in a sandstorm."
+      }
+    ],
+    "moves": [
+      "Dragon Claw",
+      "Earthquake",
+      "Rock Slide",
+      "Stomping Tantrum",
+      "Protect",
+      "Outrage",
+      "Stone Edge",
+      "Bulldoze"
+    ]
+  },
+  {
+    "id": "mega-garchomp",
+    "name": "Mega Garchomp",
+    "types": [
+      "Ground",
+      "Dragon"
+    ],
+    "stats": {
+      "hp": 183,
+      "atk": 190,
+      "def": 135,
+      "spa": 140,
+      "spd": 115,
+      "spe": 112
+    },
+    "bst": 875,
+    "abilities": [
+      {
+        "name": "Sand Force",
+        "description": "Boosts the power of the Pokémon's Rock-, Ground-, and Steel-type moves by 30% in a sandstorm."
+      }
+    ],
+    "moves": [
+      "Dragon Claw",
+      "Earthquake",
+      "Rock Slide",
+      "Stomping Tantrum",
+      "Protect",
+      "Outrage",
+      "Stone Edge",
+      "Bulldoze"
+    ]
+  },
+  {
+    "id": "lucario",
+    "name": "Lucario",
+    "types": [
+      "Fighting",
+      "Steel"
+    ],
+    "stats": {
+      "hp": 145,
+      "atk": 130,
+      "def": 90,
+      "spa": 135,
+      "spd": 90,
+      "spe": 110
+    },
+    "bst": 700,
+    "abilities": [
+      {
+        "name": "Steadfast",
+        "description": "When the Pokémon flinches, its Speed stat is boosted by 1 stage."
+      },
+      {
+        "name": "Inner Focus",
+        "description": "The Pokémon never flinches when attacked and is unaffected by Intimidate."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "mega-lucario",
+    "name": "Mega Lucario",
+    "types": [
+      "Fighting",
+      "Steel"
+    ],
+    "stats": {
+      "hp": 145,
+      "atk": 165,
+      "def": 108,
+      "spa": 160,
+      "spd": 90,
+      "spe": 132
+    },
+    "bst": 800,
+    "abilities": [
+      {
+        "name": "Adaptability",
+        "description": "Boosts the power of moves of the same type as the Pokémon by 100% instead of 50%."
+      }
+    ],
+    "moves": [
+      "Close Combat",
+      "Bullet Punch",
+      "Earthquake",
+      "Swords Dance",
+      "Focus Blast",
+      "Flash Cannon",
+      "Vacuum Wave",
+      "Nasty Plot"
+    ]
+  },
+  {
+    "id": "hippowdon",
+    "name": "Hippowdon",
+    "types": [
+      "Ground"
+    ],
+    "stats": {
+      "hp": 183,
+      "atk": 132,
+      "def": 138,
+      "spa": 88,
+      "spd": 92,
+      "spe": 67
+    },
+    "bst": 700,
+    "abilities": [
+      {
+        "name": "Sand Stream",
+        "description": "Summons a sandstorm for 5 turns when the Pokémon enters a battle."
+      }
+    ],
+    "moves": [
+      "Whirlwind",
+      "Slack Off",
+      "Earthquake",
+      "Stealth Rock"
+    ]
+  },
+  {
+    "id": "toxicroak",
+    "name": "Toxicroak",
+    "types": [
+      "Fighting",
+      "Poison"
+    ],
+    "stats": {
+      "hp": 158,
+      "atk": 126,
+      "def": 85,
+      "spa": 106,
+      "spd": 85,
+      "spe": 105
+    },
+    "bst": 665,
+    "abilities": [
+      {
+        "name": "Anticipation",
+        "description": "When the Pokémon enters a battle, it senses whether the opponents know any one-hit KO moves or moves that are super effective against it."
+      },
+      {
+        "name": "Dry Skin",
+        "description": "Water-type moves do not work on the Pokémon. Instead, they restore 1/4 of its max HP. However, the Pokémon takes 25% more damage from Fire-type moves. The Pokémon has 1 /8 of its max HP restored at the end of every turn in rain, but it loses 1/8 of its max HP at the end of every turn in harsh sunlight."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "abomasnow",
+    "name": "Abomasnow",
+    "types": [
+      "Grass",
+      "Ice"
+    ],
+    "stats": {
+      "hp": 165,
+      "atk": 112,
+      "def": 95,
+      "spa": 112,
+      "spd": 105,
+      "spe": 80
+    },
+    "bst": 669,
+    "abilities": [
+      {
+        "name": "Snow Warning",
+        "description": "Summons snow for 5 turns when the Pokémon enters a battle."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "mega-abomasnow",
+    "name": "Mega Abomasnow",
+    "types": [
+      "Grass",
+      "Ice"
+    ],
+    "stats": {
+      "hp": 165,
+      "atk": 152,
+      "def": 125,
+      "spa": 152,
+      "spd": 125,
+      "spe": 50
+    },
+    "bst": 769,
+    "abilities": [
+      {
+        "name": "Snow Warning",
+        "description": "Summons snow for 5 turns when the Pokémon enters a battle."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "weavile",
+    "name": "Weavile",
+    "types": [
+      "Ice",
+      "Dark"
+    ],
+    "stats": {
+      "hp": 145,
+      "atk": 140,
+      "def": 85,
+      "spa": 65,
+      "spd": 105,
+      "spe": 145
+    },
+    "bst": 685,
+    "abilities": [
+      {
+        "name": "Pressure",
+        "description": "Causes opponents to expend 1 more PP when using moves against the Pokémon."
+      }
+    ],
+    "moves": [
+      "Knock Off",
+      "Triple Axel",
+      "Low Kick",
+      "Fake Out"
+    ]
+  },
+  {
+    "id": "rhyperior",
+    "name": "Rhyperior",
+    "types": [
+      "Ground",
+      "Rock"
+    ],
+    "stats": {
+      "hp": 190,
+      "atk": 160,
+      "def": 150,
+      "spa": 75,
+      "spd": 75,
+      "spe": 60
+    },
+    "bst": 710,
+    "abilities": [
+      {
+        "name": "Lightning Rod",
+        "description": "The Pokémon draws in all Electric-type moves. These moves do not work on the Pokémon. Instead, they boost its Sp. Atk stat by 1 stage."
+      },
+      {
+        "name": "Solid Rock",
+        "description": "Reduces the damage the Pokémon takes from super-effective moves by 25%."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "leafeon",
+    "name": "Leafeon",
+    "types": [
+      "Grass"
+    ],
+    "stats": {
+      "hp": 140,
+      "atk": 130,
+      "def": 150,
+      "spa": 80,
+      "spd": 85,
+      "spe": 115
+    },
+    "bst": 700,
+    "abilities": [
+      {
+        "name": "Leaf Guard",
+        "description": "The Pokémon is immune to status conditions in harsh sunlight."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "glaceon",
+    "name": "Glaceon",
+    "types": [
+      "Ice"
+    ],
+    "stats": {
+      "hp": 140,
+      "atk": 80,
+      "def": 130,
+      "spa": 150,
+      "spd": 115,
+      "spe": 85
+    },
+    "bst": 700,
+    "abilities": [
+      {
+        "name": "Snow Cloak",
+        "description": "Boosts the Pokémon's evasiveness by 25% in snow."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "gliscor",
+    "name": "Gliscor",
+    "types": [
+      "Ground",
+      "Flying"
+    ],
+    "stats": {
+      "hp": 150,
+      "atk": 115,
+      "def": 145,
+      "spa": 65,
+      "spd": 95,
+      "spe": 115
+    },
+    "bst": 685,
+    "abilities": [
+      {
+        "name": "Hyper Cutter",
+        "description": "The Pokémon's Attack stat cannot be lowered by other Pokémon's moves or Abilities."
+      },
+      {
+        "name": "Sand Veil",
+        "description": "Boosts the Pokémon's evasiveness by 25% in a sandstorm."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "mamoswine",
+    "name": "Mamoswine",
+    "types": [
+      "Ice",
+      "Ground"
+    ],
+    "stats": {
+      "hp": 185,
+      "atk": 150,
+      "def": 100,
+      "spa": 90,
+      "spd": 80,
+      "spe": 100
+    },
+    "bst": 705,
+    "abilities": [
+      {
+        "name": "Oblivious",
+        "description": "The Pokémon cannot gain the Infatuated or Taunted statuses and is unaffected by Intimidate."
+      },
+      {
+        "name": "Snow Cloak",
+        "description": "Boosts the Pokémon's evasiveness by 25% in snow."
+      }
+    ],
+    "moves": [
+      "Earthquake",
+      "Ice Shard",
+      "Icicle Crash",
+      "Stealth Rock"
+    ]
+  },
+  {
+    "id": "gallade",
+    "name": "Gallade",
+    "types": [
+      "Fighting",
+      "Psychic"
+    ],
+    "stats": {
+      "hp": 143,
+      "atk": 145,
+      "def": 85,
+      "spa": 85,
+      "spd": 135,
+      "spe": 100
+    },
+    "bst": 693,
+    "abilities": [
+      {
+        "name": "Steadfast",
+        "description": "When the Pokémon flinches, its Speed stat is boosted by 1 stage."
+      },
+      {
+        "name": "Sharpness",
+        "description": "Boosts the power of the Pokémon's slicing moves by 50%."
+      }
+    ],
+    "moves": [
+      "Sacred Sword",
+      "Psycho Cut",
+      "Shadow Sneak",
+      "Leaf Blade"
+    ]
+  },
+  {
+    "id": "mega-gallade",
+    "name": "Mega Gallade",
+    "types": [
+      "Fighting",
+      "Psychic"
+    ],
+    "stats": {
+      "hp": 143,
+      "atk": 185,
+      "def": 115,
+      "spa": 85,
+      "spd": 135,
+      "spe": 130
+    },
+    "bst": 793,
+    "abilities": [
+      {
+        "name": "Inner Focus",
+        "description": "The Pokémon never flinches when attacked and is unaffected by Intimidate."
+      }
+    ],
+    "moves": [
+      "Sacred Sword",
+      "Psycho Cut",
+      "Shadow Sneak",
+      "Leaf Blade",
+      "Close Combat",
+      "Swords Dance"
+    ]
+  },
+  {
+    "id": "froslass",
+    "name": "Froslass",
+    "types": [
+      "Ice",
+      "Ghost"
+    ],
+    "stats": {
+      "hp": 145,
+      "atk": 100,
+      "def": 90,
+      "spa": 100,
+      "spd": 90,
+      "spe": 130
+    },
+    "bst": 655,
+    "abilities": [
+      {
+        "name": "Snow Cloak",
+        "description": "Boosts the Pokémon's evasiveness by 25% in snow."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "mega-froslass",
+    "name": "Mega Froslass",
+    "types": [
+      "Ice",
+      "Ghost"
+    ],
+    "stats": {
+      "hp": 145,
+      "atk": 100,
+      "def": 90,
+      "spa": 160,
+      "spd": 120,
+      "spe": 140
+    },
+    "bst": 755,
+    "abilities": [
+      {
+        "name": "Snow Warning",
+        "description": "Summons snow for 5 turns when the Pokémon enters a battle."
+      }
+    ],
+    "moves": [
+      "Blizzard",
+      "Shadow Ball",
+      "Thunderbolt",
+      "Protect",
+      "Aurora Veil"
+    ]
+  },
+  {
+    "id": "rotom",
+    "name": "Rotom",
+    "types": [
+      "Electric",
+      "Ghost"
+    ],
+    "stats": {
+      "hp": 125,
+      "atk": 70,
+      "def": 97,
+      "spa": 115,
+      "spd": 97,
+      "spe": 111
+    },
+    "bst": 615,
+    "abilities": [
+      {
+        "name": "Levitate",
+        "description": "The Pokémon floats off the ground, making it immune to Ground-type moves, as well as the Spikes, Toxic Spikes, and Sticky Web statuses."
+      }
+    ],
+    "moves": [
+      "Overheat",
+      "Volt Switch",
+      "Trick",
+      "Will-O-Wisp",
+      "Foul Play",
+      "Thunderbolt",
+      "Hydro Pump",
+      "Protect",
+      "Pain Split",
+      "Blizzard"
+    ]
+  },
+  {
+    "id": "heat-rotom",
+    "name": "Heat Rotom",
+    "types": [
+      "Fire",
+      "Electric"
+    ],
+    "stats": {
+      "hp": 125,
+      "atk": 85,
+      "def": 127,
+      "spa": 125,
+      "spd": 127,
+      "spe": 106
+    },
+    "bst": 695,
+    "abilities": [
+      {
+        "name": "Levitate",
+        "description": "The Pokémon floats off the ground, making it immune to Ground-type moves, as well as the Spikes, Toxic Spikes, and Sticky Web statuses."
+      }
+    ],
+    "moves": [
+      "Overheat",
+      "Volt Switch",
+      "Trick",
+      "Will-O-Wisp",
+      "Foul Play",
+      "Thunderbolt",
+      "Hydro Pump",
+      "Protect",
+      "Pain Split",
+      "Blizzard"
+    ]
+  },
+  {
+    "id": "wash-rotom",
+    "name": "Wash Rotom",
+    "types": [
+      "Water",
+      "Electric"
+    ],
+    "stats": {
+      "hp": 125,
+      "atk": 85,
+      "def": 127,
+      "spa": 125,
+      "spd": 127,
+      "spe": 106
+    },
+    "bst": 695,
+    "abilities": [
+      {
+        "name": "Levitate",
+        "description": "The Pokémon floats off the ground, making it immune to Ground-type moves, as well as the Spikes, Toxic Spikes, and Sticky Web statuses."
+      }
+    ],
+    "moves": [
+      "Overheat",
+      "Volt Switch",
+      "Trick",
+      "Will-O-Wisp",
+      "Foul Play",
+      "Thunderbolt",
+      "Hydro Pump",
+      "Protect",
+      "Pain Split",
+      "Blizzard"
+    ]
+  },
+  {
+    "id": "frost-rotom",
+    "name": "Frost Rotom",
+    "types": [
+      "Electric",
+      "Ice"
+    ],
+    "stats": {
+      "hp": 125,
+      "atk": 85,
+      "def": 127,
+      "spa": 125,
+      "spd": 127,
+      "spe": 106
+    },
+    "bst": 695,
+    "abilities": [
+      {
+        "name": "Levitate",
+        "description": "The Pokémon floats off the ground, making it immune to Ground-type moves, as well as the Spikes, Toxic Spikes, and Sticky Web statuses."
+      }
+    ],
+    "moves": [
+      "Overheat",
+      "Volt Switch",
+      "Trick",
+      "Will-O-Wisp",
+      "Foul Play",
+      "Thunderbolt",
+      "Hydro Pump",
+      "Protect",
+      "Pain Split",
+      "Blizzard"
+    ]
+  },
+  {
+    "id": "fan-rotom",
+    "name": "Fan Rotom",
+    "types": [
+      "Electric",
+      "Flying"
+    ],
+    "stats": {
+      "hp": 125,
+      "atk": 85,
+      "def": 127,
+      "spa": 125,
+      "spd": 127,
+      "spe": 106
+    },
+    "bst": 695,
+    "abilities": [
+      {
+        "name": "Levitate",
+        "description": "The Pokémon floats off the ground, making it immune to Ground-type moves, as well as the Spikes, Toxic Spikes, and Sticky Web statuses."
+      }
+    ],
+    "moves": [
+      "Overheat",
+      "Volt Switch",
+      "Trick",
+      "Will-O-Wisp",
+      "Foul Play",
+      "Thunderbolt",
+      "Hydro Pump",
+      "Protect",
+      "Pain Split",
+      "Blizzard"
+    ]
+  },
+  {
+    "id": "mow-rotom",
+    "name": "Mow Rotom",
+    "types": [
+      "Grass",
+      "Electric"
+    ],
+    "stats": {
+      "hp": 125,
+      "atk": 85,
+      "def": 127,
+      "spa": 125,
+      "spd": 127,
+      "spe": 106
+    },
+    "bst": 695,
+    "abilities": [
+      {
+        "name": "Levitate",
+        "description": "The Pokémon floats off the ground, making it immune to Ground-type moves, as well as the Spikes, Toxic Spikes, and Sticky Web statuses."
+      }
+    ],
+    "moves": [
+      "Overheat",
+      "Volt Switch",
+      "Trick",
+      "Will-O-Wisp",
+      "Foul Play",
+      "Thunderbolt",
+      "Hydro Pump",
+      "Protect",
+      "Pain Split",
+      "Blizzard"
+    ]
+  },
+  {
+    "id": "serperior",
+    "name": "Serperior",
+    "types": [
+      "Grass"
+    ],
+    "stats": {
+      "hp": 150,
+      "atk": 95,
+      "def": 115,
+      "spa": 95,
+      "spd": 115,
+      "spe": 133
+    },
+    "bst": 703,
+    "abilities": [
+      {
+        "name": "Overgrow",
+        "description": "Boosts the power of the Pokémon's Grass-type moves by 50% when its HP drops to 1/3 or less of its max."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "emboar",
+    "name": "Emboar",
+    "types": [
+      "Fire",
+      "Fighting"
+    ],
+    "stats": {
+      "hp": 185,
+      "atk": 143,
+      "def": 85,
+      "spa": 120,
+      "spd": 85,
+      "spe": 85
+    },
+    "bst": 703,
+    "abilities": [
+      {
+        "name": "Blaze",
+        "description": "Boosts the power of the Pokémon's Fire-type moves by 50% when its HP drops to 1/3 or less of its max."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "mega-emboar",
+    "name": "Mega Emboar",
+    "types": [
+      "Fire",
+      "Fighting"
+    ],
+    "stats": {
+      "hp": 185,
+      "atk": 168,
+      "def": 95,
+      "spa": 130,
+      "spd": 130,
+      "spe": 95
+    },
+    "bst": 803,
+    "abilities": [
+      {
+        "name": "Mold Breaker",
+        "description": "The Pokémon's moves are unaffected by the Ability of the target (with certain exceptions)."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "samurott",
+    "name": "Samurott",
+    "types": [
+      "Water"
+    ],
+    "stats": {
+      "hp": 170,
+      "atk": 120,
+      "def": 105,
+      "spa": 128,
+      "spd": 90,
+      "spe": 90
+    },
+    "bst": 703,
+    "abilities": [
+      {
+        "name": "Torrent",
+        "description": "Boosts the power of the Pokémon's Water-type moves by 50% when its HP drops to 1/3 or less of its max."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "hisuian-samurott",
+    "name": "Hisuian Samurott",
+    "types": [
+      "Water",
+      "Dark"
+    ],
+    "stats": {
+      "hp": 165,
+      "atk": 128,
+      "def": 100,
+      "spa": 120,
+      "spd": 85,
+      "spe": 105
+    },
+    "bst": 703,
+    "abilities": [
+      {
+        "name": "Torrent",
+        "description": "Boosts the power of the Pokémon's Water-type moves by 50% when its HP drops to 1/3 or less of its max."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "watchog",
+    "name": "Watchog",
+    "types": [
+      "Normal"
+    ],
+    "stats": {
+      "hp": 135,
+      "atk": 105,
+      "def": 89,
+      "spa": 80,
+      "spd": 89,
+      "spe": 97
+    },
+    "bst": 595,
+    "abilities": [
+      {
+        "name": "Illuminate",
+        "description": "The Pokémon ignores changes to targets' evasiveness and its accuracy cannot be lowered."
+      },
+      {
+        "name": "Keen Eye",
+        "description": "The Pokémon ignores changes to targets' evasiveness and its accuracy cannot be lowered."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "liepard",
+    "name": "Liepard",
+    "types": [
+      "Dark"
+    ],
+    "stats": {
+      "hp": 139,
+      "atk": 108,
+      "def": 70,
+      "spa": 108,
+      "spd": 70,
+      "spe": 126
+    },
+    "bst": 621,
+    "abilities": [
+      {
+        "name": "Limber",
+        "description": "The Pokémon cannot be paralyzed."
+      },
+      {
+        "name": "Unburden",
+        "description": "Doubles the Pokémon's Speed stat when its held item is consumed or lost."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "simisage",
+    "name": "Simisage",
+    "types": [
+      "Grass"
+    ],
+    "stats": {
+      "hp": 150,
+      "atk": 118,
+      "def": 83,
+      "spa": 118,
+      "spd": 83,
+      "spe": 121
+    },
+    "bst": 673,
+    "abilities": [
+      {
+        "name": "Gluttony",
+        "description": "If the Pokémon is holding a Berry to be eaten when its HP drops to 1/4 or less of its max, it will instead eat the Berry when its HP drops to 1/2 or less of its max."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "simisear",
+    "name": "Simisear",
+    "types": [
+      "Fire"
+    ],
+    "stats": {
+      "hp": 150,
+      "atk": 118,
+      "def": 83,
+      "spa": 118,
+      "spd": 83,
+      "spe": 121
+    },
+    "bst": 673,
+    "abilities": [
+      {
+        "name": "Gluttony",
+        "description": "If the Pokémon is holding a Berry to be eaten when its HP drops to 1/4 or less of its max, it will instead eat the Berry when its HP drops to 1/2 or less of its max."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "simipour",
+    "name": "Simipour",
+    "types": [
+      "Water"
+    ],
+    "stats": {
+      "hp": 150,
+      "atk": 118,
+      "def": 83,
+      "spa": 118,
+      "spd": 83,
+      "spe": 121
+    },
+    "bst": 673,
+    "abilities": [
+      {
+        "name": "Gluttony",
+        "description": "If the Pokémon is holding a Berry to be eaten when its HP drops to 1/4 or less of its max, it will instead eat the Berry when its HP drops to 1/2 or less of its max."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "excadrill",
+    "name": "Excadrill",
+    "types": [
+      "Ground",
+      "Steel"
+    ],
+    "stats": {
+      "hp": 185,
+      "atk": 155,
+      "def": 80,
+      "spa": 70,
+      "spd": 85,
+      "spe": 108
+    },
+    "bst": 683,
+    "abilities": [
+      {
+        "name": "Sand Rush",
+        "description": "Doubles the Pokémon's Speed stat in a sandstorm."
+      },
+      {
+        "name": "Sand Force",
+        "description": "Boosts the power of the Pokémon's Rock-, Ground-, and Steel-type moves by 30% in a sandstorm."
+      }
+    ],
+    "moves": [
+      "Earthquake",
+      "Iron Head",
+      "Rock Slide",
+      "Protect",
+      "Horn Drill",
+      "Fissure",
+      "Stealth Rock",
+      "Rapid Spin"
+    ]
+  },
+  {
+    "id": "mega-excadrill",
+    "name": "Mega Excadrill",
+    "types": [
+      "Ground",
+      "Steel"
+    ],
+    "stats": {
+      "hp": 185,
+      "atk": 185,
+      "def": 120,
+      "spa": 85,
+      "spd": 85,
+      "spe": 123
+    },
+    "bst": 783,
+    "abilities": [
+      {
+        "name": "Piercing Drill",
+        "description": "When the Pokémon uses contact moves, it can hit even targets that are protecting themselves, dealing 1/4 of the damage that the move would otherwise deal. Everything aside from the target's protective effects is still triggered."
+      }
+    ],
+    "moves": [
+      "Earthquake",
+      "Iron Head",
+      "Rock Slide",
+      "Protect",
+      "Horn Drill",
+      "Fissure",
+      "Swords Dance",
+      "Stealth Rock",
+      "Rapid Spin"
+    ]
+  },
+  {
+    "id": "audino",
+    "name": "Audino",
+    "types": [
+      "Normal"
+    ],
+    "stats": {
+      "hp": 178,
+      "atk": 80,
+      "def": 106,
+      "spa": 80,
+      "spd": 106,
+      "spe": 70
+    },
+    "bst": 620,
+    "abilities": [
+      {
+        "name": "Healer",
+        "description": "The Pokémon has a 50% chance of curing the status conditions of its allies at the end of every turn."
+      },
+      {
+        "name": "Regenerator",
+        "description": "The Pokémon has 1/3 of its max HP restored when it switches out of battle."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "mega-audino",
+    "name": "Mega Audino",
+    "types": [
+      "Normal",
+      "Fairy"
+    ],
+    "stats": {
+      "hp": 178,
+      "atk": 80,
+      "def": 146,
+      "spa": 100,
+      "spd": 146,
+      "spe": 70
+    },
+    "bst": 720,
+    "abilities": [
+      {
+        "name": "Healer",
+        "description": "The Pokémon has a 50% chance of curing the status conditions of its allies at the end of every turn."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "conkeldurr",
+    "name": "Conkeldurr",
+    "types": [
+      "Fighting"
+    ],
+    "stats": {
+      "hp": 180,
+      "atk": 160,
+      "def": 115,
+      "spa": 75,
+      "spd": 85,
+      "spe": 65
+    },
+    "bst": 680,
+    "abilities": [
+      {
+        "name": "Guts",
+        "description": "When the Pokémon has a status condition, its Attack stat is boosted by 50%. Being burned does not halve the damage dealt by the Pokémon's physical moves."
+      },
+      {
+        "name": "Sheer Force",
+        "description": "The Pokémon's moves lose their additional effects, but the power of those moves will be boosted by 30%."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "whimsicott",
+    "name": "Whimsicott",
+    "types": [
+      "Grass",
+      "Fairy"
+    ],
+    "stats": {
+      "hp": 135,
+      "atk": 87,
+      "def": 105,
+      "spa": 97,
+      "spd": 95,
+      "spe": 136
+    },
+    "bst": 655,
+    "abilities": [
+      {
+        "name": "Prankster",
+        "description": "Increases the priority of the Pokémon's status moves by 1 stage."
+      },
+      {
+        "name": "Infiltrator",
+        "description": "When using its moves, the Pokémon ignores the effects of targets' Light Screen, Reflect, Aurora Veil, Safeguard, and substitutes."
+      }
+    ],
+    "moves": [
+      "Leech Seed",
+      "Substitute",
+      "Moonblast",
+      "Protect"
+    ]
+  },
+  {
+    "id": "krookodile",
+    "name": "Krookodile",
+    "types": [
+      "Ground",
+      "Dark"
+    ],
+    "stats": {
+      "hp": 170,
+      "atk": 137,
+      "def": 100,
+      "spa": 85,
+      "spd": 90,
+      "spe": 112
+    },
+    "bst": 694,
+    "abilities": [
+      {
+        "name": "Intimidate",
+        "description": "When the Pokémon enters a battle, it lowers the Attack stats of opponents by 1 stage."
+      },
+      {
+        "name": "Moxie",
+        "description": "When the Pokémon knocks out a target with an attack, its Attack stat is boosted by 1 stage."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "cofagrigus",
+    "name": "Cofagrigus",
+    "types": [
+      "Ghost"
+    ],
+    "stats": {
+      "hp": 133,
+      "atk": 70,
+      "def": 165,
+      "spa": 115,
+      "spd": 125,
+      "spe": 50
+    },
+    "bst": 658,
+    "abilities": [
+      {
+        "name": "Mummy",
+        "description": "When the Pokémon is hit by a contact move, the attacker has its Ability changed to Mummy."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "garbodor",
+    "name": "Garbodor",
+    "types": [
+      "Poison"
+    ],
+    "stats": {
+      "hp": 155,
+      "atk": 115,
+      "def": 102,
+      "spa": 80,
+      "spd": 102,
+      "spe": 95
+    },
+    "bst": 649,
+    "abilities": [
+      {
+        "name": "Stench",
+        "description": "When the Pokémon deals damage with its moves, there is a 10% chance that targets will flinch."
+      },
+      {
+        "name": "Weak Armor",
+        "description": "When the Pokémon takes damage from a physical move, its Defense stat is lowered by 1 stage, but its Speed stat is boosted by 2 stages."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "zoroark",
+    "name": "Zoroark",
+    "types": [
+      "Dark"
+    ],
+    "stats": {
+      "hp": 135,
+      "atk": 125,
+      "def": 80,
+      "spa": 140,
+      "spd": 80,
+      "spe": 125
+    },
+    "bst": 685,
+    "abilities": [
+      {
+        "name": "Illusion",
+        "description": "The Pokémon enters battle disguised as the last Pokémon in its party. It reverts to its usual appearance when it takes damage from a move."
+      }
+    ],
+    "moves": [
+      "Bitter Malice",
+      "Nasty Plot",
+      "Hyper Voice",
+      "Shadow Sneak"
+    ]
+  },
+  {
+    "id": "hisuian-zoroark",
+    "name": "Hisuian Zoroark",
+    "types": [
+      "Normal",
+      "Ghost"
+    ],
+    "stats": {
+      "hp": 130,
+      "atk": 120,
+      "def": 80,
+      "spa": 145,
+      "spd": 80,
+      "spe": 130
+    },
+    "bst": 685,
+    "abilities": [
+      {
+        "name": "Illusion",
+        "description": "The Pokémon enters battle disguised as the last Pokémon in its party. It reverts to its usual appearance when it takes damage from a move."
+      }
+    ],
+    "moves": [
+      "Bitter Malice",
+      "Nasty Plot",
+      "Hyper Voice",
+      "Shadow Sneak"
+    ]
+  },
+  {
+    "id": "reuniclus",
+    "name": "Reuniclus",
+    "types": [
+      "Psychic"
+    ],
+    "stats": {
+      "hp": 185,
+      "atk": 85,
+      "def": 95,
+      "spa": 145,
+      "spd": 105,
+      "spe": 50
+    },
+    "bst": 665,
+    "abilities": [
+      {
+        "name": "Overcoat",
+        "description": "The Pokémon takes no damage from sandstorms and is immune to moves and Abilities involving powder."
+      },
+      {
+        "name": "Magic Guard",
+        "description": "The Pokémon takes damage only from attacks."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "vanilluxe",
+    "name": "Vanilluxe",
+    "types": [
+      "Ice"
+    ],
+    "stats": {
+      "hp": 146,
+      "atk": 115,
+      "def": 105,
+      "spa": 130,
+      "spd": 115,
+      "spe": 99
+    },
+    "bst": 710,
+    "abilities": [
+      {
+        "name": "Ice Body",
+        "description": "The Pokémon has 1/16 of its max HP restored at the end of every turn in snow."
+      },
+      {
+        "name": "Snow Warning",
+        "description": "Summons snow for 5 turns when the Pokémon enters a battle."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "emolga",
+    "name": "Emolga",
+    "types": [
+      "Electric",
+      "Flying"
+    ],
+    "stats": {
+      "hp": 130,
+      "atk": 95,
+      "def": 80,
+      "spa": 95,
+      "spd": 80,
+      "spe": 123
+    },
+    "bst": 603,
+    "abilities": [
+      {
+        "name": "Static",
+        "description": "When the Pokémon is hit by a contact move, the attacker has a 30% chance of being paralyzed."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "chandelure",
+    "name": "Chandelure",
+    "types": [
+      "Fire",
+      "Ghost"
+    ],
+    "stats": {
+      "hp": 135,
+      "atk": 75,
+      "def": 110,
+      "spa": 165,
+      "spd": 110,
+      "spe": 100
+    },
+    "bst": 695,
+    "abilities": [
+      {
+        "name": "Flash Fire",
+        "description": "Fire-type moves do not work on the Pokémon. Instead, they give the Pokémon the Flash Fire status, which boosts the power of Fire-type moves by 50%."
+      },
+      {
+        "name": "Flame Body",
+        "description": "When the Pokémon is hit by a contact move, the attacker has a 30% chance of being burned."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "mega-chandelure",
+    "name": "Mega Chandelure",
+    "types": [
+      "Fire",
+      "Ghost"
+    ],
+    "stats": {
+      "hp": 135,
+      "atk": 95,
+      "def": 130,
+      "spa": 195,
+      "spd": 130,
+      "spe": 110
+    },
+    "bst": 795,
+    "abilities": [
+      {
+        "name": "Infiltrator",
+        "description": "When using its moves, the Pokémon ignores the effects of targets' Light Screen, Reflect, Aurora Veil, Safeguard, and substitutes."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "beartic",
+    "name": "Beartic",
+    "types": [
+      "Ice"
+    ],
+    "stats": {
+      "hp": 170,
+      "atk": 150,
+      "def": 100,
+      "spa": 90,
+      "spd": 100,
+      "spe": 70
+    },
+    "bst": 680,
+    "abilities": [
+      {
+        "name": "Snow Cloak",
+        "description": "Boosts the Pokémon's evasiveness by 25% in snow."
+      },
+      {
+        "name": "Slush Rush",
+        "description": "Doubles the Pokémon's Speed stat in snow."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "stunfisk",
+    "name": "Stunfisk",
+    "types": [
+      "Electric",
+      "Ground"
+    ],
+    "stats": {
+      "hp": 184,
+      "atk": 86,
+      "def": 104,
+      "spa": 101,
+      "spd": 119,
+      "spe": 52
+    },
+    "bst": 646,
+    "abilities": [
+      {
+        "name": "Static",
+        "description": "When the Pokémon is hit by a contact move, the attacker has a 30% chance of being paralyzed."
+      },
+      {
+        "name": "Limber",
+        "description": "The Pokémon cannot be paralyzed."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "galarian-stunfisk",
+    "name": "Galarian Stunfisk",
+    "types": [
+      "Ground",
+      "Steel"
+    ],
+    "stats": {
+      "hp": 184,
+      "atk": 101,
+      "def": 119,
+      "spa": 86,
+      "spd": 104,
+      "spe": 52
+    },
+    "bst": 646,
+    "abilities": [
+      {
+        "name": "Mimicry",
+        "description": "The Pokémon's type changes depending on the terrain."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "golurk",
+    "name": "Golurk",
+    "types": [
+      "Ground",
+      "Ghost"
+    ],
+    "stats": {
+      "hp": 164,
+      "atk": 144,
+      "def": 100,
+      "spa": 75,
+      "spd": 100,
+      "spe": 75
+    },
+    "bst": 658,
+    "abilities": [
+      {
+        "name": "Iron Fist",
+        "description": "Boosts the power of the Pokémon's punching moves by 20%."
+      },
+      {
+        "name": "Klutz",
+        "description": "Items do not work when held by the Pokémon."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "mega-golurk",
+    "name": "Mega Golurk",
+    "types": [
+      "Ground",
+      "Ghost"
+    ],
+    "stats": {
+      "hp": 164,
+      "atk": 179,
+      "def": 125,
+      "spa": 90,
+      "spd": 125,
+      "spe": 75
+    },
+    "bst": 758,
+    "abilities": [
+      {
+        "name": "Unseen Fist",
+        "description": "When the Pokémon uses contact moves, it can hit even targets that are protecting themselves, dealing 1/4 of the damage that the move would otherwise deal. Everything aside from the target's protective effects is still triggered."
+      }
+    ],
+    "moves": [
+      "Poltergeist",
+      "Earthquake",
+      "Ice Punch",
+      "Drain Punch"
+    ]
+  },
+  {
+    "id": "hydreigon",
+    "name": "Hydreigon",
+    "types": [
+      "Dragon",
+      "Dark"
+    ],
+    "stats": {
+      "hp": 167,
+      "atk": 125,
+      "def": 110,
+      "spa": 145,
+      "spd": 110,
+      "spe": 118
+    },
+    "bst": 775,
+    "abilities": [
+      {
+        "name": "Levitate",
+        "description": "The Pokémon floats off the ground, making it immune to Ground-type moves, as well as the Spikes, Toxic Spikes, and Sticky Web statuses."
+      }
+    ],
+    "moves": [
+      "Draco Meteor",
+      "Dark Pulse",
+      "Flamethrower",
+      "Earth Power"
+    ]
+  },
+  {
+    "id": "volcarona",
+    "name": "Volcarona",
+    "types": [
+      "Fire",
+      "Bug"
+    ],
+    "stats": {
+      "hp": 160,
+      "atk": 80,
+      "def": 85,
+      "spa": 155,
+      "spd": 125,
+      "spe": 120
+    },
+    "bst": 725,
+    "abilities": [
+      {
+        "name": "Flame Body",
+        "description": "When the Pokémon is hit by a contact move, the attacker has a 30% chance of being burned."
+      }
+    ],
+    "moves": [
+      "Giga Drain",
+      "Fiery Dance",
+      "Quiver Dance",
+      "Bug Buzz"
+    ]
+  },
+  {
+    "id": "chesnaught",
+    "name": "Chesnaught",
+    "types": [
+      "Grass",
+      "Fighting"
+    ],
+    "stats": {
+      "hp": 163,
+      "atk": 127,
+      "def": 142,
+      "spa": 94,
+      "spd": 95,
+      "spe": 84
+    },
+    "bst": 705,
+    "abilities": [
+      {
+        "name": "Overgrow",
+        "description": "Boosts the power of the Pokémon's Grass-type moves by 50% when its HP drops to 1/3 or less of its max."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "mega-chesnaught",
+    "name": "Mega Chesnaught",
+    "types": [
+      "Grass",
+      "Fighting"
+    ],
+    "stats": {
+      "hp": 163,
+      "atk": 157,
+      "def": 192,
+      "spa": 94,
+      "spd": 135,
+      "spe": 64
+    },
+    "bst": 805,
+    "abilities": [
+      {
+        "name": "Bulletproof",
+        "description": "The Pokémon is immune to ball and bomb moves."
+      }
+    ],
+    "moves": [
+      "Body Press",
+      "Iron Defense",
+      "Synthesis",
+      "Knock Off"
+    ]
+  },
+  {
+    "id": "delphox",
+    "name": "Delphox",
+    "types": [
+      "Fire",
+      "Psychic"
+    ],
+    "stats": {
+      "hp": 150,
+      "atk": 89,
+      "def": 92,
+      "spa": 134,
+      "spd": 120,
+      "spe": 124
+    },
+    "bst": 709,
+    "abilities": [
+      {
+        "name": "Blaze",
+        "description": "Boosts the power of the Pokémon's Fire-type moves by 50% when its HP drops to 1/3 or less of its max."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "mega-delphox",
+    "name": "Mega Delphox",
+    "types": [
+      "Fire",
+      "Psychic"
+    ],
+    "stats": {
+      "hp": 150,
+      "atk": 89,
+      "def": 92,
+      "spa": 179,
+      "spd": 145,
+      "spe": 154
+    },
+    "bst": 809,
+    "abilities": [
+      {
+        "name": "Levitate",
+        "description": "The Pokémon floats off the ground, making it immune to Ground-type moves, as well as the Spikes, Toxic Spikes, and Sticky Web statuses."
+      }
+    ],
+    "moves": [
+      "Psychic",
+      "Flamethrower",
+      "Dazzling Gleam",
+      "Nasty Plot",
+      "Heat Wave",
+      "Substitute",
+      "Protect"
+    ]
+  },
+  {
+    "id": "greninja",
+    "name": "Greninja",
+    "types": [
+      "Water",
+      "Dark"
+    ],
+    "stats": {
+      "hp": 147,
+      "atk": 115,
+      "def": 87,
+      "spa": 123,
+      "spd": 91,
+      "spe": 142
+    },
+    "bst": 705,
+    "abilities": [
+      {
+        "name": "Torrent",
+        "description": "Boosts the power of the Pokémon's Water-type moves by 50% when its HP drops to 1/3 or less of its max."
+      }
+    ],
+    "moves": [
+      "Hydro Pump",
+      "U-turn",
+      "Rock Slide",
+      "Liquidation"
+    ]
+  },
+  {
+    "id": "mega-greninja",
+    "name": "Mega Greninja",
+    "types": [
+      "Water",
+      "Dark"
+    ],
+    "stats": {
+      "hp": 147,
+      "atk": 145,
+      "def": 97,
+      "spa": 153,
+      "spd": 101,
+      "spe": 162
+    },
+    "bst": 805,
+    "abilities": [
+      {
+        "name": "Protean",
+        "description": "Changes the Pokémon's type to the type of the move it's about to use. This works only once per time the Pokémon enters battle."
+      }
+    ],
+    "moves": [
+      "Hydro Pump",
+      "U-turn",
+      "Rock Slide",
+      "Liquidation",
+      "Water Shuriken",
+      "Ice Beam",
+      "Dark Pulse",
+      "Grass Knot"
+    ]
+  },
+  {
+    "id": "diggersby",
+    "name": "Diggersby",
+    "types": [
+      "Normal",
+      "Ground"
+    ],
+    "stats": {
+      "hp": 160,
+      "atk": 76,
+      "def": 97,
+      "spa": 70,
+      "spd": 97,
+      "spe": 98
+    },
+    "bst": 598,
+    "abilities": [
+      {
+        "name": "Pickup",
+        "description": "If the Pokémon is not already holding an item, at the end of the turn it will pick up an item that was consumed by another Pokémon."
+      },
+      {
+        "name": "Cheek Pouch",
+        "description": "The Pokémon has 1/3 of its max HP restored when it eats a Berry, in addition to the Berry's usual effect."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "talonflame",
+    "name": "Talonflame",
+    "types": [
+      "Fire",
+      "Flying"
+    ],
+    "stats": {
+      "hp": 153,
+      "atk": 101,
+      "def": 91,
+      "spa": 94,
+      "spd": 89,
+      "spe": 146
+    },
+    "bst": 674,
+    "abilities": [
+      {
+        "name": "Flame Body",
+        "description": "When the Pokémon is hit by a contact move, the attacker has a 30% chance of being burned."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "vivillon",
+    "name": "Vivillon",
+    "types": [
+      "Flying",
+      "Bug"
+    ],
+    "stats": {
+      "hp": 155,
+      "atk": 72,
+      "def": 70,
+      "spa": 110,
+      "spd": 70,
+      "spe": 109
+    },
+    "bst": 586,
+    "abilities": [
+      {
+        "name": "Shield Dust",
+        "description": "The Pokémon is immune to additional effects from attacks."
+      },
+      {
+        "name": "Compound Eyes",
+        "description": "Boosts the accuracy of the Pokémon's moves by 30%."
+      }
+    ],
+    "moves": [
+      "Hurricane",
+      "Sleep Powder",
+      "Tailwind",
+      "Protect"
+    ]
+  },
+  {
+    "id": "eternal-flower-floette",
+    "name": "Eternal Flower Floette",
+    "types": [
+      "Fairy"
+    ],
+    "stats": {
+      "hp": 149,
+      "atk": 85,
+      "def": 87,
+      "spa": 145,
+      "spd": 148,
+      "spe": 112
+    },
+    "bst": 726,
+    "abilities": [
+      {
+        "name": "Flower Veil",
+        "description": "Grass-type allies are immune to status conditions and cannot have their stats lowered."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "mega-floette",
+    "name": "Mega Floette",
+    "types": [
+      "Fairy"
+    ],
+    "stats": {
+      "hp": 149,
+      "atk": 105,
+      "def": 107,
+      "spa": 175,
+      "spd": 168,
+      "spe": 122
+    },
+    "bst": 826,
+    "abilities": [
+      {
+        "name": "Fairy Aura",
+        "description": "Boosts the power of the Fairy-type moves of all Pokémon on the field by 33%."
+      }
+    ],
+    "moves": [
+      "Moonblast",
+      "Dazzling Gleam",
+      "Psychic",
+      "Calm Mind",
+      "Protect"
+    ]
+  },
+  {
+    "id": "florges",
+    "name": "Florges",
+    "types": [
+      "Fairy"
+    ],
+    "stats": {
+      "hp": 153,
+      "atk": 85,
+      "def": 88,
+      "spa": 132,
+      "spd": 174,
+      "spe": 95
+    },
+    "bst": 727,
+    "abilities": [
+      {
+        "name": "Flower Veil",
+        "description": "Grass-type allies are immune to status conditions and cannot have their stats lowered."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "pangoro",
+    "name": "Pangoro",
+    "types": [
+      "Fighting",
+      "Dark"
+    ],
+    "stats": {
+      "hp": 170,
+      "atk": 144,
+      "def": 98,
+      "spa": 89,
+      "spd": 91,
+      "spe": 78
+    },
+    "bst": 670,
+    "abilities": [
+      {
+        "name": "Iron Fist",
+        "description": "Boosts the power of the Pokémon's punching moves by 20%."
+      },
+      {
+        "name": "Mold Breaker",
+        "description": "The Pokémon's moves are unaffected by the Ability of the target (with certain exceptions)."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "furfrou",
+    "name": "Furfrou",
+    "types": [
+      "Normal"
+    ],
+    "stats": {
+      "hp": 150,
+      "atk": 100,
+      "def": 80,
+      "spa": 85,
+      "spd": 110,
+      "spe": 122
+    },
+    "bst": 647,
+    "abilities": [
+      {
+        "name": "Fur Coat",
+        "description": "Halves the damage the Pokémon takes from physical moves."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "meowstic-(male)",
+    "name": "Meowstic (Male)",
+    "types": [
+      "Psychic"
+    ],
+    "stats": {
+      "hp": 149,
+      "atk": 68,
+      "def": 96,
+      "spa": 103,
+      "spd": 101,
+      "spe": 124
+    },
+    "bst": 641,
+    "abilities": [
+      {
+        "name": "Keen Eye",
+        "description": "The Pokémon ignores changes to targets' evasiveness and its accuracy cannot be lowered."
+      },
+      {
+        "name": "Infiltrator",
+        "description": "When using its moves, the Pokémon ignores the effects of targets' Light Screen, Reflect, Aurora Veil, Safeguard, and substitutes."
+      }
+    ],
+    "moves": [
+      "Psychic",
+      "Alluring Voice",
+      "Dark Pulse",
+      "Nasty Plot"
+    ]
+  },
+  {
+    "id": "meowstic-(female)",
+    "name": "Meowstic (Female)",
+    "types": [
+      "Psychic"
+    ],
+    "stats": {
+      "hp": 149,
+      "atk": 68,
+      "def": 96,
+      "spa": 103,
+      "spd": 101,
+      "spe": 124
+    },
+    "bst": 641,
+    "abilities": [
+      {
+        "name": "Keen Eye",
+        "description": "The Pokémon ignores changes to targets' evasiveness and its accuracy cannot be lowered."
+      },
+      {
+        "name": "Infiltrator",
+        "description": "When using its moves, the Pokémon ignores the effects of targets' Light Screen, Reflect, Aurora Veil, Safeguard, and substitutes."
+      }
+    ],
+    "moves": [
+      "Psychic",
+      "Alluring Voice",
+      "Dark Pulse",
+      "Nasty Plot"
+    ]
+  },
+  {
+    "id": "mega-meowstic-(male)",
+    "name": "Mega Meowstic (Male)",
+    "types": [
+      "Psychic"
+    ],
+    "stats": {
+      "hp": 149,
+      "atk": 68,
+      "def": 96,
+      "spa": 163,
+      "spd": 121,
+      "spe": 144
+    },
+    "bst": 741,
+    "abilities": [
+      {
+        "name": "Trace",
+        "description": "When the Pokémon enters a battle, it changes its Ability to match that of an opponent."
+      }
+    ],
+    "moves": [
+      "Psychic",
+      "Alluring Voice",
+      "Dark Pulse",
+      "Nasty Plot"
+    ]
+  },
+  {
+    "id": "mega-meowstic-(female)",
+    "name": "Mega Meowstic (Female)",
+    "types": [
+      "Psychic"
+    ],
+    "stats": {
+      "hp": 149,
+      "atk": 68,
+      "def": 96,
+      "spa": 103,
+      "spd": 101,
+      "spe": 124
+    },
+    "bst": 641,
+    "abilities": [
+      {
+        "name": "Trace",
+        "description": "When the Pokémon enters a battle, it changes its Ability to match that of an opponent."
+      }
+    ],
+    "moves": [
+      "Psychic",
+      "Alluring Voice",
+      "Dark Pulse",
+      "Nasty Plot"
+    ]
+  },
+  {
+    "id": "aegislash-(shield-forme)",
+    "name": "Aegislash (Shield Forme)",
+    "types": [
+      "Ghost",
+      "Steel"
+    ],
+    "stats": {
+      "hp": 135,
+      "atk": 70,
+      "def": 160,
+      "spa": 70,
+      "spd": 160,
+      "spe": 80
+    },
+    "bst": 675,
+    "abilities": [
+      {
+        "name": "Stance Change",
+        "description": "The Pokémon changes into its Blade Forme when it attacks and changes into its Shield Forme when it uses the move King's Shield."
+      }
+    ],
+    "moves": [
+      "Iron Head",
+      "Shadow Claw",
+      "Shadow Sneak",
+      "King's Shield"
+    ]
+  },
+  {
+    "id": "aegislash-(blade-forme)",
+    "name": "Aegislash (Blade Forme)",
+    "types": [
+      "Ghost",
+      "Steel"
+    ],
+    "stats": {
+      "hp": 135,
+      "atk": 160,
+      "def": 70,
+      "spa": 160,
+      "spd": 70,
+      "spe": 80
+    },
+    "bst": 675,
+    "abilities": [
+      {
+        "name": "Stance Change",
+        "description": "The Pokémon changes into its Blade Forme when it attacks and changes into its Shield Forme when it uses the move King's Shield."
+      }
+    ],
+    "moves": [
+      "Iron Head",
+      "Shadow Claw",
+      "Shadow Sneak",
+      "King's Shield"
+    ]
+  },
+  {
+    "id": "aromatisse",
+    "name": "Aromatisse",
+    "types": [
+      "Fairy"
+    ],
+    "stats": {
+      "hp": 176,
+      "atk": 92,
+      "def": 92,
+      "spa": 119,
+      "spd": 109,
+      "spe": 49
+    },
+    "bst": 637,
+    "abilities": [
+      {
+        "name": "Healer",
+        "description": "The Pokémon has a 50% chance of curing the status conditions of its allies at the end of every turn."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "slurpuff",
+    "name": "Slurpuff",
+    "types": [
+      "Fairy"
+    ],
+    "stats": {
+      "hp": 157,
+      "atk": 100,
+      "def": 106,
+      "spa": 105,
+      "spd": 95,
+      "spe": 92
+    },
+    "bst": 655,
+    "abilities": [
+      {
+        "name": "Sweet Veil",
+        "description": "The Pokémon and its allies cannot become drowsy or be put to sleep."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "clawitzer",
+    "name": "Clawitzer",
+    "types": [
+      "Water"
+    ],
+    "stats": {
+      "hp": 146,
+      "atk": 93,
+      "def": 108,
+      "spa": 140,
+      "spd": 109,
+      "spe": 79
+    },
+    "bst": 675,
+    "abilities": [
+      {
+        "name": "Mega Launcher",
+        "description": "Boosts the power of the Pokémon's pulse moves by 50%."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "heliolisk",
+    "name": "Heliolisk",
+    "types": [
+      "Normal",
+      "Electric"
+    ],
+    "stats": {
+      "hp": 137,
+      "atk": 75,
+      "def": 72,
+      "spa": 129,
+      "spd": 114,
+      "spe": 129
+    },
+    "bst": 656,
+    "abilities": [
+      {
+        "name": "Dry Skin",
+        "description": "Water-type moves do not work on the Pokémon. Instead, they restore 1/4 of its max HP. However, the Pokémon takes 25% more damage from Fire-type moves. The Pokémon has 1 /8 of its max HP restored at the end of every turn in rain, but it loses 1/8 of its max HP at the end of every turn in harsh sunlight."
+      },
+      {
+        "name": "Sand Veil",
+        "description": "Boosts the Pokémon's evasiveness by 25% in a sandstorm."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "tyrantrum",
+    "name": "Tyrantrum",
+    "types": [
+      "Rock",
+      "Dragon"
+    ],
+    "stats": {
+      "hp": 157,
+      "atk": 141,
+      "def": 139,
+      "spa": 89,
+      "spd": 79,
+      "spe": 91
+    },
+    "bst": 696,
+    "abilities": [
+      {
+        "name": "Strong Jaw",
+        "description": "Boosts the power of the Pokémon's biting moves by 50%."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "aurorus",
+    "name": "Aurorus",
+    "types": [
+      "Ice",
+      "Rock"
+    ],
+    "stats": {
+      "hp": 198,
+      "atk": 97,
+      "def": 92,
+      "spa": 119,
+      "spd": 112,
+      "spe": 78
+    },
+    "bst": 696,
+    "abilities": [
+      {
+        "name": "Refrigerate",
+        "description": "The Pokémon's Normal-type moves become Ice-type moves and their power is boosted by 20%."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "sylveon",
+    "name": "Sylveon",
+    "types": [
+      "Fairy"
+    ],
+    "stats": {
+      "hp": 170,
+      "atk": 85,
+      "def": 85,
+      "spa": 130,
+      "spd": 150,
+      "spe": 80
+    },
+    "bst": 700,
+    "abilities": [
+      {
+        "name": "Cute Charm",
+        "description": "When the Pokémon is hit by a contact move, the attacker has a 30% chance of gaining the Infatuated status if the attacker and the Pokémon are of opposite genders."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "hawlucha",
+    "name": "Hawlucha",
+    "types": [
+      "Fighting",
+      "Flying"
+    ],
+    "stats": {
+      "hp": 153,
+      "atk": 112,
+      "def": 95,
+      "spa": 94,
+      "spd": 83,
+      "spe": 138
+    },
+    "bst": 675,
+    "abilities": [
+      {
+        "name": "Limber",
+        "description": "The Pokémon cannot be paralyzed."
+      },
+      {
+        "name": "Unburden",
+        "description": "Doubles the Pokémon's Speed stat when its held item is consumed or lost."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "mega-hawlucha",
+    "name": "Mega Hawlucha",
+    "types": [
+      "Fighting",
+      "Flying"
+    ],
+    "stats": {
+      "hp": 153,
+      "atk": 157,
+      "def": 120,
+      "spa": 94,
+      "spd": 113,
+      "spe": 138
+    },
+    "bst": 775,
+    "abilities": [
+      {
+        "name": "No Guard",
+        "description": "The accuracy of moves used both by and against the Pokémon becomes 100%."
+      }
+    ],
+    "moves": [
+      "Entrainment",
+      "Taunt",
+      "Quick Guard",
+      "Brave Bird"
+    ]
+  },
+  {
+    "id": "dedenne",
+    "name": "Dedenne",
+    "types": [
+      "Electric",
+      "Fairy"
+    ],
+    "stats": {
+      "hp": 142,
+      "atk": 78,
+      "def": 77,
+      "spa": 101,
+      "spd": 87,
+      "spe": 121
+    },
+    "bst": 606,
+    "abilities": [
+      {
+        "name": "Cheek Pouch",
+        "description": "The Pokémon has 1/3 of its max HP restored when it eats a Berry, in addition to the Berry's usual effect."
+      },
+      {
+        "name": "Pickup",
+        "description": "If the Pokémon is not already holding an item, at the end of the turn it will pick up an item that was consumed by another Pokémon."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "goodra",
+    "name": "Goodra",
+    "types": [
+      "Dragon"
+    ],
+    "stats": {
+      "hp": 165,
+      "atk": 120,
+      "def": 90,
+      "spa": 130,
+      "spd": 170,
+      "spe": 100
+    },
+    "bst": 775,
+    "abilities": [
+      {
+        "name": "Sap Sipper",
+        "description": "Grass-type moves do not work on the Pokémon. Instead, they boost its Attack stat by 1 stage."
+      },
+      {
+        "name": "Hydration",
+        "description": "Cures the Pokémon's status conditions at the end of every turn in rain."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "hisuian-goodra",
+    "name": "Hisuian Goodra",
+    "types": [
+      "Dragon",
+      "Steel"
+    ],
+    "stats": {
+      "hp": 155,
+      "atk": 120,
+      "def": 120,
+      "spa": 130,
+      "spd": 170,
+      "spe": 80
+    },
+    "bst": 775,
+    "abilities": [
+      {
+        "name": "Sap Sipper",
+        "description": "Grass-type moves do not work on the Pokémon. Instead, they boost its Attack stat by 1 stage."
+      },
+      {
+        "name": "Shell Armor",
+        "description": "Attacks landed on the Pokémon will never be critical hits."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "klefki",
+    "name": "Klefki",
+    "types": [
+      "Steel",
+      "Fairy"
+    ],
+    "stats": {
+      "hp": 132,
+      "atk": 100,
+      "def": 111,
+      "spa": 100,
+      "spd": 107,
+      "spe": 95
+    },
+    "bst": 645,
+    "abilities": [
+      {
+        "name": "Prankster",
+        "description": "Increases the priority of the Pokémon's status moves by 1 stage."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "trevenant",
+    "name": "Trevenant",
+    "types": [
+      "Grass",
+      "Ghost"
+    ],
+    "stats": {
+      "hp": 160,
+      "atk": 130,
+      "def": 96,
+      "spa": 85,
+      "spd": 102,
+      "spe": 76
+    },
+    "bst": 649,
+    "abilities": [
+      {
+        "name": "Natural Cure",
+        "description": "The Pokémon's status conditions are cured when it switches out of battle."
+      },
+      {
+        "name": "Frisk",
+        "description": "When the Pokémon enters a battle, it identifies opponents' held items."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "gourgeist-(average)",
+    "name": "Gourgeist (Average)",
+    "types": [
+      "Grass",
+      "Ghost"
+    ],
+    "stats": {
+      "hp": 140,
+      "atk": 110,
+      "def": 142,
+      "spa": 78,
+      "spd": 95,
+      "spe": 104
+    },
+    "bst": 669,
+    "abilities": [
+      {
+        "name": "Pickup",
+        "description": "If the Pokémon is not already holding an item, at the end of the turn it will pick up an item that was consumed by another Pokémon."
+      },
+      {
+        "name": "Frisk",
+        "description": "When the Pokémon enters a battle, it identifies opponents' held items."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "gourgeist-(small)",
+    "name": "Gourgeist (Small)",
+    "types": [
+      "Grass",
+      "Ghost"
+    ],
+    "stats": {
+      "hp": 130,
+      "atk": 105,
+      "def": 142,
+      "spa": 78,
+      "spd": 95,
+      "spe": 119
+    },
+    "bst": 669,
+    "abilities": [
+      {
+        "name": "Pickup",
+        "description": "If the Pokémon is not already holding an item, at the end of the turn it will pick up an item that was consumed by another Pokémon."
+      },
+      {
+        "name": "Frisk",
+        "description": "When the Pokémon enters a battle, it identifies opponents' held items."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "gourgeist-(large)",
+    "name": "Gourgeist (Large)",
+    "types": [
+      "Grass",
+      "Ghost"
+    ],
+    "stats": {
+      "hp": 150,
+      "atk": 115,
+      "def": 142,
+      "spa": 78,
+      "spd": 95,
+      "spe": 89
+    },
+    "bst": 669,
+    "abilities": [
+      {
+        "name": "Pickup",
+        "description": "If the Pokémon is not already holding an item, at the end of the turn it will pick up an item that was consumed by another Pokémon."
+      },
+      {
+        "name": "Frisk",
+        "description": "When the Pokémon enters a battle, it identifies opponents' held items."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "gourgeist-(super)",
+    "name": "Gourgeist (Super)",
+    "types": [
+      "Grass",
+      "Ghost"
+    ],
+    "stats": {
+      "hp": 160,
+      "atk": 120,
+      "def": 142,
+      "spa": 78,
+      "spd": 95,
+      "spe": 74
+    },
+    "bst": 669,
+    "abilities": [
+      {
+        "name": "Pickup",
+        "description": "If the Pokémon is not already holding an item, at the end of the turn it will pick up an item that was consumed by another Pokémon."
+      },
+      {
+        "name": "Frisk",
+        "description": "When the Pokémon enters a battle, it identifies opponents' held items."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "avalugg",
+    "name": "Avalugg",
+    "types": [
+      "Ice"
+    ],
+    "stats": {
+      "hp": 170,
+      "atk": 137,
+      "def": 204,
+      "spa": 64,
+      "spd": 66,
+      "spe": 48
+    },
+    "bst": 689,
+    "abilities": [
+      {
+        "name": "Own Tempo",
+        "description": "The Pokémon cannot become confused and is unaffected by Intimidate."
+      },
+      {
+        "name": "Ice Body",
+        "description": "The Pokémon has 1/16 of its max HP restored at the end of every turn in snow."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "hisuian-avalugg",
+    "name": "Hisuian Avalugg",
+    "types": [
+      "Ice",
+      "Rock"
+    ],
+    "stats": {
+      "hp": 170,
+      "atk": 147,
+      "def": 204,
+      "spa": 54,
+      "spd": 56,
+      "spe": 58
+    },
+    "bst": 689,
+    "abilities": [
+      {
+        "name": "Strong Jaw",
+        "description": "Boosts the power of the Pokémon's biting moves by 50%."
+      },
+      {
+        "name": "Ice Body",
+        "description": "The Pokémon has 1/16 of its max HP restored at the end of every turn in snow."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "noivern",
+    "name": "Noivern",
+    "types": [
+      "Flying",
+      "Dragon"
+    ],
+    "stats": {
+      "hp": 160,
+      "atk": 90,
+      "def": 100,
+      "spa": 117,
+      "spd": 100,
+      "spe": 143
+    },
+    "bst": 710,
+    "abilities": [
+      {
+        "name": "Frisk",
+        "description": "When the Pokémon enters a battle, it identifies opponents' held items."
+      },
+      {
+        "name": "Infiltrator",
+        "description": "When using its moves, the Pokémon ignores the effects of targets' Light Screen, Reflect, Aurora Veil, Safeguard, and substitutes."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "decidueye",
+    "name": "Decidueye",
+    "types": [
+      "Grass",
+      "Ghost"
+    ],
+    "stats": {
+      "hp": 153,
+      "atk": 127,
+      "def": 95,
+      "spa": 120,
+      "spd": 120,
+      "spe": 90
+    },
+    "bst": 705,
+    "abilities": [
+      {
+        "name": "Overgrow",
+        "description": "Boosts the power of the Pokémon's Grass-type moves by 50% when its HP drops to 1/3 or less of its max."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "hisuian-decidueye",
+    "name": "Hisuian Decidueye",
+    "types": [
+      "Grass",
+      "Fighting"
+    ],
+    "stats": {
+      "hp": 163,
+      "atk": 132,
+      "def": 100,
+      "spa": 115,
+      "spd": 115,
+      "spe": 80
+    },
+    "bst": 705,
+    "abilities": [
+      {
+        "name": "Overgrow",
+        "description": "Boosts the power of the Pokémon's Grass-type moves by 50% when its HP drops to 1/3 or less of its max."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "incineroar",
+    "name": "Incineroar",
+    "types": [
+      "Fire",
+      "Dark"
+    ],
+    "stats": {
+      "hp": 170,
+      "atk": 135,
+      "def": 110,
+      "spa": 100,
+      "spd": 110,
+      "spe": 80
+    },
+    "bst": 705,
+    "abilities": [
+      {
+        "name": "Blaze",
+        "description": "Boosts the power of the Pokémon's Fire-type moves by 50% when its HP drops to 1/3 or less of its max."
+      }
+    ],
+    "moves": [
+      "Flare Blitz",
+      "Parting Shot",
+      "Helping Hand",
+      "Fake Out",
+      "Darkest Lariat",
+      "Protect"
+    ]
+  },
+  {
+    "id": "primarina",
+    "name": "Primarina",
+    "types": [
+      "Water",
+      "Fairy"
+    ],
+    "stats": {
+      "hp": 155,
+      "atk": 94,
+      "def": 94,
+      "spa": 146,
+      "spd": 136,
+      "spe": 80
+    },
+    "bst": 705,
+    "abilities": [
+      {
+        "name": "Torrent",
+        "description": "Boosts the power of the Pokémon's Water-type moves by 50% when its HP drops to 1/3 or less of its max."
+      }
+    ],
+    "moves": [
+      "Calm Mind",
+      "Sparkling Aria",
+      "Psychic",
+      "Moonblast"
+    ]
+  },
+  {
+    "id": "toucannon",
+    "name": "Toucannon",
+    "types": [
+      "Normal",
+      "Flying"
+    ],
+    "stats": {
+      "hp": 155,
+      "atk": 140,
+      "def": 95,
+      "spa": 95,
+      "spd": 95,
+      "spe": 80
+    },
+    "bst": 660,
+    "abilities": [
+      {
+        "name": "Keen Eye",
+        "description": "The Pokémon ignores changes to targets' evasiveness and its accuracy cannot be lowered."
+      },
+      {
+        "name": "Skill Link",
+        "description": "The Pokémon's multistrike moves always hit the maximum number of times."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "crabominable",
+    "name": "Crabominable",
+    "types": [
+      "Ice",
+      "Fighting"
+    ],
+    "stats": {
+      "hp": 172,
+      "atk": 152,
+      "def": 97,
+      "spa": 82,
+      "spd": 87,
+      "spe": 63
+    },
+    "bst": 653,
+    "abilities": [
+      {
+        "name": "Hyper Cutter",
+        "description": "The Pokémon's Attack stat cannot be lowered by other Pokémon's moves or Abilities."
+      },
+      {
+        "name": "Iron Fist",
+        "description": "Boosts the power of the Pokémon's punching moves by 20%."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "mega-crabominable",
+    "name": "Mega Crabominable",
+    "types": [
+      "Ice",
+      "Fighting"
+    ],
+    "stats": {
+      "hp": 172,
+      "atk": 177,
+      "def": 142,
+      "spa": 82,
+      "spd": 127,
+      "spe": 53
+    },
+    "bst": 753,
+    "abilities": [
+      {
+        "name": "Iron Fist",
+        "description": "Boosts the power of the Pokémon's punching moves by 20%."
+      }
+    ],
+    "moves": [
+      "Ice Hammer",
+      "Drain Punch",
+      "Mach Punch",
+      "Bulk Up"
+    ]
+  },
+  {
+    "id": "midday-form-lycanroc",
+    "name": "Midday Form Lycanroc",
+    "types": [
+      "Rock"
+    ],
+    "stats": {
+      "hp": 150,
+      "atk": 135,
+      "def": 85,
+      "spa": 75,
+      "spd": 85,
+      "spe": 132
+    },
+    "bst": 662,
+    "abilities": [
+      {
+        "name": "Keen Eye",
+        "description": "The Pokémon ignores changes to targets' evasiveness and its accuracy cannot be lowered."
+      },
+      {
+        "name": "Sand Rush",
+        "description": "Doubles the Pokémon's Speed stat in a sandstorm."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "midnight-form-lycanroc",
+    "name": "Midnight Form Lycanroc",
+    "types": [
+      "Rock"
+    ],
+    "stats": {
+      "hp": 160,
+      "atk": 135,
+      "def": 95,
+      "spa": 75,
+      "spd": 95,
+      "spe": 102
+    },
+    "bst": 662,
+    "abilities": [
+      {
+        "name": "Keen Eye",
+        "description": "The Pokémon ignores changes to targets' evasiveness and its accuracy cannot be lowered."
+      },
+      {
+        "name": "Vital Spirit",
+        "description": "The Pokémon cannot become drowsy or be put to sleep."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "dusk-form-lycanroc",
+    "name": "Dusk Form Lycanroc",
+    "types": [
+      "Rock"
+    ],
+    "stats": {
+      "hp": 150,
+      "atk": 137,
+      "def": 85,
+      "spa": 75,
+      "spd": 85,
+      "spe": 130
+    },
+    "bst": 662,
+    "abilities": [
+      {
+        "name": "Tough Claws",
+        "description": "Boosts the power of the Pokémon's contact moves by 30%."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "toxapex",
+    "name": "Toxapex",
+    "types": [
+      "Water",
+      "Poison"
+    ],
+    "stats": {
+      "hp": 125,
+      "atk": 83,
+      "def": 172,
+      "spa": 73,
+      "spd": 162,
+      "spe": 55
+    },
+    "bst": 670,
+    "abilities": [
+      {
+        "name": "Merciless",
+        "description": "The Pokémon's attacks become critical hits if the target is poisoned or badly poisoned."
+      },
+      {
+        "name": "Limber",
+        "description": "The Pokémon cannot be paralyzed."
+      }
+    ],
+    "moves": [
+      "Baneful Bunker",
+      "Toxic",
+      "Recover",
+      "Infestation"
+    ]
+  },
+  {
+    "id": "mudsdale",
+    "name": "Mudsdale",
+    "types": [
+      "Ground"
+    ],
+    "stats": {
+      "hp": 175,
+      "atk": 145,
+      "def": 120,
+      "spa": 75,
+      "spd": 105,
+      "spe": 55
+    },
+    "bst": 675,
+    "abilities": [
+      {
+        "name": "Own Tempo",
+        "description": "The Pokémon cannot become confused and is unaffected by Intimidate."
+      },
+      {
+        "name": "Stamina",
+        "description": "When the Pokémon takes damage from a move, its Defense stat is boosted by 1 stage."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "araquanid",
+    "name": "Araquanid",
+    "types": [
+      "Water",
+      "Bug"
+    ],
+    "stats": {
+      "hp": 143,
+      "atk": 90,
+      "def": 112,
+      "spa": 70,
+      "spd": 152,
+      "spe": 62
+    },
+    "bst": 629,
+    "abilities": [
+      {
+        "name": "Water Bubble",
+        "description": "Halves the damage the Pokémon takes from Fire-type moves and doubles the power of its Water-type moves. The Pokémon cannot be burned."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "salazzle",
+    "name": "Salazzle",
+    "types": [
+      "Fire",
+      "Poison"
+    ],
+    "stats": {
+      "hp": 143,
+      "atk": 84,
+      "def": 80,
+      "spa": 131,
+      "spd": 80,
+      "spe": 137
+    },
+    "bst": 655,
+    "abilities": [
+      {
+        "name": "Corrosion",
+        "description": "The Pokémon can poison or badly poison targets even if they're Steel or Poison types."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "tsareena",
+    "name": "Tsareena",
+    "types": [
+      "Grass"
+    ],
+    "stats": {
+      "hp": 147,
+      "atk": 140,
+      "def": 118,
+      "spa": 70,
+      "spd": 118,
+      "spe": 92
+    },
+    "bst": 685,
+    "abilities": [
+      {
+        "name": "Leaf Guard",
+        "description": "The Pokémon is immune to status conditions in harsh sunlight."
+      },
+      {
+        "name": "Queenly Majesty",
+        "description": "Opponents are unable to use priority moves against the Pokémon or its allies."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "oranguru",
+    "name": "Oranguru",
+    "types": [
+      "Normal",
+      "Psychic"
+    ],
+    "stats": {
+      "hp": 165,
+      "atk": 80,
+      "def": 100,
+      "spa": 110,
+      "spd": 130,
+      "spe": 80
+    },
+    "bst": 665,
+    "abilities": [
+      {
+        "name": "Inner Focus",
+        "description": "The Pokémon never flinches when attacked and is unaffected by Intimidate."
+      },
+      {
+        "name": "Telepathy",
+        "description": "The Pokémon dodges attacks from its allies."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "passimian",
+    "name": "Passimian",
+    "types": [
+      "Fighting"
+    ],
+    "stats": {
+      "hp": 175,
+      "atk": 140,
+      "def": 110,
+      "spa": 60,
+      "spd": 80,
+      "spe": 100
+    },
+    "bst": 665,
+    "abilities": [
+      {
+        "name": "Receiver",
+        "description": "The Pokémon changes its Ability to match that of a defeated ally."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "mimikyu",
+    "name": "Mimikyu",
+    "types": [
+      "Ghost",
+      "Fairy"
+    ],
+    "stats": {
+      "hp": 130,
+      "atk": 110,
+      "def": 100,
+      "spa": 70,
+      "spd": 125,
+      "spe": 116
+    },
+    "bst": 651,
+    "abilities": [
+      {
+        "name": "Disguise",
+        "description": "When the Pokémon is in its Disguised Form and would take damage from a move, it loses 1/8 of its max HP instead of taking the damage, then changes into its Busted Form."
+      }
+    ],
+    "moves": [
+      "Play Rough",
+      "Shadow Claw",
+      "Shadow Sneak",
+      "Swords Dance",
+      "Curse",
+      "Trick Room"
+    ]
+  },
+  {
+    "id": "drampa",
+    "name": "Drampa",
+    "types": [
+      "Normal",
+      "Dragon"
+    ],
+    "stats": {
+      "hp": 153,
+      "atk": 80,
+      "def": 105,
+      "spa": 155,
+      "spd": 111,
+      "spe": 56
+    },
+    "bst": 660,
+    "abilities": [
+      {
+        "name": "Berserk",
+        "description": "Boosts the Pokémon's Sp. Atk stat by 1 stage when an attack causes its HP to drop to 1/2 or less of its max."
+      },
+      {
+        "name": "Sap Sipper",
+        "description": "Grass-type moves do not work on the Pokémon. Instead, they boost its Attack stat by 1 stage."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "mega-drampa",
+    "name": "Mega Drampa",
+    "types": [
+      "Normal",
+      "Dragon"
+    ],
+    "stats": {
+      "hp": 153,
+      "atk": 105,
+      "def": 130,
+      "spa": 180,
+      "spd": 136,
+      "spe": 56
+    },
+    "bst": 760,
+    "abilities": [
+      {
+        "name": "Berserk",
+        "description": "Boosts the Pokémon's Sp. Atk stat by 1 stage when an attack causes its HP to drop to 1/2 or less of its max."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "kommo-o",
+    "name": "Kommo-o",
+    "types": [
+      "Fighting",
+      "Dragon"
+    ],
+    "stats": {
+      "hp": 150,
+      "atk": 130,
+      "def": 145,
+      "spa": 120,
+      "spd": 125,
+      "spe": 105
+    },
+    "bst": 775,
+    "abilities": [
+      {
+        "name": "Bulletproof",
+        "description": "The Pokémon is immune to ball and bomb moves."
+      },
+      {
+        "name": "Soundproof",
+        "description": "The Pokémon is immune to sound-based moves."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "corviknight",
+    "name": "Corviknight",
+    "types": [
+      "Flying",
+      "Steel"
+    ],
+    "stats": {
+      "hp": 173,
+      "atk": 107,
+      "def": 125,
+      "spa": 73,
+      "spd": 105,
+      "spe": 87
+    },
+    "bst": 670,
+    "abilities": [
+      {
+        "name": "Pressure",
+        "description": "Causes opponents to expend 1 more PP when using moves against the Pokémon."
+      },
+      {
+        "name": "Unnerve",
+        "description": "Makes opponents unable to eat Berries."
+      }
+    ],
+    "moves": [
+      "Brave Bird",
+      "U-turn",
+      "Taunt",
+      "Roost",
+      "Iron Head",
+      "Body Press"
+    ]
+  },
+  {
+    "id": "flapple",
+    "name": "Flapple",
+    "types": [
+      "Grass",
+      "Dragon"
+    ],
+    "stats": {
+      "hp": 145,
+      "atk": 130,
+      "def": 100,
+      "spa": 115,
+      "spd": 80,
+      "spe": 90
+    },
+    "bst": 660,
+    "abilities": [
+      {
+        "name": "Ripen",
+        "description": "Doubles the effects of Berries eaten by the Pokémon."
+      },
+      {
+        "name": "Gluttony",
+        "description": "If the Pokémon is holding a Berry to be eaten when its HP drops to 1/4 or less of its max, it will instead eat the Berry when its HP drops to 1/2 or less of its max."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "appletun",
+    "name": "Appletun",
+    "types": [
+      "Grass",
+      "Dragon"
+    ],
+    "stats": {
+      "hp": 185,
+      "atk": 105,
+      "def": 100,
+      "spa": 120,
+      "spd": 100,
+      "spe": 50
+    },
+    "bst": 660,
+    "abilities": [
+      {
+        "name": "Ripen",
+        "description": "Doubles the effects of Berries eaten by the Pokémon."
+      },
+      {
+        "name": "Gluttony",
+        "description": "If the Pokémon is holding a Berry to be eaten when its HP drops to 1/4 or less of its max, it will instead eat the Berry when its HP drops to 1/2 or less of its max."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "sandaconda",
+    "name": "Sandaconda",
+    "types": [
+      "Ground"
+    ],
+    "stats": {
+      "hp": 147,
+      "atk": 127,
+      "def": 145,
+      "spa": 85,
+      "spd": 90,
+      "spe": 91
+    },
+    "bst": 685,
+    "abilities": [
+      {
+        "name": "Sand Spit",
+        "description": "Summons a sandstorm for 5 turns when the Pokémon takes damage from moves."
+      },
+      {
+        "name": "Shed Skin",
+        "description": "The Pokémon has a 30% chance of curing its own status conditions at the end of every turn."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "polteageist",
+    "name": "Polteageist",
+    "types": [
+      "Ghost"
+    ],
+    "stats": {
+      "hp": 135,
+      "atk": 85,
+      "def": 85,
+      "spa": 154,
+      "spd": 134,
+      "spe": 90
+    },
+    "bst": 683,
+    "abilities": [
+      {
+        "name": "Weak Armor",
+        "description": "When the Pokémon takes damage from a physical move, its Defense stat is lowered by 1 stage, but its Speed stat is boosted by 2 stages."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "hatterene",
+    "name": "Hatterene",
+    "types": [
+      "Psychic",
+      "Fairy"
+    ],
+    "stats": {
+      "hp": 132,
+      "atk": 110,
+      "def": 115,
+      "spa": 156,
+      "spd": 123,
+      "spe": 49
+    },
+    "bst": 685,
+    "abilities": [
+      {
+        "name": "Healer",
+        "description": "The Pokémon has a 50% chance of curing the status conditions of its allies at the end of every turn."
+      },
+      {
+        "name": "Anticipation",
+        "description": "When the Pokémon enters a battle, it senses whether the opponents know any one-hit KO moves or moves that are super effective against it."
+      }
+    ],
+    "moves": [
+      "Trick Room",
+      "Dazzling Gleam",
+      "Calm Mind",
+      "Psychic",
+      "Healing Wish",
+      "Nuzzle",
+      "Reflect",
+      "Light Screen"
+    ]
+  },
+  {
+    "id": "mr.-rime",
+    "name": "Mr. Rime",
+    "types": [
+      "Ice",
+      "Psychic"
+    ],
+    "stats": {
+      "hp": 155,
+      "atk": 105,
+      "def": 95,
+      "spa": 130,
+      "spd": 120,
+      "spe": 90
+    },
+    "bst": 695,
+    "abilities": [
+      {
+        "name": "Tangled Feet",
+        "description": "Doubles the Pokémon's evasiveness if it is confused."
+      },
+      {
+        "name": "Screen Cleaner",
+        "description": "When the Pokémon enters a battle, it removes the Light Screen, Reflect, and Aurora Veil statuses."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "runerigus",
+    "name": "Runerigus",
+    "types": [
+      "Ground",
+      "Ghost"
+    ],
+    "stats": {
+      "hp": 133,
+      "atk": 115,
+      "def": 165,
+      "spa": 70,
+      "spd": 125,
+      "spe": 50
+    },
+    "bst": 658,
+    "abilities": [
+      {
+        "name": "Wandering Spirit",
+        "description": "When the Pokémon is hit by a contact move, it swaps Abilities with the attacker."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "alcremie",
+    "name": "Alcremie",
+    "types": [
+      "Fairy"
+    ],
+    "stats": {
+      "hp": 140,
+      "atk": 80,
+      "def": 95,
+      "spa": 130,
+      "spd": 141,
+      "spe": 84
+    },
+    "bst": 670,
+    "abilities": [
+      {
+        "name": "Sweet Veil",
+        "description": "The Pokémon and its allies cannot become drowsy or be put to sleep."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "morpeko-(full-belly-mode)",
+    "name": "Morpeko (Full Belly Mode)",
+    "types": [
+      "Electric",
+      "Dark"
+    ],
+    "stats": {
+      "hp": 133,
+      "atk": 115,
+      "def": 78,
+      "spa": 90,
+      "spd": 78,
+      "spe": 117
+    },
+    "bst": 611,
+    "abilities": [
+      {
+        "name": "Hunger Switch",
+        "description": "The Pokémon changes its form, alternating between its Full Belly Mode and Hangry Mode at the end of every turn."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "morpeko-(hangry-mode)",
+    "name": "Morpeko (Hangry Mode)",
+    "types": [
+      "Electric",
+      "Dark"
+    ],
+    "stats": {
+      "hp": 133,
+      "atk": 115,
+      "def": 78,
+      "spa": 90,
+      "spd": 78,
+      "spe": 117
+    },
+    "bst": 611,
+    "abilities": [
+      {
+        "name": "Hunger Switch",
+        "description": "The Pokémon changes its form, alternating between its Full Belly Mode and Hangry Mode at the end of every turn."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "dragapult",
+    "name": "Dragapult",
+    "types": [
+      "Ghost",
+      "Dragon"
+    ],
+    "stats": {
+      "hp": 163,
+      "atk": 140,
+      "def": 95,
+      "spa": 120,
+      "spd": 95,
+      "spe": 162
+    },
+    "bst": 775,
+    "abilities": [
+      {
+        "name": "Clear Body",
+        "description": "The Pokémon's stats cannot be lowered by other Pokémon's moves or Abilities."
+      },
+      {
+        "name": "Infiltrator",
+        "description": "When using its moves, the Pokémon ignores the effects of targets' Light Screen, Reflect, Aurora Veil, Safeguard, and substitutes."
+      }
+    ],
+    "moves": [
+      "Hex",
+      "Draco Meteor",
+      "Thunder Wave",
+      "Will-O-Wisp",
+      "Shadow Ball",
+      "Fire Blast",
+      "Hydro Pump"
+    ]
+  },
+  {
+    "id": "wyrdeer",
+    "name": "Wyrdeer",
+    "types": [
+      "Normal",
+      "Psychic"
+    ],
+    "stats": {
+      "hp": 178,
+      "atk": 125,
+      "def": 92,
+      "spa": 125,
+      "spd": 95,
+      "spe": 85
+    },
+    "bst": 700,
+    "abilities": [
+      {
+        "name": "Intimidate",
+        "description": "When the Pokémon enters a battle, it lowers the Attack stats of opponents by 1 stage."
+      },
+      {
+        "name": "Frisk",
+        "description": "When the Pokémon enters a battle, it identifies opponents' held items."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "kleavor",
+    "name": "Kleavor",
+    "types": [
+      "Bug",
+      "Rock"
+    ],
+    "stats": {
+      "hp": 145,
+      "atk": 155,
+      "def": 115,
+      "spa": 65,
+      "spd": 90,
+      "spe": 105
+    },
+    "bst": 675,
+    "abilities": [
+      {
+        "name": "Swarm",
+        "description": "Boosts the power of the Pokémon's Bug-type moves by 50% when its HP drops to 1/3 or less of its max."
+      },
+      {
+        "name": "Sheer Force",
+        "description": "The Pokémon's moves lose their additional effects, but the power of those moves will be boosted by 30%."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "basculegion-(male)",
+    "name": "Basculegion (Male)",
+    "types": [
+      "Water",
+      "Ghost"
+    ],
+    "stats": {
+      "hp": 195,
+      "atk": 132,
+      "def": 85,
+      "spa": 100,
+      "spd": 95,
+      "spe": 98
+    },
+    "bst": 705,
+    "abilities": [
+      {
+        "name": "Swift Swim",
+        "description": "Doubles the Pokémon's Speed stat in rain."
+      },
+      {
+        "name": "Adaptability",
+        "description": "Boosts the power of moves of the same type as the Pokémon by 100% instead of 50%."
+      }
+    ],
+    "moves": [
+      "Wave Crash",
+      "Last Respects",
+      "Flip Turn",
+      "Aqua Jet",
+      "Ice Fang"
+    ]
+  },
+  {
+    "id": "basculegion-(female)",
+    "name": "Basculegion (Female)",
+    "types": [
+      "Water",
+      "Ghost"
+    ],
+    "stats": {
+      "hp": 195,
+      "atk": 112,
+      "def": 85,
+      "spa": 120,
+      "spd": 95,
+      "spe": 98
+    },
+    "bst": 705,
+    "abilities": [
+      {
+        "name": "Swift Swim",
+        "description": "Doubles the Pokémon's Speed stat in rain."
+      },
+      {
+        "name": "Adaptability",
+        "description": "Boosts the power of moves of the same type as the Pokémon by 100% instead of 50%."
+      }
+    ],
+    "moves": [
+      "Wave Crash",
+      "Last Respects",
+      "Flip Turn",
+      "Aqua Jet",
+      "Ice Fang"
+    ]
+  },
+  {
+    "id": "sneasler",
+    "name": "Sneasler",
+    "types": [
+      "Fighting",
+      "Poison"
+    ],
+    "stats": {
+      "hp": 155,
+      "atk": 150,
+      "def": 80,
+      "spa": 60,
+      "spd": 100,
+      "spe": 140
+    },
+    "bst": 685,
+    "abilities": [
+      {
+        "name": "Pressure",
+        "description": "Causes opponents to expend 1 more PP when using moves against the Pokémon."
+      },
+      {
+        "name": "Unburden",
+        "description": "Doubles the Pokémon's Speed stat when its held item is consumed or lost."
+      }
+    ],
+    "moves": [
+      "Dire Claw",
+      "Close Combat",
+      "Fake Out",
+      "Coaching",
+      "Rock Tomb",
+      "Protect"
+    ]
+  },
+  {
+    "id": "meowscarada",
+    "name": "Meowscarada",
+    "types": [
+      "Grass",
+      "Dark"
+    ],
+    "stats": {
+      "hp": 151,
+      "atk": 130,
+      "def": 90,
+      "spa": 101,
+      "spd": 90,
+      "spe": 143
+    },
+    "bst": 705,
+    "abilities": [
+      {
+        "name": "Overgrow",
+        "description": "Boosts the power of the Pokémon's Grass-type moves by 50% when its HP drops to 1/3 or less of its max."
+      }
+    ],
+    "moves": [
+      "Flower Trick",
+      "Sucker Punch",
+      "Knock Off",
+      "Protect"
+    ]
+  },
+  {
+    "id": "skeledirge",
+    "name": "Skeledirge",
+    "types": [
+      "Fire",
+      "Ghost"
+    ],
+    "stats": {
+      "hp": 179,
+      "atk": 95,
+      "def": 120,
+      "spa": 130,
+      "spd": 95,
+      "spe": 86
+    },
+    "bst": 705,
+    "abilities": [
+      {
+        "name": "Blaze",
+        "description": "Boosts the power of the Pokémon's Fire-type moves by 50% when its HP drops to 1/3 or less of its max."
+      }
+    ],
+    "moves": [
+      "Slack Off",
+      "Shadow Ball",
+      "Torch Song",
+      "Substitute"
+    ]
+  },
+  {
+    "id": "quaquaval",
+    "name": "Quaquaval",
+    "types": [
+      "Water",
+      "Fighting"
+    ],
+    "stats": {
+      "hp": 160,
+      "atk": 140,
+      "def": 100,
+      "spa": 105,
+      "spd": 95,
+      "spe": 105
+    },
+    "bst": 705,
+    "abilities": [
+      {
+        "name": "Torrent",
+        "description": "Boosts the power of the Pokémon's Water-type moves by 50% when its HP drops to 1/3 or less of its max."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "maushold-(family-of-four)",
+    "name": "Maushold (Family of Four)",
+    "types": [
+      "Normal"
+    ],
+    "stats": {
+      "hp": 149,
+      "atk": 95,
+      "def": 90,
+      "spa": 85,
+      "spd": 95,
+      "spe": 131
+    },
+    "bst": 645,
+    "abilities": [
+      {
+        "name": "Friend Guard",
+        "description": "Reduces the damage allies take by 25%."
+      },
+      {
+        "name": "Cheek Pouch",
+        "description": "The Pokémon has 1/3 of its max HP restored when it eats a Berry, in addition to the Berry's usual effect."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "garganacl",
+    "name": "Garganacl",
+    "types": [
+      "Rock"
+    ],
+    "stats": {
+      "hp": 175,
+      "atk": 120,
+      "def": 150,
+      "spa": 65,
+      "spd": 110,
+      "spe": 55
+    },
+    "bst": 675,
+    "abilities": [
+      {
+        "name": "Purifying Salt",
+        "description": "Halves the damage the Pokémon takes from Ghost-type moves. The Pokémon is immune to status conditions."
+      },
+      {
+        "name": "Sturdy",
+        "description": "If the Pokémon has full HP and takes damage from a move that would knock it out in one hit, it will endure the hit with 1 HP. The Pokémon is also immune to one-hit KO moves."
+      }
+    ],
+    "moves": [
+      "Recover",
+      "Salt Cure",
+      "Body Press",
+      "Stealth Rock"
+    ]
+  },
+  {
+    "id": "armarouge",
+    "name": "Armarouge",
+    "types": [
+      "Fire",
+      "Psychic"
+    ],
+    "stats": {
+      "hp": 160,
+      "atk": 80,
+      "def": 120,
+      "spa": 145,
+      "spd": 100,
+      "spe": 95
+    },
+    "bst": 700,
+    "abilities": [
+      {
+        "name": "Flash Fire",
+        "description": "Fire-type moves do not work on the Pokémon. Instead, they give the Pokémon the Flash Fire status, which boosts the power of Fire-type moves by 50%."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "ceruledge",
+    "name": "Ceruledge",
+    "types": [
+      "Fire",
+      "Ghost"
+    ],
+    "stats": {
+      "hp": 150,
+      "atk": 145,
+      "def": 100,
+      "spa": 80,
+      "spd": 120,
+      "spe": 105
+    },
+    "bst": 700,
+    "abilities": [
+      {
+        "name": "Flash Fire",
+        "description": "Fire-type moves do not work on the Pokémon. Instead, they give the Pokémon the Flash Fire status, which boosts the power of Fire-type moves by 50%."
+      }
+    ],
+    "moves": [
+      "Bitter Blade",
+      "Shadow Claw",
+      "Shadow Sneak",
+      "Swords Dance"
+    ]
+  },
+  {
+    "id": "bellibolt",
+    "name": "Bellibolt",
+    "types": [
+      "Electric"
+    ],
+    "stats": {
+      "hp": 184,
+      "atk": 84,
+      "def": 111,
+      "spa": 123,
+      "spd": 103,
+      "spe": 65
+    },
+    "bst": 670,
+    "abilities": [
+      {
+        "name": "Electromorphosis",
+        "description": "When the Pokémon takes damage from a move, it gains the Electric Boost status, which doubles the power of the next Electric-type move it uses."
+      },
+      {
+        "name": "Static",
+        "description": "When the Pokémon is hit by a contact move, the attacker has a 30% chance of being paralyzed."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "scovillain",
+    "name": "Scovillain",
+    "types": [
+      "Fire",
+      "Grass"
+    ],
+    "stats": {
+      "hp": 140,
+      "atk": 128,
+      "def": 85,
+      "spa": 128,
+      "spd": 85,
+      "spe": 95
+    },
+    "bst": 661,
+    "abilities": [
+      {
+        "name": "Chlorophyll",
+        "description": "Doubles the Pokémon's Speed stat in harsh sunlight."
+      },
+      {
+        "name": "Insomnia",
+        "description": "The Pokémon cannot become drowsy or be put to sleep."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "mega-scovillain",
+    "name": "Mega Scovillain",
+    "types": [
+      "Fire",
+      "Grass"
+    ],
+    "stats": {
+      "hp": 140,
+      "atk": 158,
+      "def": 105,
+      "spa": 158,
+      "spd": 105,
+      "spe": 95
+    },
+    "bst": 761,
+    "abilities": [
+      {
+        "name": "Spicy Spray",
+        "description": "When the Pokémon takes damage from a move, it burns the attacker."
+      }
+    ],
+    "moves": [
+      "Flamethrower",
+      "Leaf Storm",
+      "Flare Blitz",
+      "Protect",
+      "Leech Seed",
+      "Giga Drain"
+    ]
+  },
+  {
+    "id": "espathra",
+    "name": "Espathra",
+    "types": [
+      "Psychic"
+    ],
+    "stats": {
+      "hp": 170,
+      "atk": 80,
+      "def": 80,
+      "spa": 121,
+      "spd": 80,
+      "spe": 125
+    },
+    "bst": 656,
+    "abilities": [
+      {
+        "name": "Opportunist",
+        "description": "When an opponent's stats are boosted, the Pokémon boosts its own stats in the exact same way."
+      },
+      {
+        "name": "Frisk",
+        "description": "When the Pokémon enters a battle, it identifies opponents' held items."
+      }
+    ],
+    "moves": [
+      "Protect",
+      "Baton Pass",
+      "Calm Mind",
+      "Lumina Crash"
+    ]
+  },
+  {
+    "id": "tinkaton",
+    "name": "Tinkaton",
+    "types": [
+      "Steel",
+      "Fairy"
+    ],
+    "stats": {
+      "hp": 160,
+      "atk": 95,
+      "def": 97,
+      "spa": 90,
+      "spd": 125,
+      "spe": 114
+    },
+    "bst": 681,
+    "abilities": [
+      {
+        "name": "Mold Breaker",
+        "description": "The Pokémon's moves are unaffected by the Ability of the target (with certain exceptions)."
+      },
+      {
+        "name": "Own Tempo",
+        "description": "The Pokémon cannot become confused and is unaffected by Intimidate."
+      }
+    ],
+    "moves": [
+      "Gigaton Hammer",
+      "Play Rough",
+      "Stealth Rock",
+      "Encore"
+    ]
+  },
+  {
+    "id": "palafin-(zero-form)",
+    "name": "Palafin (Zero Form)",
+    "types": [
+      "Water"
+    ],
+    "stats": {
+      "hp": 175,
+      "atk": 90,
+      "def": 92,
+      "spa": 73,
+      "spd": 82,
+      "spe": 120
+    },
+    "bst": 632,
+    "abilities": [
+      {
+        "name": "Zero To Hero",
+        "description": "The Pokémon changes into its Hero Form when it switches out of battle."
+      }
+    ],
+    "moves": [
+      "Wave Crash",
+      "Close Combat",
+      "Ice Punch",
+      "Flip Turn",
+      "Drain Punch",
+      "Bulk Up",
+      "Jet Punch",
+      "Taunt"
+    ]
+  },
+  {
+    "id": "palafin-(hero-form)",
+    "name": "Palafin (Hero Form)",
+    "types": [
+      "Water"
+    ],
+    "stats": {
+      "hp": 175,
+      "atk": 180,
+      "def": 117,
+      "spa": 126,
+      "spd": 107,
+      "spe": 120
+    },
+    "bst": 825,
+    "abilities": [
+      {
+        "name": "Zero To Hero",
+        "description": "The Pokémon changes into its Hero Form when it switches out of battle."
+      }
+    ],
+    "moves": [
+      "Wave Crash",
+      "Close Combat",
+      "Ice Punch",
+      "Flip Turn",
+      "Drain Punch",
+      "Bulk Up",
+      "Jet Punch",
+      "Taunt"
+    ]
+  },
+  {
+    "id": "orthworm",
+    "name": "Orthworm",
+    "types": [
+      "Steel"
+    ],
+    "stats": {
+      "hp": 145,
+      "atk": 105,
+      "def": 165,
+      "spa": 80,
+      "spd": 75,
+      "spe": 85
+    },
+    "bst": 655,
+    "abilities": [
+      {
+        "name": "Earth Eater",
+        "description": "Ground-type moves do not work on the Pokémon. Instead, they restore 1/4 of its max HP."
+      }
+    ],
+    "moves": [
+      "Shed Tail",
+      "Stealth Rock",
+      "Body Press",
+      "Iron Head"
+    ]
+  },
+  {
+    "id": "glimmora",
+    "name": "Glimmora",
+    "types": [
+      "Poison",
+      "Rock"
+    ],
+    "stats": {
+      "hp": 158,
+      "atk": 75,
+      "def": 110,
+      "spa": 150,
+      "spd": 101,
+      "spe": 106
+    },
+    "bst": 700,
+    "abilities": [
+      {
+        "name": "Toxic Debris",
+        "description": "When the Pokémon takes damage from a physical move, it gives the opponent's side the Toxic Spikes status, which sets Toxic Spikes on their field."
+      }
+    ],
+    "moves": [
+      "Stealth Rock",
+      "Mortal Spin",
+      "Spikes",
+      "Explosion"
+    ]
+  },
+  {
+    "id": "mega-glimmora",
+    "name": "Mega Glimmora",
+    "types": [
+      "Poison",
+      "Rock"
+    ],
+    "stats": {
+      "hp": 158,
+      "atk": 110,
+      "def": 125,
+      "spa": 170,
+      "spd": 116,
+      "spe": 121
+    },
+    "bst": 800,
+    "abilities": [
+      {
+        "name": "Adaptability",
+        "description": "Boosts the power of moves of the same type as the Pokémon by 100% instead of 50%."
+      }
+    ],
+    "moves": [
+      "Stealth Rock",
+      "Mortal Spin",
+      "Spikes",
+      "Explosion",
+      "Sludge Wave",
+      "Power Gem",
+      "Energy Ball",
+      "Spiky Shield"
+    ]
+  },
+  {
+    "id": "farigiraf",
+    "name": "Farigiraf",
+    "types": [
+      "Normal",
+      "Psychic"
+    ],
+    "stats": {
+      "hp": 195,
+      "atk": 110,
+      "def": 90,
+      "spa": 130,
+      "spd": 90,
+      "spe": 80
+    },
+    "bst": 695,
+    "abilities": [
+      {
+        "name": "Cud Chew",
+        "description": "If the Pokémon eats a Berry, it will eat that same Berry once more at the end of the next turn."
+      },
+      {
+        "name": "Armor Tail",
+        "description": "Opponents are unable to use priority moves against the Pokémon or its allies."
+      }
+    ],
+    "moves": [
+      "Psychic",
+      "Trick Room",
+      "Helping Hand",
+      "Psychic Terrain"
+    ]
+  },
+  {
+    "id": "kingambit",
+    "name": "Kingambit",
+    "types": [
+      "Dark",
+      "Steel"
+    ],
+    "stats": {
+      "hp": 175,
+      "atk": 155,
+      "def": 140,
+      "spa": 80,
+      "spd": 105,
+      "spe": 70
+    },
+    "bst": 725,
+    "abilities": [
+      {
+        "name": "Defiant",
+        "description": "When the Pokémon has any of its stats lowered by an opponent, its Attack stat is boosted by 2 stages."
+      },
+      {
+        "name": "Supreme Overlord",
+        "description": "When the Pokémon enters a battle, the power of its moves is boosted by 10% for each Pokémon in its party that has been defeated in the battle already. The maximum boost is 50%."
+      }
+    ],
+    "moves": [
+      "Kowtow Cleave",
+      "Iron Head",
+      "Sucker Punch",
+      "Protect",
+      "Low Kick"
+    ]
+  },
+  {
+    "id": "sinistcha",
+    "name": "Sinistcha",
+    "types": [
+      "Grass",
+      "Ghost"
+    ],
+    "stats": {
+      "hp": 146,
+      "atk": 80,
+      "def": 126,
+      "spa": 141,
+      "spd": 100,
+      "spe": 90
+    },
+    "bst": 683,
+    "abilities": [
+      {
+        "name": "Hospitality",
+        "description": "When the Pokémon enters a battle, it restores 1/4 of its ally's max HP."
+      }
+    ],
+    "moves": [
+      "Matcha Gotcha",
+      "Shadow Ball",
+      "Rage Powder",
+      "Protect",
+      "Trick Room",
+      "Imprison",
+      "Life Dew"
+    ]
+  },
+  {
+    "id": "archaludon",
+    "name": "Archaludon",
+    "types": [
+      "Dragon",
+      "Steel"
+    ],
+    "stats": {
+      "hp": 165,
+      "atk": 125,
+      "def": 150,
+      "spa": 145,
+      "spd": 85,
+      "spe": 105
+    },
+    "bst": 775,
+    "abilities": [
+      {
+        "name": "Stamina",
+        "description": "When the Pokémon takes damage from a move, its Defense stat is boosted by 1 stage."
+      },
+      {
+        "name": "Sturdy",
+        "description": "If the Pokémon has full HP and takes damage from a move that would knock it out in one hit, it will endure the hit with 1 HP. The Pokémon is also immune to one-hit KO moves."
+      }
+    ],
+    "moves": [
+      "Flash Cannon",
+      "Electro Shot",
+      "Draco Meteor",
+      "Protect",
+      "Stealth Rock",
+      "Roar",
+      "Aura Sphere"
+    ]
+  },
+  {
+    "id": "hydrapple",
+    "name": "Hydrapple",
+    "types": [
+      "Grass",
+      "Dragon"
+    ],
+    "stats": {
+      "hp": 181,
+      "atk": 100,
+      "def": 130,
+      "spa": 140,
+      "spd": 100,
+      "spe": 64
+    },
+    "bst": 715,
+    "abilities": [
+      {
+        "name": "Supersweet Syrup",
+        "description": "When the Pokémon enters a battle, opponents' evasiveness is lowered by 1 stage. This Ability is triggered only once per battle."
+      },
+      {
+        "name": "Regenerator",
+        "description": "The Pokémon has 1/3 of its max HP restored when it switches out of battle."
+      }
+    ],
+    "moves": []
+  },
+  {
+    "id": "maushold-(family-of-three)",
+    "name": "Maushold (Family of Three)",
+    "types": [
+      "Normal"
+    ],
+    "stats": {
+      "hp": 149,
+      "atk": 95,
+      "def": 90,
+      "spa": 85,
+      "spd": 95,
+      "spe": 131
+    },
+    "bst": 645,
+    "abilities": [
+      {
+        "name": "Friend Guard",
+        "description": "Reduces the damage allies take by 25%."
+      },
+      {
+        "name": "Cheek Pouch",
+        "description": "The Pokémon has 1/3 of its max HP restored when it eats a Berry, in addition to the Berry's usual effect."
+      }
+    ],
+    "moves": []
+  }
+]
