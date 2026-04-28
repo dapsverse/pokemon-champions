@@ -1,0 +1,138 @@
+[
+    {
+        "name": "Black Belt",
+        "description": "An item to be held by a Pokémon. This belt helps with focus and boosts the power of the holder's Fighting-type moves by 20%."
+    },
+    {
+        "name": "Black Glasses",
+        "description": "An item to be held by a Pokémon. It's a pair of shady- looking glasses that boost the power of the holder's Dark-type moves by 20%."
+    },
+    {
+        "name": "Bright Powder",
+        "description": "An item to be held by a Pokémon. This glittery powder casts a tricky glare that lowers the accuracy of opposing Pokémon's moves."
+    },
+    {
+        "name": "Charcoal",
+        "description": "An item to be held by a Pokémon. It's a combustible fuel that boosts the power of the holder's Fire-type moves by 20%."
+    },
+    {
+        "name": "Choice Scarf",
+        "description": "An item to be held by a Pokémon. This curious scarf boosts the holder's Speed stat but only allows the use of a single move."
+    },
+    {
+        "name": "Dragon Fang",
+        "description": "An item to be held by a Pokémon. This hard, sharp fang boosts the power of the holder's Dragon-type moves by 20%."
+    },
+    {
+        "name": "Fairy Feather",
+        "description": "An item to be held by a Pokémon. This feather, which gleams faintly when hit by light, boosts the power of the holder's Fairy-type moves by 20%."
+    },
+    {
+        "name": "Focus Band",
+        "description": "An item to be held by a Pokémon. When the holder is hit with a move that should knock it out, it may be able to endure with 1 HP."
+    },
+    {
+        "name": "Focus Sash",
+        "description": "An item to be held by a Pokémon. If the holder has full HP and it is hit with a move that should knock it out, it will endure with 1 HP—but only once."
+    },
+    {
+        "name": "Hard Stone",
+        "description": "An item to be held by a Pokémon. It's a durable stone that boosts the power of the holder's Rock-type moves by 20%."
+    },
+    {
+        "name": "King's Rock",
+        "description": "An item to be held by a Pokémon. It may cause the target to flinch whenever the holder successfully inflicts damage on them with an attack."
+    },
+    {
+        "name": "Leftovers",
+        "description": "An item to be held by a Pokémon. It slowly but steadily restores the holder's HP."
+    },
+    {
+        "name": "Light Ball",
+        "description": "An item to be held by Pikachu. It's a mysterious orb that boosts Pikachu's Attack and Sp. Atk stats."
+    },
+    {
+        "name": "Magnet",
+        "description": "An item to be held by a Pokémon. It's a powerful magnet that boosts the power of the holder's Electric-type moves by 20%."
+    },
+    {
+        "name": "Mental Herb",
+        "description": "An item to be held by a Pokémon. The holder will be able to shake off move-binding effects to move freely — but only once."
+    },
+    {
+        "name": "Metal Coat",
+        "description": "An item to be held by a Pokémon. It's a special metallic coating that boosts the power of the holder's Steel-type moves by 20%."
+    },
+    {
+        "name": "Miracle Seed",
+        "description": "An item to be held by a Pokémon. It's a seed imbued with life force that boosts the power of the holder's Grass-type moves by 20%."
+    },
+    {
+        "name": "Mystic Water",
+        "description": "An item to be held by a Pokémon. This teardrop-shaped gem boosts the power of the holder's Water-type moves by 20%."
+    },
+    {
+        "name": "Never-Melt Ice",
+        "description": "An item to be held by a Pokémon. It's a heat-repelling piece of ice that boosts the power of the holder's Ice- type moves by 20%."
+    },
+    {
+        "name": "Poison Barb",
+        "description": "An item to be held by a Pokémon. This small poisonous barb boosts the power of the holder's Poison-type moves by 20%."
+    },
+    {
+        "name": "Quick Claw",
+        "description": "An item to be held by a Pokémon. This light, sharp claw lets the holder occasionally unleash a move faster than it usually would."
+    },
+    {
+        "name": "Scope Lens",
+        "description": "An item to be held by a Pokémon. It's a lens for scoping out weak points. It boosts the holder's critical-hit ratio."
+    },
+    {
+        "name": "Sharp Beak",
+        "description": "An item to be held by a Pokémon. It's a long, sharp beak that boosts the power of the holder's Flying-type moves by 20%."
+    },
+    {
+        "name": "Shell Bell",
+        "description": "An item to be held by a Pokémon. The holder restores a little HP to itself every time it inflicts damage with an attack."
+    },
+    {
+        "name": "Silk Scarf",
+        "description": "An item to be held by a Pokémon. It's a sumptuous scarf that boosts the power of the holder's Normal-type moves."
+    },
+    {
+        "name": "Silver Powder",
+        "description": "An item to be held by a Pokémon. It's a shiny silver powder that boosts the power of the holder's Bug-type moves by 20%."
+    },
+    {
+        "name": "Soft Sand",
+        "description": "An item to be held by a Pokémon. This loose, silky sand boosts the power of the holder's Ground-type moves by 20%."
+    },
+    {
+        "name": "Spell Tag",
+        "description": "It's a sinister, eerie tag that boosts the power of the holder's Ghost-type moves by 20%."
+    },
+    {
+        "name": "Twisted Spoon",
+        "description": "An item to be held by a Pokémon. This spoon is imbued with telekinetic energy and boosts the power of the holder's Psychic-type moves by 20%."
+    },
+    {
+        "name": "White Herb",
+        "description": "An item to be held by a Pokémon. It will restore any lowered stat in battle—but only once."
+    },
+    {
+        "name": "Roseli Berry",
+        "description": "Halves the damage taken when the holder is hit with a supereffective Fairy-type move. Disappears for the duration of the battle after a single use."
+    },
+    {
+        "name": "Chople Berry",
+        "description": "Halves the damage taken when the holder is hit with a supereffective Fighting-type move. Disappears for the duration of the battle after a single use."
+    },
+    {
+        "name": "Sitrus Berry",
+        "description": "Restores 1/4 of the holder's max HP when the holder's HP drops to 1/2 or less of its max. Disappears for the duration of the battle after a single use."
+    },
+    {
+        "name": "Lum Berry",
+        "description": "Cures any status condition or confusion. Disappears for the duration of the battle after a single use."
+    }
+]

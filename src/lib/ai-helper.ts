@@ -6,7 +6,8 @@ export function generateAIPrompt(
   state: BattleState,
   recommendations: MoveRecommendation[],
   userContext?: string,
-  discussionHistory?: DiscussionMessage[]
+  discussionHistory?: DiscussionMessage[],
+  availableItems?: string[]
 ): string {
   const format = state.format;
   const myActive = state.myActiveIndices.map(i => state.myTeam[i]);
@@ -40,12 +41,15 @@ OPPONENT POKEMON ${i + 1}: ${p.name}
     .join('\n');
   const cleanedUserContext = (userContext || '').trim();
 
+  const itemConstraint = availableItems ? `\nITEM RESTRICTION: Opponent items can ONLY be from this list: ${availableItems.join(', ')} (plus any relevant Mega Stones).` : '';
+
   return `
 As a Pokémon Battle Expert for "Pokémon Champions", analyze the current turn in a ${format} Battle.
 
 CONTEXT:
 - Weather: ${state.weather}
 - Turn: ${state.turn}
+${itemConstraint}
 
 ${myTeamInfo}
 
@@ -64,34 +68,44 @@ TASK:
 `;
 }
 
-export function generateTeamPredictionPrompt(state: BattleState): string {
+export function generateTeamPredictionPrompt(state: BattleState, battleHistory?: string, availableItems?: string[]): string {
   const format = state.format;
   const myTeamNames = state.myTeam.map(p => `${p.name} (Item: ${p.item || 'None'})`).join(', ');
   const oppTeamNames = state.opponentTeam.map(p => `${p.name} (Item: ${p.item || 'Unknown'})`).join(', ');
 
+  const itemConstraint = availableItems ? `\nITEM RESTRICTION: When predicting opponent items, ONLY use items from this list: ${availableItems.join(', ')} (or relevant Mega Stones).` : '';
+
   return `
-As a Pokémon Battle Expert for "Pokémon Champions", perform a Pre-Battle Analysis for a ${format} Battle.
+As a Pokémon Battle Expert for "Pokémon Champions", perform a Battle Analysis for a ${format} Battle.
 
 TEAM DATA:
-- MY TEAM (6 Pokémon): ${myTeamNames}
-- OPPONENT TEAM (6 Pokémon): ${oppTeamNames}
+- MY TEAM: ${myTeamNames}
+- OPPONENT TEAM: ${oppTeamNames}
+${itemConstraint}
+
+${battleHistory ? `BATTLE PROGRESS SO FAR:\n${battleHistory}\n` : ''}
+
+STRATEGIC CONSIDERATIONS:
+1. MEGA EVOLUTION: Opponent Pokémon might hold Mega Stones. For example, a Delphox could be a Mega Delphox. Always consider the highest threat version of a Pokémon.
+2. PRIORITY & DEFENSIVE MOVES: Always account for priority moves (e.g., Sucker Punch, Extreme Speed, Fake Out) and defensive/counter moves (e.g., Protect, Focus Sash, Counter, Mirror Coat). 
+3. PREDICTIVE PLAY: Analyze how the opponent might react to my moves and suggest ways to outplay them.
 
 TASK:
-Provide a concise and strategic analysis with the following structure:
+Provide a concise and strategic analysis:
 
 1. BRING 4 RECOMMENDATION (MINE):
-   - List the 4 Pokémon I should select from my 6 to best counter their team.
-   - Explain why these 4 provide the best coverage or synergy.
+   - List the 4 Pokémon I should select (or are currently active) to best counter their team.
+   - Explain why these provide the best coverage or synergy.
 
-2. OPPONENT'S LIKELY 4:
-   - Predict which 4 Pokémon the opponent is most likely to bring.
-   - Briefly explain their likely win condition.
+2. OPPONENT'S LIKELY 4 & WIN CONDITION:
+   - Predict which 4 Pokémon the opponent will bring/use.
+   - Identify their primary win condition and how to disrupt it.
 
-3. STARTING LEAD RECOMMENDATION:
-   - Suggest 2 Pokémon for me to Lead with.
-   - Predict the opponent's 2 most likely Leads.
-   - Explain the turn 1 interaction and why my lead is favorable.
+3. NEXT STEPS / LEAD RECOMMENDATION:
+   - If starting: Suggest 2 Leads and predict their Leads.
+   - If mid-battle: Suggest the best moves/switches for the current turn based on the Battle Progress.
+   - Explain priority interactions (e.g., "Watch out for Sucker Punch from Kingambit if you attack").
 
-Keep the tone professional, concise, and focused on competitive VGC/Double Battle meta-game.
+Keep the tone professional, concise, and focused on high-level competitive play.
 `;
 }

@@ -3253,6 +3253,10 @@
       {
         "name": "Sand Veil",
         "description": "Boosts the Pokémon's evasiveness by 25% in a sandstorm."
+      },
+      {
+        "name": "Rough Skin",
+        "description": "When the Pokémon is hit by a contact move, the attacker takes damage equal to 1/8 of its max HP."
       }
     ],
     "moves": [
