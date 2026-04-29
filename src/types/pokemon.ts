@@ -47,6 +47,7 @@ export interface Ability {
 export interface Pokemon {
   id: string;
   name: string;
+  pokedexNumber?: number;
   types: PokemonType[];
   stats: Stats;
   bst: number;
@@ -65,6 +66,8 @@ export interface BattlePokemon extends Pokemon {
   currentHp: number;
   selectedMoves: Move[];
   activeAbility?: Ability;
+  nature?: string;
+  evs?: Partial<Stats>;
   item?: string;
   status: StatusCondition;
   toxicCounter: number;
